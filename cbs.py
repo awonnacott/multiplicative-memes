@@ -6,7 +6,7 @@ import csv
 import os
 
 positions = ['QB', 'RB', 'WR', 'TE', 'K', 'DST']
-weeks = range(1, 21)
+weeks = range(1, 18)
 writers = ['jamey_eisenberg', 'dave_richard']
 source = ['cbs1', 'cbs2']
 leaguetype = 'standard'
