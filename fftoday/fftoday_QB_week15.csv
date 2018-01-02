@@ -1,0 +1,38 @@
+Chg,"Player
+Sort First: 
+
+
+
+		Last:",Team,Opp,Comp,Att,Yard,TD,INT,Att,Yard,TD,FFPts
+,Tom Brady,NE,@PIT,25,39,320,3,0,0,0,0,28.0
+,Ben Roethlisberger,PIT,NE,26,43,295,3,1,0,0,0,26.8
+,Cam Newton,CAR,GB,20,31,240,2,0,8,45,0,24.5
+,Russell Wilson,SEA,LAR,20,32,240,2,0,8,40,0,24.0
+,Aaron Rodgers,GB,@CAR,23,34,260,2,1,4,20,0,23.0
+,Alex Smith,KC,LAC,23,33,250,2,0,5,25,0,23.0
+,Jameis Winston,TB,ATL,22,35,280,2,1,3,10,0,23.0
+,Blake Bortles,JAC,HOU,20,32,245,2,1,6,25,0,22.8
+,Dak Prescott,DAL,@OAK,22,35,245,2,0,3,25,0,22.8
+,Matthew Stafford,DET,CHI,25,38,285,2,0,1,5,0,22.8
+,Kirk Cousins,WAS,ARI,22,36,270,2,1,2,10,0,22.5
+,Jared Goff,LAR,@SEA,26,40,280,2,1,2,5,0,22.5
+,Philip Rivers,LAC,@KC,24,38,290,2,0,0,0,0,22.5
+,Jimmy Garoppolo,SF,TEN,20,39,275,2,1,1,5,0,22.3
+,Matt Ryan,ATL,@TB,25,37,275,2,1,1,5,0,22.3
+,Nick Foles,PHI,@NYG,23,36,260,2,1,2,10,0,22.0
+,Case Keenum,MIN,CIN,21,36,250,2,1,4,15,0,22.0
+,Blaine Gabbert,ARI,@WAS,20,32,240,2,1,4,15,0,21.5
+,Joe Flacco,BAL,@CLE,21,38,255,2,1,2,5,0,21.3
+,Drew Brees,NO,NYJ,24,37,260,2,0,0,0,0,21.0
+,Jay Cutler,MIA,@BUF,20,33,245,2,1,1,5,0,20.8
+,DeShone Kizer,CLE,BAL,18,32,220,1,2,7,35,0,18.5
+,Andy Dalton,CIN,@MIN,20,32,230,1,0,3,15,0,17.0
+,Marcus Mariota,TEN,@SF,17,29,215,1,1,4,20,0,16.8
+,Jacoby Brissett,IND,DEN,16,28,200,1,1,6,25,0,16.5
+,Derek Carr,OAK,DAL,20,32,250,1,0,0,0,0,16.5
+,Trevor Siemian,DEN,@IND,18,31,225,1,1,1,10,0,16.3
+,Tyrod Taylor,BUF,MIA,14,23,185,1,1,4,25,0,15.8
+,Eli Manning,NYG,PHI,18,30,230,1,1,0,0,0,15.5
+,Bryce Petty,NYJ,@NO,16,25,190,1,1,5,10,0,14.5
+,Mitchell Trubisky,CHI,@DET,15,25,180,1,1,4,15,0,14.5
+,T.J. Yates,HOU,@JAC,15,26,185,1,1,2,10,0,14.3
