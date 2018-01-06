@@ -2,15 +2,8 @@
 
 from clean_data import clean, experts, positions, num_weeks, points_weights, eta
 
-experts = ["espn", "nfl", "fftoday"]
-positions = ["QB", "RB", "WR", "TE"]
-num_weeks = 17
-points_weights = [.04, 4, -2, .1, 6, .1, 6]
 cost_scalars = {"QB": 0.004, "RB": 0.002, "WR": 0.0015, "TE": 0.004}
-<<<<<<< HEAD
 eta = 0.25
-=======
->>>>>>> d9eb456476764f6a9cfb30d555401a588e6bfbcc
 
 for pos in positions:
     print("Position:", pos)

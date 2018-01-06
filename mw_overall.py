@@ -2,10 +2,6 @@
 
 from clean_data import clean, experts, positions, num_weeks, points_weights, eta
 
-experts = ["espn", "nfl", "fftoday"]
-positions = ["QB", "RB", "WR", "TE"]
-num_weeks = 17
-points_weights = [.04, 4, -2, .1, 6, .1, 6]
 cost_scalar = .0007
 
 weights = {expert: 1.0 / len(experts) for expert in experts}
@@ -35,3 +31,4 @@ for week in range(1, num_weeks + 1):
         weights[expert] *= 1 - eta * costs[expert]
     print("Costs:", costs, weekly_cost)
     cost += weekly_cost
+print "Total cost:", cost

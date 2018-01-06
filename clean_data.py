@@ -78,6 +78,6 @@ def clean(pos, week, source):
             print("Unrecognized source.")
         return stats
 
+
 if __name__ == "__main":
-    print(clean("WR", "10", "fftoday"))
     print(clean("WR", "10", "truevalues"))
