@@ -13,9 +13,7 @@ def clean(pos, week, source):
             next(reader)  # discard first row
             if pos == "QB" or pos == "RB" or pos == "WR" or pos == "TE":
                 for row in reader:
-                    player = row[0]
-                    if(player[len(player) - 1] == '*'):
-                        player = player[:(len(player) - 1)]
+                    player = row[0].rstrip('*')
                     stats[player] = [float(row[i]) for i in [4, 5, 6, 8, 9, 11, 12]]
             else:
                 print("Unrecognized position.")
@@ -25,11 +23,10 @@ def clean(pos, week, source):
             next(reader)
             if pos == "QB":
                 for row in reader:
-                    stats[row[1]] = [float(row[6]), float(row[7]), float(row[8]), float(row[10]),
-                                     float(row[11]), 0, 0]
+                    stats[row[1]] = [float(row[i]) for i in [6, 7, 8, 10, 11]] + [0, 0]
             elif pos == "RB":
                 for row in reader:
-                    stats[row[1]] = [0, 0, 0, float(row[5]), float(row[6]), float(row[8]), float(row[9])]
+                    stats[row[1]] = [0, 0, 0] + [float(row[i]) for i in [5, 6, 8, 9]]
             elif pos == "WR":
                 for row in reader:
                     stats[row[1]] = [0, 0, 0, 0, 0, float(row[5]), float(row[6])]
@@ -61,11 +58,10 @@ def get_true_values(pos, week):
         next(reader)  # discard first row
         if pos == "QB":
             for row in reader:
-                stats[row[0]] = [float(row[3]), float(row[4]), float(row[5]), float(row[9]),
-                                 float(row[11]), 0, 0]
+                stats[row[0]] = [float(row[i]) for i in [3, 4, 5, 9, 11]] + [0, 0]
         elif pos == "RB":
             for row in reader:
-                stats[row[0]] = [0, 0, 0, float(row[2]), float(row[4]), float(row[6]), float(row[8])]
+                stats[row[0]] = [0, 0, 0] + [float(row[i]) for i in [2, 4, 6, 8]]
         elif pos == "WR":
             for row in reader:
                 stats[row[0]] = [0, 0, 0, 0, 0, float(row[2]), float(row[4])]
