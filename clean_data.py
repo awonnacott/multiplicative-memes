@@ -2,6 +2,12 @@
 
 import csv
 
+experts = ["espn", "nfl", "fftoday"]
+positions = ["QB", "RB", "WR", "TE"]
+num_weeks = 17
+points_weights = [.04, 4, -2, .1, 6, .1, 6]
+eta = .25
+
 
 def clean(pos, week, source):
     # Player, passing YDS, passing TD, INT, rushing YDS, rushing TD, receiving YDS, receiving TD
@@ -73,4 +79,8 @@ def clean(pos, week, source):
         return stats
 
 if __name__ == "__main":
+<<<<<<< HEAD
     print(clean("WR", "10", "fftoday"))
+=======
+    print(clean("WR", "10", "truevalues"))
+>>>>>>> aef49c72237db20db3c27bd4e5dc287763ed3de3

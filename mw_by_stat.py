@@ -1,18 +1,13 @@
 #!/usr/bin/env python3
 
-from clean_data import clean
+from clean_data import clean, experts, positions, num_weeks, points_weights, eta
 
-experts = ["espn", "nfl", "fftoday"]
-positions = ["QB", "RB", "WR", "TE"]
-num_weeks = 17
-points_weights = [.04, 4, -2, .1, 6, .1, 6]
 cost_scalars = {
     "QB": [0.007, 0.009, 0.020, 0.050, 0.050, 1.000, 1.000],
     "RB": [1.000, 1.000, 1.000, 0.005, 0.008, 0.010, 0.020],
     "WR": [1.000, 1.000, 1.000, 0.250, 0.750, 0.002, 0.004],
     "TE": [1.000, 1.000, 1.000, 2.500, 6.000, 0.010, 0.010],
 }
-eta = .25
 
 for pos in positions:
     print("Position:", pos)
