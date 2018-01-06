@@ -1,13 +1,8 @@
 #!/usr/bin/env python3
 
-from clean_data import clean
+from clean_data import clean, experts, positions, num_weeks, points_weights, eta
 
-experts = ["espn", "nfl", "fftoday"]
-positions = ["QB", "RB", "WR", "TE"]
-num_weeks = 17
-points_weights = [.04, 4, -2, .1, 6, .1, 6]
 cost_scalar = .001
-eta = .25
 
 weights = {expert: 1.0 / len(experts) for expert in experts}
 cost = 0
