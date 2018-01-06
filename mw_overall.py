@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 
-from clean_data import clean, experts, positions, num_weeks, points_weights, eta
+from clean_data import clean, experts, positions, num_weeks, points_weights
 
-cost_scalar = .0007
+cost_scalar = 0.0007
+eta = 0.25
 
 weights = {expert: 1.0 / len(experts) for expert in experts}
 cost = 0

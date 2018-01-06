@@ -6,7 +6,6 @@ experts = ["espn", "nfl", "fftoday"]
 positions = ["QB", "RB", "WR", "TE"]
 num_weeks = 17
 points_weights = [.04, 4, -2, .1, 6, .1, 6]
-eta = .25
 
 
 def clean(pos, week, source):

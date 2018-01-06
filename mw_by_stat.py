@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from clean_data import clean, experts, positions, num_weeks, points_weights, eta
+from clean_data import clean, experts, positions, num_weeks, points_weights
 
 cost_scalars = {
     "QB": [0.007, 0.009, 0.020, 0.050, 0.050, 0.000, 0.000],
@@ -8,6 +8,7 @@ cost_scalars = {
     "WR": [0.000, 0.000, 0.000, 0.250, 0.750, 0.002, 0.004],
     "TE": [0.000, 0.000, 0.000, 0.000, 0.000, 0.010, 0.010],
 }
+eta = 0.25
 
 for pos in positions:
     print("Position:", pos)
