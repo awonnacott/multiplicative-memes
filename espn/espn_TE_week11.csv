@@ -23,7 +23,7 @@ Eric Ebron,@Chi,W 27-24,0/0,0,0,0,0,0,0,2.6,27.3,0.2,6.3
 Tyler Higbee,@Min,L 7-24,0/0,0,0,0,0,0,0,2.3,26.6,0.2,6.1
 Virgil Green,Cin,L 17-20,0/0,0,0,0,0,0,0,2.7,25.2,0.1,6.1
 Martellus Bennett*,@Oak,W 33-8,0/0,0,0,0,0,0,0,2.4,24.9,0.2,6
-Jermaine Gresham*,@Hou,L 21-31,0/0,0,0,0,0,0,0,2.4,24.7,0.2,5.8
+Jermaine Gresham,@Hou,L 21-31,0/0,0,0,0,0,0,0,2.4,24.7,0.2,5.8
 Coby Fleener*,Wsh,W 34-31,0/0,0,0,0,0,0,0,1.8,23,0.3,5.6
 Antonio Gates,Buf,W 54-24,0/0,0,0,0,0,0,0,2,22.8,0.2,5.6
 Marcedes Lewis,@Cle,W 19-7,0/0,0,0,0,0,0,0,1.7,19.7,0.2,5
@@ -39,3 +39,83 @@ Gerald Everett,@Min,L 7-24,0/0,0,0,0,0,0,0,1.5,17,0.1,3.9
 Rhett Ellison,KC,W 12-9,0/0,0,0,0,0,0,0,1.6,16.5,0.1,3.9
 Nick Boyle,@GB,W 23-0,0/0,0,0,0,0,0,0,1.4,11.8,0.1,3
 Darren Fells,@Chi,W 27-24,0/0,0,0,0,0,0,0,1.1,12.1,0.1,3
+James O'Shaughnessy,@Cle,W 19-7,0/0,0,0,0,0,0,0,0.7,7.4,0,1.8
+Luke Willson,Atl,L 31-34,0/0,0,0,0,0,0,0,0.6,7.5,0.1,1.7
+Xavier Grimble,Ten,W 40-17,0/0,0,0,0,0,0,0,0.7,6.9,0.1,1.7
+Nick Vannett*,Atl,L 31-34,0/0,0,0,0,0,0,0,0.6,6.5,0.1,1.7
+Levine Toilolo*,@Sea,W 34-31,0/0,0,0,0,0,0,0,0.7,6.4,0,1.6
+Michael Hoomanawanui*,Wsh,W 34-31,0/0,0,0,0,0,0,0,0.5,5.8,0.1,1.5
+Maxx Williams,@GB,W 23-0,0/0,0,0,0,0,0,0,0.7,5.7,0,1.5
+Lee Smith,NE,L 8-33,0/0,0,0,0,0,0,0,0.6,5.3,0,1.4
+Brent Celek,@Dal,W 37-9,0/0,0,0,0,0,0,0,0.5,6,0.1,1.4
+Jeremy Sprinkle,@NO,L 31-34,0/0,0,0,0,0,0,0,0.5,5.2,0,1.2
+James Hanna,Phi,L 9-37,0/0,0,0,0,0,0,0,0.5,4.6,0,1.1
+Antony Auclair,@Mia,W 30-20,0/0,0,0,0,0,0,0,0.4,4.3,0,1.1
+Ben Koyack,@Cle,W 19-7,0/0,0,0,0,0,0,0,0.4,3.7,0,0.9
+Geoff Swaim,Phi,L 9-37,0/0,0,0,0,0,0,0,0.3,3.4,0,0.9
+Clive Walford*,NE,L 8-33,0/0,0,0,0,0,0,0,0.3,2.8,0,0.7
+Jerell Adams,KC,W 12-9,0/0,0,0,0,0,0,0,0.3,2.7,0,0.7
+Ricky Seals-Jones,@Hou,L 21-31,0/0,0,0,0,0,0,0,0.2,2.5,0,0.6
+MarQueis Gray,TB,L 20-30,0/0,0,0,0,0,0,0,0.2,2.3,0,0.6
+Blake Bell*,LAR,W 24-7,0/0,0,0,0,0,0,0,0.2,2.2,0,0.6
+David Morgan,LAR,W 24-7,0/0,0,0,0,0,0,0,0.2,2.2,0,0.6
+Michael Roberts,@Chi,W 27-24,0/0,0,0,0,0,0,0,0.2,2.1,0,0.6
+Phillip Supernaw,@Pit,L 17-40,0/0,0,0,0,0,0,0,0.2,2,0,0.5
+Logan Thomas,@LAC,L 24-54,0/0,0,0,0,0,0,0,0.2,2,0,0.5
+Dwayne Allen,@Oak,W 33-8,0/0,0,0,0,0,0,0,0.1,1.3,0,0.3
+Randall Telfer,Jax,L 7-19,0/0,0,0,0,0,0,0,0.1,1,0,0.2
+Kellen Winslow,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Alex Smith,@NO,L 31-34,0/0,0,0,0,0,0,0,0,0,0,0
+Owen Daniels,Cin,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
+Daniel Fells,KC,W 12-9,0/0,0,0,0,0,0,0,0,0,0,0
+Greg Olsen,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Matt Spaeth,Ten,W 40-17,0/0,0,0,0,0,0,0,0,0,0,0
+Scott Chandler*,@Oak,W 33-8,0/0,0,0,0,0,0,0,0,0,0,0
+Clark Harris,@Den,W 20-17,0/0,0,0,0,0,0,0,0,0,0,0
+Fred Davis,@NO,L 31-34,0/0,0,0,0,0,0,0,0,0,0,0
+Craig Stevens,@Pit,L 17-40,0/0,0,0,0,0,0,0,0,0,0,0
+Gary Barnidge,Jax,L 7-19,0/0,0,0,0,0,0,0,0,0,0,0
+Jacob Tamme,@Sea,W 34-31,0/0,0,0,0,0,0,0,0,0,0,0
+Kellen Davis,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Matthew Mulligan,@Chi,W 27-24,0/0,0,0,0,0,0,0,0,0,0,0
+David Johnson,Ten,W 40-17,0/0,0,0,0,0,0,0,0,0,0,0
+Jim Dray,@Hou,L 21-31,0/0,0,0,0,0,0,0,0,0,0,0
+Garrett Graham,Cin,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
+Clay Harbor*,Wsh,W 34-31,0/0,0,0,0,0,0,0,0,0,0,0
+Anthony McCoy,Atl,L 31-34,0/0,0,0,0,0,0,0,0,0,0,0
+Andrew Quarless,@Chi,W 27-24,0/0,0,0,0,0,0,0,0,0,0,0
+Richie Brockel,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Jeff Cumberland,Buf,W 54-24,0/0,0,0,0,0,0,0,0,0,0,0
+Logan Paulsen,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Rob Housler,@Oak,W 33-8,0/0,0,0,0,0,0,0,0,0,0,0
+Bruce Miller,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Luke Stocker,@Pit,L 17-40,0/0,0,0,0,0,0,0,0,0,0,0
+David Ausberry,@Chi,W 27-24,0/0,0,0,0,0,0,0,0,0,0,0
+D.J. Williams,@NO,L 31-34,0/0,0,0,0,0,0,0,0,0,0,0
+Jordan Cameron,TB,L 20-30,0/0,0,0,0,0,0,0,0,0,0,0
+Orson Charles,@NYG,L 9-12,0/0,0,0,0,0,0,0,0,0,0,0
+Ladarius Green,Ten,W 40-17,0/0,0,0,0,0,0,0,0,0,0,0
+Greg Scruggs,@Oak,W 33-8,0/0,0,0,0,0,0,0,0,0,0,0
+Garrett Celek,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Beau Brinkley,@Pit,L 17-40,0/0,0,0,0,0,0,0,0,0,0,0
+Dominique Jones,TB,L 20-30,0/0,0,0,0,0,0,0,0,0,0,0
+Derek Carrier,@Min,L 7-24,0/0,0,0,0,0,0,0,0,0,0,0
+Sean McGrath,Buf,W 54-24,0/0,0,0,0,0,0,0,0,0,0,0
+Chase Ford,@GB,W 23-0,0/0,0,0,0,0,0,0,0,0,0,0
+Cooper Helfet,NE,L 8-33,0/0,0,0,0,0,0,0,0,0,0,0
+Brandon Bostick,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Larry Donnell,@GB,W 23-0,0/0,0,0,0,0,0,0,0,0,0,0
+Ifeanyi Momah*,@Hou,L 21-31,0/0,0,0,0,0,0,0,0,0,0,0
+Tyler Eifert*,@Den,W 20-17,0/0,0,0,0,0,0,0,0,0,0,0
+Gavin Escobar,@GB,W 23-0,0/0,0,0,0,0,0,0,0,0,0,0
+Vance McDonald,Ten,W 40-17,0/0,0,0,0,0,0,0,0,0,0,0
+Jordan Reed*,@NO,L 31-34,0/0,0,0,0,0,0,0,0,0,0,0
+Ryan Griffin*,Ari,W 31-21,0/0,0,0,0,0,0,0,0,0,0,0
+Michael Williams,@Oak,W 33-8,0/0,0,0,0,0,0,0,0,0,0,0
+Mychal Rivera*,@Cle,W 19-7,0/0,0,0,0,0,0,0,0,0,0,0
+Chris Gragg*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Dion Sims,Det,L 24-27,0/0,0,0,0,0,0,0,0,0,0,0
+Justice Cunningham,@Min,L 7-24,0/0,0,0,0,0,0,0,0,0,0,0
+Chris Pantale,TB,L 20-30,0/0,0,0,0,0,0,0,0,0,0,0
+Timothy Wright,@Chi,W 27-24,0/0,0,0,0,0,0,0,0,0,0,0
+Brandon Williams*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
