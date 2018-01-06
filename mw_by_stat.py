@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from clean_data import clean, get_true_values
+from clean_data import clean
 
 experts = ["espn", "nfl", "fftoday"]
 positions = ["QB", "RB", "WR", "TE"]
@@ -27,8 +27,7 @@ for pos in positions:
             weight_sum = sum(weights[expert] for expert in experts)
             weekly_cost = 0
             costs = {expert: 0 for expert in experts}
-            # true_values = clean(pos, str(week), "true")
-            true_values = get_true_values(pos, str(week))
+            true_values = clean(pos, str(week), "truevalues")
             predictions = {expert: clean(pos, str(week), expert) for expert in experts}
             for player in true_values:
                 guess = 0

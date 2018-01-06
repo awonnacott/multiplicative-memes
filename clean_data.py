@@ -9,10 +9,20 @@ def clean(pos, week, source):
     filename = source + "/" + source + "_" + pos + "_week" + week + ".csv"
     with open(filename, 'r') as f:
         reader = csv.reader(f)
-        if source == "espn":
+        if source == "truevalues":
+            next(reader)
+            if pos == "QB" or pos == "RB" or pos == "WR" or pos == "TE":
+                for row in reader:
+                    row = ["0" if s == "--" or s == "" else s for s in row]
+                    player = row[0].rstrip('*')
+                    stats[player] = [float(row[i]) for i in [6, 7, 8, 11, 12, 15, 16]]
+            else:
+                print("Unrecognized position.")
+        elif source == "espn":
             next(reader)  # discard first row
             if pos == "QB" or pos == "RB" or pos == "WR" or pos == "TE":
                 for row in reader:
+                    row = ["0" if s == "--" else s for s in row]
                     player = row[0].rstrip('*')
                     stats[player] = [float(row[i]) for i in [4, 5, 6, 8, 9, 11, 12]]
             else:
