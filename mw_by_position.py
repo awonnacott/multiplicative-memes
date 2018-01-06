@@ -2,16 +2,12 @@
 
 from clean_data import clean, experts, positions, num_weeks, points_weights, eta
 
-<<<<<<< HEAD
 experts = ["espn", "nfl", "fftoday"]
 positions = ["QB", "RB", "WR", "TE"]
 num_weeks = 17
 points_weights = [.04, 4, -2, .1, 6, .1, 6]
 cost_scalars = {"QB": 0.004, "RB": 0.002, "WR": 0.0015, "TE": 0.004}
 eta = .25
-=======
-cost_scalars = {"QB": 0.007, "RB": 0.003, "WR": 0.002, "TE": 0.006}
->>>>>>> aef49c72237db20db3c27bd4e5dc287763ed3de3
 
 for pos in positions:
     print("Position:", pos)

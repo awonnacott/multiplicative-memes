@@ -79,8 +79,5 @@ def clean(pos, week, source):
         return stats
 
 if __name__ == "__main":
-<<<<<<< HEAD
     print(clean("WR", "10", "fftoday"))
-=======
     print(clean("WR", "10", "truevalues"))
->>>>>>> aef49c72237db20db3c27bd4e5dc287763ed3de3
