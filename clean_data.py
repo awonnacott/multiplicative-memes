@@ -28,7 +28,21 @@ def clean(pos, week, source):
             else:
                 print("Unrecognized position.")
         elif source == "cbs":
-            print("")
+            next(reader)  # discard first row
+            if pos == "QB":
+                for row in reader:
+                    stats[row[0]] = [float(row[i]) for i in [3, 4, 5, 9, 11]] + [0, 0]
+            elif pos == "RB":
+                for row in reader:
+                    stats[row[0]] = [0, 0, 0] + [float(row[i]) for i in [2, 4, 6, 8]]
+            elif pos == "WR":
+                for row in reader:
+                    stats[row[0]] = [0, 0, 0, 0, 0, float(row[2]), float(row[4])]
+            elif pos == "TE":
+                for row in reader:
+                    stats[row[0]] = [0, 0, 0, 0, 0, float(row[2]), float(row[4])]
+            else:
+                print("Unrecognized position.")
         elif source == "fftoday":
             next(reader)
             if pos == "QB":
@@ -58,31 +72,5 @@ def clean(pos, week, source):
             print("Unrecognized source.")
         return stats
 
-
-def get_true_values(pos, week):
-    # Player, passing YDS, passing TD, INT, rushing YDS, rushing TD, receiving YDS, receiving TD
-    stats = {}
-    filename = "cbs/week" + week + "_" + pos + "_cbs_dave_richard.csv"
-    with open(filename, 'r') as f:
-        reader = csv.reader(f)
-        next(reader)  # discard first row
-        if pos == "QB":
-            for row in reader:
-                stats[row[0]] = [float(row[i]) for i in [3, 4, 5, 9, 11]] + [0, 0]
-        elif pos == "RB":
-            for row in reader:
-                stats[row[0]] = [0, 0, 0] + [float(row[i]) for i in [2, 4, 6, 8]]
-        elif pos == "WR":
-            for row in reader:
-                stats[row[0]] = [0, 0, 0, 0, 0, float(row[2]), float(row[4])]
-        elif pos == "TE":
-            for row in reader:
-                stats[row[0]] = [0, 0, 0, 0, 0, float(row[2]), float(row[4])]
-        else:
-            print("Unrecognized position.")
-    return stats
-
-
 if __name__ == "__main":
     print(clean("WR", "10", "fftoday"))
-    print(get_true_values("TE", "10"))
