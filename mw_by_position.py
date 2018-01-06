@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from clean_data import clean
 from clean_data import get_true_values
 
@@ -5,18 +7,18 @@ experts = ["espn", "nfl", "fftoday"]
 positions = ["QB", "RB", "WR", "TE"]
 num_weeks = 17
 points_weights = [.04, 4, -2, .1, 6, .1, 6]
-cost_scalars = {"QB":.007, "RB":.003, "WR":.002, "TE":.006}
+cost_scalars = {"QB": 0.007, "RB": 0.003, "WR": 0.002, "TE": 0.006}
 eta = .25
 
 for pos in positions:
-    print "Position:", pos
+    print("Position:", pos)
     weights = {}
     cost = 0
     for expert in experts:
-        weights[expert] = float(1)/len(experts)
+        weights[expert] = float(1) / len(experts)
     for week in range(1, num_weeks + 1):
-        print "Week:", week
-        print "Weights:", weights
+        print("Week:", week)
+        print("Weights:", weights)
         weight_sum = 0
         for expert in experts:
             weight_sum += weights[expert]
@@ -24,7 +26,7 @@ for pos in positions:
         costs = {}
         for expert in experts:
             costs[expert] = 0
-        #true_values = clean(pos, str(week), "true")
+        # true_values = clean(pos, str(week), "true")
         true_values = get_true_values(pos, str(week))
         predictions = {}
         for expert in experts:
@@ -36,15 +38,15 @@ for pos in positions:
                 true_score += true_values[player][i] * points_weights[i]
             for expert in experts:
                 expert_score = 0
-                if predictions[expert].has_key(player):
+                if player in predictions[expert]:
                     for i in range(len(points_weights)):
                         expert_score += predictions[expert][player][i] * points_weights[i]
-                guess += (expert_score * weights[expert])
+                guess += expert_score * weights[expert]
                 costs[expert] += abs(expert_score - true_score)
             guess /= weight_sum
-            weekly_cost += (abs(guess - true_score) * cost_scalars[pos])
+            weekly_cost += abs(guess - true_score) * cost_scalars[pos]
         for expert in experts:
             costs[expert] *= cost_scalars[pos]
-            weights[expert] *= (1 - eta*costs[expert])
-        print "Costs:", costs, weekly_cost
+            weights[expert] *= 1 - eta * costs[expert]
+        print("Costs:", costs, weekly_cost)
         cost += weekly_cost

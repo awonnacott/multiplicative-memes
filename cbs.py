@@ -8,6 +8,7 @@ import os
 positions = ['QB', 'RB', 'WR', 'TE', 'K', 'DST']
 weeks = range(1, 18)
 
+
 def cbs(pos, week, leaguetype, writer):
     url = 'https://fantasynews.cbssports.com/fantasyfootball/stats/weeklyprojections/{pos}/{week}/avg/standard?&print_rows=9999'.format(pos=pos, week=week, leaguetype=leaguetype, writer=writer)
     contents = requests.get(url).content
