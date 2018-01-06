@@ -7,7 +7,7 @@ positions = ["QB", "RB", "WR", "TE"]
 num_weeks = 17
 points_weights = [.04, 4, -2, .1, 6, .1, 6]
 cost_scalars = {"QB": 0.004, "RB": 0.002, "WR": 0.0015, "TE": 0.004}
-eta = .25
+eta = 0.25
 
 for pos in positions:
     print("Position:", pos)
@@ -37,3 +37,4 @@ for pos in positions:
             weights[expert] *= 1 - eta * costs[expert]
         print("Costs:", costs, weekly_cost)
         cost += weekly_cost
+    print "Total cost:", cost
