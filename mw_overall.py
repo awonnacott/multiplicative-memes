@@ -7,7 +7,6 @@ positions = ["QB", "RB", "WR", "TE"]
 num_weeks = 17
 points_weights = [.04, 4, -2, .1, 6, .1, 6]
 cost_scalar = .0007
-eta = .25
 
 weights = {expert: 1.0 / len(experts) for expert in experts}
 cost = 0
