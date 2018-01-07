@@ -1,26 +1,47 @@
 Player,Opp,Made,0-19,20-29,30-39,40-49,50+,Points
 Stephen Gostkowski K - NE,@BUF,3.1,0.17,0.55,0.48,0.38,-,7.84
-Justin Tucker K - BAL View Videos,DET,2.54,0.05,0.49,0.6,0.53,-,7.55
+Justin Tucker K - BAL,DET,2.54,0.05,0.49,0.6,0.53,-,7.55
 Harrison Butker K - KC View Videos,@NYJ,2.42,0.17,0.54,0.48,0.46,-,7.37
-Brandon McManus K - DEN View Videos,@MIA,2.3,0.08,0.55,0.52,0.5,-,7.25
-Josh Lambo K - JAX View Videos,IND,2.29,0.07,0.57,0.53,0.48,-,7.24
+Brandon McManus K - DEN,@MIA,2.3,0.08,0.55,0.52,0.5,-,7.25
+Josh Lambo K - JAX,IND,2.29,0.07,0.57,0.53,0.48,-,7.24
 Kai Forbath K - MIN,@ATL,2.56,0.08,0.54,0.48,0.44,-,7.18
 Chris Boswell K - PIT,@CIN,2.5,0.06,0.56,0.48,0.45,-,7.15
 Graham Gano K - CAR,@NO,2.3,0.04,0.58,0.51,0.47,-,7.10
-Ryan Succop K - TEN View News View Videos,HOU,2.45,0.04,0.5,0.53,0.48,-,7.10
-Dan Bailey K - DAL View Videos,WAS,2.51,0.04,0.5,0.55,0.41,-,7.01
+Ryan Succop K - TEN View Videos,HOU,2.45,0.04,0.5,0.53,0.48,-,7.10
+Dan Bailey K - DAL,WAS,2.51,0.04,0.5,0.55,0.41,-,7.01
 Matt Bryant K - ATL View Videos,MIN,2.48,0.08,0.51,0.52,0.38,-,6.95
 Greg Zuerlein K - LA,@ARI,2.36,0.04,0.49,0.53,0.47,-,6.95
 Cairo Santos K - CHI,SF,2.04,0.07,0.55,0.5,0.51,-,6.93
 Jake Elliott K - PHI,@SEA,2.33,0.08,0.61,0.46,0.37,-,6.89
-Giorgio Tavecchio K - OAK View Videos,NYG,2.28,0.04,0.49,0.55,0.44,-,6.84
-Mason Crosby K - GB View Videos,TB,2.37,0.04,0.48,0.47,0.45,-,6.69
-Wil Lutz K - NO View Videos,CAR,2.45,0.12,0.5,0.46,0.33,-,6.68
-Patrick Murray K - TB View News View Videos,@GB,2.39,0.05,0.46,0.48,0.44,-,6.68
-Nick Rose K - LAC View Videos,CLE,2.45,0.05,0.48,0.48,0.39,-,6.65
-Matt Prater K - DET View News,@BAL,2.03,0.07,0.52,0.46,0.45,-,6.53
-Phil Dawson K - ARI View Videos,LA,2.03,0.05,0.44,0.53,0.44,-,6.41
-Ka'imi Fairbairn K - HOU View Videos,@TEN,1.71,0.04,0.49,0.52,0.51,-,6.39
-Aldrick Rosas K - NYG View Videos,@OAK,1.7,0.05,0.52,0.49,0.49,-,6.35
-Robbie Gould K - SF View News View Videos,@CHI,1.57,0.05,0.43,0.54,0.54,-,6.25
-Blair Walsh K - SEA View Videos,PHI,2.2,0.04,0.49,0.46,0.36,-,6.25
+Giorgio Tavecchio K - OAK,NYG,2.28,0.04,0.49,0.55,0.44,-,6.84
+Mason Crosby K - GB,TB,2.37,0.04,0.48,0.47,0.45,-,6.69
+Wil Lutz K - NO,CAR,2.45,0.12,0.5,0.46,0.33,-,6.68
+Patrick Murray K - TB,@GB,2.39,0.05,0.46,0.48,0.44,-,6.68
+Nick Rose K - LAC,CLE,2.45,0.05,0.48,0.48,0.39,-,6.65
+Matt Prater K - DET,@BAL,2.03,0.07,0.52,0.46,0.45,-,6.53
+Phil Dawson K - ARI,LA,2.03,0.05,0.44,0.53,0.44,-,6.41
+Ka'imi Fairbairn K - HOU,@TEN,1.71,0.04,0.49,0.52,0.51,-,6.39
+Aldrick Rosas K - NYG,@OAK,1.7,0.05,0.52,0.49,0.49,-,6.35
+Robbie Gould K - SF,@CHI,1.57,0.05,0.43,0.54,0.54,-,6.25
+Blair Walsh K - SEA,PHI,2.2,0.04,0.49,0.46,0.36,-,6.25
+Stephen Hauschka K - BUF,NE,1.86,0.1,0.5,0.43,0.4,-,6.15
+Chandler Catanzaro K - NYJ,KC,1.79,0.09,0.44,0.48,0.43,-,6.11
+Randy Bullock K - CIN,PIT,1.91,0.05,0.46,0.48,0.4,-,6.08
+Cody Parkey K - MIA,DEN,1.71,0.06,0.44,0.47,0.46,-,6.00
+Zane Gonzalez K - CLE,@LAC,1.32,0.06,0.4,0.56,0.44,-,5.70
+Adam Vinatieri K - IND,@JAX,1.54,0.04,0.4,0.45,0.47,-,5.62
+Roberto Aguayo K,Bye,-,-,-,-,-,-,-
+Connor Barth K,Bye,-,-,-,-,-,-,-
+Dan Carpenter K,Bye,-,-,-,-,-,-,-
+Travis Coons K,Bye,-,-,-,-,-,-,-
+Sam Ficken K - LA View Videos,@ARI,-,-,-,-,-,-,0.00
+Nick Folk K - TB,@GB,-,-,-,-,-,-,0.00
+Andrew Franks K,Bye,-,-,-,-,-,-,-
+Dustin Hopkins K - WAS,@DAL,-,-,-,-,-,-,0.00
+Sebastian Janikowski K - OAK,NYG,-,-,-,-,-,-,0.00
+Younghoe Koo K,Bye,-,-,-,-,-,-,-
+Mike Meyer K,Bye,-,-,-,-,-,-,-
+Jason Myers K,Bye,-,-,-,-,-,-,-
+Nick Novak K - LAC,CLE,-,-,-,-,-,-,0.00
+Mike Nugent K - CHI,SF,-,-,-,-,-,-,0.00
+Caleb Sturgis K - PHI,@SEA,-,-,-,-,-,-,0.00

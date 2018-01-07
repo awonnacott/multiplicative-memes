@@ -1,26 +1,314 @@
 Player,Opp,Yds,TD,Int,Yds,TD,Yds,TD,FumTD,2PT,Lost,Points
-DeAndre Hopkins WR - HOU View News View Videos,ARI,-,-,-,-,-,83.08,0.55,-,0.01,0.04,11.55
+DeAndre Hopkins WR - HOU View Videos,ARI,-,-,-,-,-,83.08,0.55,-,0.01,0.04,11.55
 Antonio Brown WR - PIT,TEN,-,-,-,-,-,83.8,0.53,-,0.01,0.04,11.50
 Julio Jones WR - ATL View News View Videos,@SEA,-,-,-,-,-,84.16,0.5,-,-,0.04,11.34
-Adam Thielen WR - MIN View Videos,LA,-,-,-,0.16,0.01,76.75,0.48,-,-,0.04,10.55
-Michael Thomas WR - NO View Videos,WAS,-,-,-,0.01,0.01,74.38,0.48,-,-,0.04,10.30
-A.J. Green WR - CIN View Videos,@DEN,-,-,-,-,-,75.64,0.46,-,-,0.04,10.24
-Brandin Cooks WR - NE View Videos,@OAK,-,-,-,0.46,-,72.8,0.44,-,0.01,0.04,9.91
-Robert Woods WR - LA,@MIN,-,-,-,1.04,0.01,69.13,0.47,-,0.01,0.04,9.84
-Jamison Crowder WR - WAS View Videos,@NO,-,-,-,4.32,0.03,66.77,0.36,-,-,0.05,9.35
-Doug Baldwin WR - SEA View Videos,ATL,-,-,-,-,-,67.37,0.41,-,0.01,0.03,9.16
-Golden Tate WR - DET View Videos,@CHI,-,-,-,0.47,-,67.27,0.41,-,-,0.04,9.15
-Mike Evans WR - TB View News View Videos,@MIA,-,-,-,-,-,65.8,0.43,-,0.01,0.04,9.10
-DeVante Parker WR - MIA View Videos,TB,-,-,-,-,-,66.97,0.39,-,0.01,0.04,8.98
+Adam Thielen WR - MIN,LA,-,-,-,0.16,0.01,76.75,0.48,-,-,0.04,10.55
+Michael Thomas WR - NO,WAS,-,-,-,0.01,0.01,74.38,0.48,-,-,0.04,10.30
+A.J. Green WR - CIN,@DEN,-,-,-,-,-,75.64,0.46,-,-,0.04,10.24
+Brandin Cooks WR - NE,@OAK,-,-,-,0.46,-,72.8,0.44,-,0.01,0.04,9.91
+Robert Woods WR - LA View News View Videos,@MIN,-,-,-,1.04,0.01,69.13,0.47,-,0.01,0.04,9.84
+Jamison Crowder WR - WAS,@NO,-,-,-,4.32,0.03,66.77,0.36,-,-,0.05,9.35
+Doug Baldwin WR - SEA,ATL,-,-,-,-,-,67.37,0.41,-,0.01,0.03,9.16
+Golden Tate WR - DET,@CHI,-,-,-,0.47,-,67.27,0.41,-,-,0.04,9.15
+Mike Evans WR - TB,@MIA,-,-,-,-,-,65.8,0.43,-,0.01,0.04,9.10
+DeVante Parker WR - MIA,TB,-,-,-,-,-,66.97,0.39,-,0.01,0.04,8.98
 Larry Fitzgerald WR - ARI View Videos,@HOU,-,-,-,-,-,66.7,0.39,-,0.01,0.03,8.97
 Sterling Shepard WR - NYG,KC,-,-,-,1.53,0.01,64.21,0.4,-,-,0.04,8.95
-Dez Bryant WR - DAL View Videos,PHI,-,-,-,-,-,64.79,0.41,-,0.01,0.03,8.90
-Stefon Diggs WR - MIN View Videos,LA,-,-,-,1.38,0.01,60.67,0.44,-,0.01,0.03,8.87
-Tyreek Hill WR - KC,@NYG,-,-,-,8.62,0.05,56.84,0.35,-,-,0.05,8.85
-Keenan Allen WR - LAC View Videos,BUF,-,-,-,0.88,0.01,65.77,0.34,-,0.01,0.04,8.71
+Dez Bryant WR - DAL,PHI,-,-,-,-,-,64.79,0.41,-,0.01,0.03,8.90
+Stefon Diggs WR - MIN,LA,-,-,-,1.38,0.01,60.67,0.44,-,0.01,0.03,8.87
+Tyreek Hill WR - KC View News View Videos,@NYG,-,-,-,8.62,0.05,56.84,0.35,-,-,0.05,8.85
+Keenan Allen WR - LAC,BUF,-,-,-,0.88,0.01,65.77,0.34,-,0.01,0.04,8.71
 JuJu Smith-Schuster WR - PIT View Videos,TEN,-,-,-,0.61,0.01,59.45,0.44,-,0.01,0.04,8.65
 Emmanuel Sanders WR - DEN,CIN,-,-,-,-,-,64.81,0.37,-,-,0.03,8.64
 Davante Adams WR - GB,BAL,-,-,-,0.17,-,56.6,0.45,-,0.01,0.03,8.34
 Michael Crabtree WR - OAK,NE,-,-,-,-,-,59.23,0.41,-,0.01,0.03,8.34
-Marqise Lee WR - JAX,@CLE,-,-,-,0.78,-,62.27,0.34,-,0.02,0.04,8.31
-Marvin Jones WR - DET View Videos,@CHI,-,-,-,-,-,59.11,0.39,-,0.01,0.03,8.21
+Marqise Lee WR - JAX View Videos,@CLE,-,-,-,0.78,-,62.27,0.34,-,0.02,0.04,8.31
+Marvin Jones WR - DET,@CHI,-,-,-,-,-,59.11,0.39,-,0.01,0.03,8.21
+Jarvis Landry WR - MIA,TB,-,-,-,0.01,-,61.07,0.35,-,0.01,0.04,8.15
+Paul Richardson WR - SEA,ATL,-,-,-,0.06,-,53.03,0.48,-,0.01,0.03,8.15
+Alshon Jeffery WR - PHI,@DAL,-,-,-,-,-,58.02,0.37,-,0.02,0.03,8.00
+Rishard Matthews WR - TEN View Videos,@PIT,-,-,-,-,-,57.6,0.36,-,0.01,0.03,7.88
+Demaryius Thomas WR - DEN,CIN,-,-,-,-,-,55.76,0.34,-,0.01,0.03,7.58
+Kelvin Benjamin WR - BUF View Videos,@LAC,-,-,-,-,-,54.6,0.34,-,-,0.03,7.44
+DeSean Jackson WR - TB,@MIA,-,-,-,0.02,-,56.15,0.31,-,0.01,0.03,7.44
+Ted Ginn WR - NO,WAS,-,-,-,1.27,0.01,50.2,0.37,-,0.01,0.03,7.39
+Amari Cooper WR - OAK,NE,-,-,-,0.74,-,53.7,0.3,-,0.01,0.03,7.20
+Cooper Kupp WR - LA View News View Videos,@MIN,-,-,-,0.52,0.01,50.38,0.33,-,-,0.03,7.07
+Jordy Nelson WR - GB,BAL,-,-,-,-,-,48.86,0.36,-,0.01,0.02,7.03
+Sammy Watkins WR - LA View Videos,@MIN,-,-,-,0.14,-,47.32,0.38,-,0.01,0.02,7.01
+Mohamed Sanu WR - ATL View Videos,@SEA,-,-,-,0.06,-,48.31,0.35,-,-,0.03,6.88
+Jeremy Maclin WR - BAL,@GB,-,-,-,-,-,50.34,0.31,-,0.01,0.03,6.85
+Kenny Stills WR - MIA,TB,-,-,-,-,-,47.88,0.33,-,-,0.03,6.71
+Corey Davis WR - TEN View Videos,@PIT,-,-,-,0.5,-,50.71,0.26,-,-,0.04,6.60
+Bruce Ellington WR - HOU,ARI,-,-,-,0.76,0.01,44.84,0.28,-,0.01,0.03,6.26
+Dontrelle Inman WR - CHI,DET,-,-,-,-,-,46.15,0.28,-,0.01,0.03,6.26
+Randall Cobb WR - GB,BAL,-,-,-,6.14,0.04,40.22,0.22,-,0.01,0.03,6.16
+Brandon LaFell WR - CIN View News,@DEN,-,-,-,-,-,43.73,0.27,-,-,0.02,5.95
+Nelson Agholor WR - PHI,@DAL,-,-,-,0.27,-,39.74,0.31,-,0.01,0.03,5.82
+Martavis Bryant WR - PIT,TEN,-,-,-,2.96,0.02,41.06,0.21,-,0.02,0.03,5.76
+Terrance Williams WR - DAL,PHI,-,-,-,-,-,41.84,0.24,-,0.01,0.02,5.60
+Kenny Golladay WR - DET,@CHI,-,-,-,0.54,-,38.68,0.28,-,0.01,0.03,5.56
+Tyler Lockett WR - SEA,ATL,-,-,-,3.6,0.03,38.04,0.21,-,-,0.05,5.50
+Tyrell Williams WR - LAC,BUF,-,-,-,-,-,40.6,0.22,-,-,0.02,5.34
+Josh Doctson WR - WAS,@NO,-,-,-,0.01,-,38.07,0.26,-,-,0.03,5.31
+Josh Bellamy WR - CHI,DET,-,-,-,0.02,-,37.86,0.24,-,-,0.02,5.19
+Travis Benjamin WR - LAC,BUF,-,-,-,3.63,0.03,33.22,0.21,-,0.01,0.02,5.11
+Mike Wallace WR - BAL,@GB,-,-,-,-,-,37.58,0.23,-,-,0.02,5.10
+Cole Beasley WR - DAL,PHI,-,-,-,-,-,34.13,0.27,-,-,0.02,4.99
+Jaron Brown WR - ARI View News,@HOU,-,-,-,-,-,35.66,0.23,-,-,0.02,4.91
+Corey Coleman WR - CLE,JAX,-,-,-,0.94,0.01,35.46,0.21,-,-,0.03,4.90
+Keelan Cole WR - JAX View Videos,@CLE,-,-,-,0.41,-,36.54,0.19,-,-,0.03,4.78
+Danny Amendola WR - NE,@OAK,-,-,-,-,-,34.92,0.22,-,-,0.02,4.77
+Kendall Wright WR - CHI,DET,-,-,-,0.03,-,35.02,0.21,-,0.01,0.02,4.75
+Willie Snead WR - NO,WAS,-,-,-,-,-,34.15,0.21,-,-,0.02,4.64
+De'Anthony Thomas WR - KC,@NYG,-,-,-,0.5,-,32.94,0.22,-,0.01,0.04,4.60
+Taylor Gabriel WR - ATL,@SEA,-,-,-,2.56,0.02,30.64,0.19,-,-,0.03,4.52
+Jordan Matthews WR - BUF,@LAC,-,-,-,-,-,34.1,0.19,-,-,0.02,4.51
+Zay Jones WR - BUF,@LAC,-,-,-,0.12,-,32.29,0.19,-,-,0.03,4.32
+Ricardo Louis WR - CLE,JAX,-,-,-,0.23,-,32.77,0.17,-,-,0.02,4.28
+Adam Humphries WR - TB,@MIA,-,-,-,0.08,-,33.45,0.15,-,-,0.03,4.19
+John Brown WR - ARI,@HOU,-,-,-,0.25,-,29.6,0.18,-,-,0.02,4.03
+Demarcus Robinson WR - KC View Videos,@NYG,-,-,-,0.22,-,28.24,0.16,-,-,0.02,3.77
+T.J. Jones WR - DET,@CHI,-,-,-,0.09,-,28.39,0.15,-,0.01,0.02,3.73
+Deonte Thompson WR - BUF,@LAC,-,-,-,0.86,0.01,26.01,0.17,-,-,0.03,3.71
+Seth Roberts WR - OAK,NE,-,-,-,-,-,28.04,0.15,-,0.01,0.02,3.68
+Tyler Boyd WR - CIN,@DEN,-,-,-,0.7,-,26.96,0.14,-,-,0.02,3.57
+Roger Lewis WR - NYG,KC,-,-,-,0.2,-,25.09,0.18,-,-,0.02,3.57
+Phillip Dorsett WR - NE,@OAK,-,-,-,0.28,-,26.32,0.15,-,-,0.02,3.52
+Eric Decker WR - TEN View News,@PIT,-,-,-,-,-,25.21,0.17,-,-,0.02,3.50
+Tavon Austin WR - LA,@MIN,-,-,-,13.67,0.09,12.21,0.07,-,-,0.04,3.47
+Tavarres King WR - NYG,KC,-,-,-,1.06,0.01,23.17,0.15,-,-,0.02,3.34
+Ryan Grant WR - WAS,@NO,-,-,-,-,-,24.13,0.15,-,-,0.02,3.27
+Rashard Higgins WR - CLE,JAX,-,-,-,0.88,0.01,24.22,0.12,-,-,0.02,3.25
+J.J. Nelson WR - ARI View News,@HOU,-,-,-,0.54,0.01,23.37,0.14,-,-,0.02,3.25
+Brandon Coleman WR - NO,WAS,-,-,-,-,-,21.9,0.17,-,-,0.01,3.19
+Cody Latimer WR - DEN,CIN,-,-,-,0.57,-,22.69,0.13,-,-,0.02,3.07
+Braxton Miller WR - HOU,ARI,-,-,-,1.58,0.02,20.5,0.13,-,-,0.02,3.07
+Laquon Treadwell WR - MIN,LA,-,-,-,0.3,0.01,21.42,0.13,-,0.01,0.02,2.99
+Torrey Smith WR - PHI,@DAL,-,-,-,-,-,21.18,0.12,-,-,0.01,2.82
+Mack Hollins WR - PHI,@DAL,-,-,-,0.08,-,18.52,0.12,-,-,0.02,2.54
+Kenny Britt WR - NE,@OAK,-,-,-,-,-,17.99,0.12,-,0.01,0.01,2.52
+Mike Williams WR - LAC,BUF,-,-,-,0.19,-,17.75,0.11,-,-,0.02,2.41
+Breshad Perriman WR - BAL,@GB,-,-,-,0.17,-,18.05,0.09,-,-,0.02,2.32
+Brice Butler WR - DAL,PHI,-,-,-,-,-,14.97,0.12,-,0.01,0.01,2.22
+Justin Hardy WR - ATL,@SEA,-,-,-,0.06,-,14.11,0.11,-,-,0.01,2.06
+Taywan Taylor WR - TEN,@PIT,-,-,-,2.5,0.01,12.59,0.08,-,-,0.02,2.01
+Bennie Fowler WR - DEN,CIN,-,-,-,-,-,14.69,0.09,-,-,0.01,1.99
+Josh Malone WR - CIN View News,@DEN,-,-,-,0.26,-,12.92,0.09,-,0.01,0.02,1.84
+Chris Godwin WR - TB View Videos,@MIA,-,-,-,0.11,-,13.74,0.07,-,0.01,0.02,1.79
+Maurice Harris WR - WAS,@NO,-,-,-,-,-,12.58,0.09,-,-,0.02,1.76
+Eli Rogers WR - PIT,TEN,-,-,-,0.13,-,12.4,0.08,-,-,0.01,1.71
+Dede Westbrook WR - JAX,@CLE,-,-,-,0.53,-,12.02,0.08,-,-,0.02,1.70
+Jarius Wright WR - MIN,LA,-,-,-,-,-,10.54,0.09,-,0.01,0.01,1.59
+Geronimo Allison WR - GB,BAL,-,-,-,0.24,-,11.41,0.07,-,-,0.01,1.57
+Amara Darboh WR - SEA,ATL,-,-,-,0.2,-,10.31,0.07,-,-,0.01,1.45
+Jehu Chesson WR - KC,@NYG,-,-,-,0.21,-,10.25,0.06,-,-,0.02,1.37
+Pharoh Cooper WR - LA,@MIN,-,-,-,0.28,-,9.81,0.06,-,0.01,0.03,1.33
+Cordarrelle Patterson WR - OAK,NE,-,-,-,2.37,0.02,7.04,0.04,-,0.01,0.03,1.26
+Jordan Taylor WR - DEN,CIN,-,-,-,-,-,8.9,0.06,-,-,0.01,1.23
+Chris Moore WR - BAL,@GB,-,-,-,0.3,-,8.37,0.06,-,-,0.02,1.19
+Andre Holmes WR - BUF,@LAC,-,-,-,-,-,7.72,0.06,-,-,0.01,1.11
+Marcus Johnson WR - PHI,@DAL,-,-,-,0.15,-,8.07,0.05,-,-,0.01,1.10
+John Ross WR - CIN,@DEN,-,-,-,0.68,-,7.36,0.04,-,0.01,0.02,1.02
+Alex Erickson WR - CIN View News,@DEN,-,-,-,3.13,0.02,4.16,0.02,-,-,0.05,0.87
+Tanner McEvoy WR - SEA,ATL,-,-,-,0.13,-,5.81,0.05,-,-,0.01,0.87
+Markus Wheaton WR - CHI,DET,-,-,-,0.02,-,6.12,0.04,-,0.01,0.01,0.85
+Ryan Switzer WR - DAL,PHI,-,-,-,1.17,0.01,4.59,0.04,-,-,0.02,0.84
+Austin Carr WR - NO,WAS,-,-,-,0.25,0.01,5.19,0.04,-,-,0.01,0.82
+Tre McBride WR - NYJ,Bye,-,-,-,0.2,-,5.39,0.04,-,-,0.01,-
+Bryce Treggs WR - PHI,@DAL,-,-,-,0.74,-,5.39,0.03,-,-,0.01,0.77
+Kalif Raymond WR - NYG,KC,-,-,-,0.14,-,5.54,0.04,-,-,0.03,0.75
+Johnny Holton WR - OAK,NE,-,-,-,-,-,5.1,0.04,-,-,0.01,0.73
+Michael Campanaro WR - BAL,@GB,-,-,-,1.21,-,4.93,0.02,-,-,0.01,0.71
+Leonte Carroo WR - MIA,TB,-,-,-,-,-,4.28,0.03,-,-,0.01,0.59
+Trevor Davis WR - GB,BAL,-,-,-,0.86,0.01,2.79,0.03,-,-,0.03,0.55
+Freddie Martino WR - TB,@MIA,-,-,-,-,-,4.51,0.02,-,-,0.01,0.55
+Michael Floyd WR - MIN,LA,-,-,-,-,-,3.12,0.03,-,0.01,-,0.51
+Justin Hunter WR - PIT,TEN,-,-,-,-,-,2.55,0.02,-,0.01,-,0.40
+Stacy Coley WR - MIN,LA,-,-,-,0.21,0.01,2.01,0.02,-,-,0.01,0.38
+Sammie Coates WR - CLE View News,JAX,-,-,-,0.16,-,2.51,0.02,-,-,0.01,0.37
+Andre Roberts WR - ATL,@SEA,-,-,-,-,-,2.72,0.02,-,-,0.03,0.33
+Cody Core WR - CIN View News,@DEN,-,-,-,0.1,-,2.41,0.01,-,-,0.01,0.29
+Jeff Janis WR - GB,BAL,-,-,-,0.06,-,1.65,0.02,-,-,0.01,0.27
+Chris Thompson WR - HOU,ARI,-,-,-,0.19,-,1.75,0.02,-,-,0.02,0.27
+Jace Billingsley WR - DET,@CHI,-,-,-,0.24,-,1.79,0.01,-,-,0.01,0.24
+Jakeem Grant WR - MIA,TB,-,-,-,-,-,2.14,0.01,-,-,0.02,0.23
+Darrius Heyward-Bey WR - PIT,TEN,-,-,-,-,-,1.18,0.01,-,0.01,-,0.20
+Geremy Davis WR - LAC,BUF,-,-,-,-,-,1.28,0.01,-,-,0.01,0.17
+Brittan Golden WR - ARI,@HOU,-,-,-,-,-,1.34,-,-,-,0.01,0.11
+Eric Weems WR - TEN,@PIT,-,-,-,-,-,0.71,-,-,0.01,-,0.09
+Brian Quick WR - WAS,@NO,-,-,-,-,-,0.84,-,-,-,-,0.08
+Brandon Tate WR - BUF,@LAC,-,-,-,-,-,0.88,-,-,-,0.03,0.03
+Jared Abbrederis WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Rodney Adams WR - MIN,LA,-,-,-,-,-,-,-,-,-,-,0.00
+Quincy Adeboyejo WR - BAL,@GB,-,-,-,-,-,-,-,-,-,-,0.00
+Carlton Agudosi WR - ARI,@HOU,-,-,-,-,-,-,-,-,-,-,0.00
+Kamar Aiken WR - IND,Bye,-,-,-,-,-,-,-,-,-,-,-
+Mario Alford WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Robby Anderson WR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,-
+Donnie Avery WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+DeMarcus Ayers WR - CHI,DET,-,-,-,-,-,-,-,-,-,-,0.00
+Stedman Bailey WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Odell Beckham WR - NYG,KC,-,-,-,-,-,-,-,-,-,-,0.00
+Kenny Bell WR - BAL,@GB,-,-,-,-,-,-,-,-,-,-,0.00
+Arrelious Benn WR - JAX,@CLE,-,-,-,-,-,-,-,-,-,-,0.00
+Brenton Bersin WR - CAR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Harvey Binford WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Justin Blackmon WR - JAX,@CLE,-,-,-,-,-,-,-,-,-,-,0.00
+Moritz Boehringer WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Victor Bolden WR - SF,Bye,-,-,-,-,-,-,-,-,-,-,-
+Anquan Boldin WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Kendrick Bourne WR - SF,Bye,-,-,-,-,-,-,-,-,-,-,-
+Josh Boyce WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Daniel Braverman WR - KC,@NYG,-,-,-,-,-,-,-,-,-,-,0.00
+Quan Bray WR - BUF,@LAC,-,-,-,-,-,-,-,-,-,-,0.00
+Corey Brown WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Da'Ron Brown WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Marlon Brown WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Noah Brown WR - DAL,PHI,-,-,-,-,-,-,-,-,-,-,0.00
+Marquis Bundy WR - NYG,KC,-,-,-,-,-,-,-,-,-,-,0.00
+Aaron Burbridge WR - SF,Bye,-,-,-,-,-,-,-,-,-,-,-
+Isaiah Burse WR - LAC,BUF,-,-,-,-,-,-,-,-,-,-,0.00
+Jeremy Butler WR - BUF,@LAC,-,-,-,-,-,-,-,-,-,-,0.00
+Damiere Byrd WR - CAR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Andre Caldwell WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Michael Clark WR - GB,BAL,-,-,-,-,-,-,-,-,-,-,0.00
+Kaelin Clay WR - CAR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Chris Conley WR - KC,@NYG,-,-,-,-,-,-,-,-,-,-,0.00
+Victor Cruz WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Robert Davis WR - WAS,@NO,-,-,-,-,-,-,-,-,-,-,0.00
+Harry Douglas WR - TEN,@PIT,-,-,-,-,-,-,-,-,-,-,0.00
+Malachi Dupre WR - BUF,@LAC,-,-,-,-,-,-,-,-,-,-,0.00
+Travin Dural WR - NO,WAS,-,-,-,-,-,-,-,-,-,-,0.00
+Donteea Dye WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Ed Eagan WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Marcus Easley WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Julian Edelman WR - NE,@OAK,-,-,-,-,-,-,-,-,-,-,0.00
+Quincy Enunwa WR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,-
+Amba Etta-Tawo WR - NYG,KC,-,-,-,-,-,-,-,-,-,-,0.00
+Isaiah Ford WR - MIA,TB,-,-,-,-,-,-,-,-,-,-,0.00
+Corey Fuller WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Devin Fuller WR - ATL,@SEA,-,-,-,-,-,-,-,-,-,-,0.00
+Will Fuller WR - HOU,ARI,-,-,-,-,-,-,-,-,-,-,0.00
+Devin Funchess WR - CAR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Pierre Garcon WR - SF,Bye,-,-,-,-,-,-,-,-,-,-,-
+Keyarris Garrett WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Tanner Gentry WR - CHI,DET,-,-,-,-,-,-,-,-,-,-,0.00
+Shelton Gibson WR - PHI,@DAL,-,-,-,-,-,-,-,-,-,-,0.00
+Marquise Goodwin WR - SF,Bye,-,-,-,-,-,-,-,-,-,-,-
+Josh Gordon WR - CLE,JAX,-,-,-,-,-,-,-,-,-,-,0.00
+Cyril Grayson WR - SEA,ATL,-,-,-,-,-,-,-,-,-,-,0.00
+Dorial Green-Beckham WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Rashad Greene WR - JAX,@CLE,-,-,-,-,-,-,-,-,-,-,0.00
+Marvin Hall WR - ATL,@SEA,-,-,-,-,-,-,-,-,-,-,0.00
+Rannell Hall WR - ATL,@SEA,-,-,-,-,-,-,-,-,-,-,0.00
+Cobi Hamilton WR - HOU,ARI,-,-,-,-,-,-,-,-,-,-,0.00
+Frankie Hammond WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Chad Hansen WR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,-
+Chris Harper WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Dwayne Harris WR - NYG,KC,-,-,-,-,-,-,-,-,-,-,0.00
+Keon Hatcher WR - OAK,NE,-,-,-,-,-,-,-,-,-,-,0.00
+Andrew Hawkins WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Matt Hazel WR - CLE,JAX,-,-,-,-,-,-,-,-,-,-,0.00
+Carlos Henderson WR - DEN,CIN,-,-,-,-,-,-,-,-,-,-,0.00
+Javontee Herndon WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+T.Y. Hilton WR - IND,Bye,-,-,-,-,-,-,-,-,-,-,-
+Chris Hogan WR - NE,@OAK,-,-,-,-,-,-,-,-,-,-,0.00
+Krishawn Hogan WR - IND,Bye,-,-,-,-,-,-,-,-,-,-,-
+Chris Hubert WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Josh Huff WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Allen Hurns WR - JAX,@CLE,-,-,-,-,-,-,-,-,-,-,0.00
+Vincent Jackson WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Darius Jennings WR - TEN,@PIT,-,-,-,-,-,-,-,-,-,-,0.00
+Charles D. Johnson WR - CAR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Steve Johnson WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Andy Jones WR - DET,@CHI,-,-,-,-,-,-,-,-,-,-,0.00
+Seantavius Jones WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jermaine Kearse WR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jeremy Kerley WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jonathan Krause WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jake Lampman WR - TB,@MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Kenny Lawler WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Lance Lenoir WR - DAL,PHI,-,-,-,-,-,-,-,-,-,-,0.00
+Jordan Leslie WR - DEN,CIN,-,-,-,-,-,-,-,-,-,-,0.00
+Dezmin Lewis WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Tommylee Lewis WR - NO,WAS,-,-,-,-,-,-,-,-,-,-,0.00
+Kolby Listenbee WR - IND,Bye,-,-,-,-,-,-,-,-,-,-,-
+Devin Lucien WR - TB,@MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Marc Mariani WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Bradley Marquez WR - DET,@CHI,-,-,-,-,-,-,-,-,-,-,0.00
+Brandon Marshall WR - NYG,KC,-,-,-,-,-,-,-,-,-,-,0.00
+Jalin Marshall WR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,-
+Chris Matthews WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Vince Mayle WR - BAL,@GB,-,-,-,-,-,-,-,-,-,-,0.00
+Max McCaffrey WR - SF,Bye,-,-,-,-,-,-,-,-,-,-,-
+Riley McCarron WR - NE,@OAK,-,-,-,-,-,-,-,-,-,-,0.00
+Dexter McCluster WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Mekale McKay WR - CHI,DET,-,-,-,-,-,-,-,-,-,-,0.00
+Isaiah McKenzie WR - DEN,CIN,-,-,-,-,-,-,-,-,-,-,0.00
+Cameron Meredith WR - CHI,DET,-,-,-,-,-,-,-,-,-,-,0.00
+Jaydon Mickens WR - JAX,@CLE,-,-,-,-,-,-,-,-,-,-,0.00
+Malcolm Mitchell WR - NE,@OAK,-,-,-,-,-,-,-,-,-,-,0.00
+Donte Moncrief WR - IND,Bye,-,-,-,-,-,-,-,-,-,-,-
+David Moore WR - SEA,ATL,-,-,-,-,-,-,-,-,-,-,0.00
+Keith Mumphery WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Louis Murphy WR - SF,Bye,-,-,-,-,-,-,-,-,-,-,-
+Marquez North WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jordan Norwood WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Kevin Norwood WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Quinton Patton WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jordan Payton WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Charone Peake WR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,-
+Walt Powell WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Terrelle Pryor WR - WAS,@NO,-,-,-,-,-,-,-,-,-,-,0.00
+Bernard Reedy WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Brandon Reilly WR - BUF,@LAC,-,-,-,-,-,-,-,-,-,-,0.00
+Josh Reynolds WR - LA,@MIN,-,-,-,-,-,-,-,-,-,-,0.00
+Keenan Reynolds WR - WAS,@NO,-,-,-,-,-,-,-,-,-,-,0.00
+Aldrick Robinson WR - SF,Bye,-,-,-,-,-,-,-,-,-,-,-
+Allen Robinson WR - JAX,@CLE,-,-,-,-,-,-,-,-,-,-,0.00
+Chester Rogers WR - IND,Bye,-,-,-,-,-,-,-,-,-,-,-
+Eric Rogers WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Fred Ross WR - CAR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jeremy Ross WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Rashad Ross WR - ARI,@HOU,-,-,-,-,-,-,-,-,-,-,0.00
+Eddie Royal WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Travis Rudolph WR - NYG,KC,-,-,-,-,-,-,-,-,-,-,0.00
+Curtis Samuel WR - CAR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Garrett Scantling WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Artavis Scott WR - LAC,BUF,-,-,-,-,-,-,-,-,-,-,0.00
+Hunter Sharp WR - NYG,KC,-,-,-,-,-,-,-,-,-,-,0.00
+Tajae Sharpe WR - TEN,@PIT,-,-,-,-,-,-,-,-,-,-,0.00
+Russell Shepard WR - CAR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Cecil Shorts WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Matthew Slater WR - NE,@OAK,-,-,-,-,-,-,-,-,-,-,0.00
+DeAndre Smelter WR - SF,Bye,-,-,-,-,-,-,-,-,-,-,-
+Devin Smith WR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,-
+Tevaun Smith WR - JAX,@CLE,-,-,-,-,-,-,-,-,-,-,0.00
+Nelson Spruce WR - CHI,DET,-,-,-,-,-,-,-,-,-,-,0.00
+ArDarius Stewart WR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,-
+Rod Streater WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Devin Street WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Damore'ea Stringfellow WR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jaelen Strong WR - JAX,@CLE,-,-,-,-,-,-,-,-,-,-,0.00
+Trent Taylor WR - SF,Bye,-,-,-,-,-,-,-,-,-,-,-
+Mike Thomas WR - LA View News,@MIN,-,-,-,-,-,-,-,-,-,-,0.00
+Kendal Thompson WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Paul Turner WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Bryan Walters WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+David Watford WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jordan Westerkamp WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Griff Whalen WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Kevin White WR - CHI,DET,-,-,-,-,-,-,-,-,-,-,0.00
+Myles White WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Lucky Whitehead WR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,-
+Isaac Whitney WR - OAK,NE,-,-,-,-,-,-,-,-,-,-,0.00
+Chad Williams WR - ARI View News,@HOU,-,-,-,-,-,-,-,-,-,-,0.00
+Kasen Williams WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Nick Williams WR - ATL,@SEA,-,-,-,-,-,-,-,-,-,-,0.00
+Wendall Williams WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+Albert Wilson WR - KC View News View Videos,@NYG,-,-,-,-,-,-,-,-,-,-,0.00
+Marquess Wilson WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+James Wright WR,Bye,-,-,-,-,-,-,-,-,-,-,-
+DeAngelo Yancey WR - GB,BAL,-,-,-,-,-,-,-,-,-,-,0.00
+Ishmael Zamora WR,Bye,-,-,-,-,-,-,-,-,-,-,-

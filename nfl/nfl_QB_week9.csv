@@ -1,26 +1,101 @@
 Player,Opp,Yds,TD,Int,Yds,TD,Yds,TD,FumTD,2PT,Lost,Points
-Russell Wilson QB - SEA View Videos,WAS,294.08,1.92,0.83,26.34,0.21,-,-,-,0.13,0.25,21.44
+Russell Wilson QB - SEA View News View Videos,WAS,294.08,1.92,0.83,26.34,0.21,-,-,-,0.13,0.25,21.44
 Drew Brees QB - NO View Videos,TB,309.83,2.11,0.89,7.06,0.09,-,-,-,0.05,0.22,19.96
-Dak Prescott QB - DAL View Videos,KC,263.77,1.79,0.94,21.94,0.28,-,-,-,0.07,0.21,19.42
-Alex Smith QB - KC,@DAL,271.78,1.82,0.58,15.46,0.14,-,-,-,0.12,0.22,19.18
+Dak Prescott QB - DAL,KC,263.77,1.79,0.94,21.94,0.28,-,-,-,0.07,0.21,19.42
+Alex Smith QB - KC View News View Videos,@DAL,271.78,1.82,0.58,15.46,0.14,-,-,-,0.12,0.22,19.18
 Matt Ryan QB - ATL View News View Videos,@CAR,302.31,1.84,0.84,7.35,0.06,-,-,-,0.02,0.21,18.49
-Jameis Winston QB - TB View Videos,@NO,277.47,1.75,0.86,9.55,0.06,-,-,-,0.06,0.23,17.35
+Jameis Winston QB - TB,@NO,277.47,1.75,0.86,9.55,0.06,-,-,-,0.06,0.23,17.35
 Matthew Stafford QB - DET View Videos,@GB,275.65,1.58,0.9,10.37,0.09,-,-,-,0.14,0.21,16.98
 Kirk Cousins QB - WAS View Videos,@SEA,262.72,1.72,0.86,10.9,0.1,-,-,-,0.04,0.24,16.96
 Tyrod Taylor QB - BUF View Videos,@NYJ,222.15,1.25,0.44,26.48,0.2,-,-,-,0.02,0.2,16.49
-Marcus Mariota QB - TEN View Videos,BAL,237.46,1.36,0.89,18.96,0.16,-,-,-,0.05,0.21,15.69
-Cam Newton QB - CAR View News View Videos,ATL,210.65,1.43,0.99,25.55,0.18,-,-,-,0.06,0.21,15.50
+Marcus Mariota QB - TEN View News View Videos,BAL,237.46,1.36,0.89,18.96,0.16,-,-,-,0.05,0.21,15.69
+Cam Newton QB - CAR View Videos,ATL,210.65,1.43,0.99,25.55,0.18,-,-,-,0.06,0.21,15.50
 Carson Wentz QB - PHI View Videos,DEN,230.95,1.55,0.9,14.32,0.08,-,-,-,0.06,0.21,15.25
-Derek Carr QB - OAK View Videos,@MIA,237.39,1.56,0.66,7.19,0.05,-,-,-,0.05,0.22,15.09
+Derek Carr QB - OAK,@MIA,237.39,1.56,0.66,7.19,0.05,-,-,-,0.05,0.22,15.09
 Josh McCown QB - NYJ,BUF,233.64,1.52,0.92,8.81,0.09,-,-,-,0.05,0.21,14.69
 Blake Bortles QB - JAX View Videos,CIN,209.59,1.35,0.87,16.28,0.13,-,-,-,0.05,0.2,14.15
-Eli Manning QB - NYG View Videos,LA,228.64,1.49,0.92,5.12,0.05,-,-,-,0.08,0.19,13.86
+Eli Manning QB - NYG,LA,228.64,1.49,0.92,5.12,0.05,-,-,-,0.08,0.19,13.86
 Jay Cutler QB - MIA,OAK,219.02,1.48,0.94,4.04,0.03,-,-,-,0.05,0.16,13.16
 C.J. Beathard QB - SF,ARI,192.73,1.1,0.99,18.19,0.18,-,-,-,0.09,0.22,12.77
-Jared Goff QB - LA View Videos,@NYG,210.56,1.21,0.86,8.67,0.07,-,-,-,0.03,0.19,12.51
+Jared Goff QB - LA View News View Videos,@NYG,210.56,1.21,0.86,8.67,0.07,-,-,-,0.03,0.19,12.51
 Andy Dalton QB - CIN View Videos,@JAX,220.83,1.08,1,11.28,0.08,-,-,-,0.01,0.2,12.38
 Brock Osweiler QB - DEN,@PHI,206.78,0.97,0.89,10.08,0.08,-,-,-,0.02,0.19,11.52
-Jacoby Brissett QB - IND View Videos,@HOU,186.17,0.9,0.87,16.87,0.14,-,-,-,0.05,0.21,11.51
-Tom Savage QB - HOU View Videos,IND,183.36,0.87,0.44,8.95,0.08,-,-,-,0.01,0.17,10.99
-Brett Hundley QB - GB View Videos,DET,196.16,0.82,1.03,13.92,0.13,-,-,-,0.02,0.2,10.88
+Jacoby Brissett QB - IND,@HOU,186.17,0.9,0.87,16.87,0.14,-,-,-,0.05,0.21,11.51
+Tom Savage QB - HOU,IND,183.36,0.87,0.44,8.95,0.08,-,-,-,0.01,0.17,10.99
+Brett Hundley QB - GB,DET,196.16,0.82,1.03,13.92,0.13,-,-,-,0.02,0.2,10.88
 Joe Flacco QB - BAL View Videos,@TEN,195.87,1.02,0.58,1.78,0.01,-,-,-,0.1,0.17,10.85
+Drew Stanton QB - ARI,@SF,188.87,0.9,1.2,10.97,0.1,-,-,-,0.06,0.19,10.19
+Austin Davis QB - SEA,WAS,6.72,0.04,0.03,2.57,0.02,-,-,-,0.01,0.01,0.75
+Cooper Rush QB - DAL,KC,8.51,0.04,0.03,1.35,0.02,-,-,-,0.01,0.01,0.70
+Joe Callahan QB - GB,DET,8.95,0.04,0.04,0.97,0.01,-,-,-,0.01,0.01,0.60
+Nick Foles QB - PHI View Videos,DEN,6.72,0.04,0.03,1.13,0.01,-,-,-,0.01,0.01,0.54
+Blaine Gabbert QB - ARI View News,@SF,7.1,0.04,0.06,1.56,0.01,-,-,-,0.01,0.01,0.54
+Trevor Siemian QB - DEN,@PHI,2.25,0.03,0.03,2.4,0.02,-,-,-,0.01,0.01,0.51
+Ryan Mallett QB - BAL,@TEN,2.7,0.03,0.04,1.96,0.02,-,-,-,0.01,0.01,0.46
+Geno Smith QB - NYG,LA,9.01,0.04,0.04,-,-,-,-,-,0.01,0.01,0.44
+Matt McGloin QB,Bye,8.91,0.04,0.05,-,-,-,-,-,0.01,0.01,-
+Matt Moore QB - MIA,OAK,9.04,0.04,0.06,-,-,-,-,-,0.01,-,0.42
+Bryce Petty QB - NYJ,BUF,8.22,0.04,0.04,-,-,-,-,-,0.01,0.01,0.41
+Jimmy Garoppolo QB - SF View Videos,ARI,8.13,0.04,0.05,0.11,-,-,-,-,0.01,0.01,0.40
+Ryan Fitzpatrick QB - TB,@NO,3.28,0.04,0.05,1.36,0.01,-,-,-,0.01,0.01,0.39
+Sean Mannion QB - LA,@NYG,2.25,0.03,0.03,1.62,0.01,-,-,-,0.01,0.01,0.37
+Derek Anderson QB - CAR,ATL,6.56,0.04,0.05,-,-,-,-,-,0.02,-,0.36
+Chad Henne QB - JAX,CIN,5.58,0.04,0.03,-,-,-,-,-,0.01,-,0.34
+Matt Cassel QB - TEN,BAL,5.33,0.04,0.04,-,-,-,-,-,0.01,-,0.31
+Chase Daniel QB - NO,TB,5.25,0.04,0.04,-,-,-,-,-,0.01,-,0.31
+Jake Rudock QB - DET,@GB,4.28,0.03,0.04,0.2,-,-,-,-,0.01,0.01,0.23
+Nathan Peterman QB - BUF,@NYJ,3.67,0.03,0.04,0.3,-,-,-,-,0.01,0.01,0.22
+Scott Tolzien QB - IND,@HOU,5.06,0.03,0.06,-,-,-,-,-,0.01,0.01,0.20
+Patrick Mahomes QB - KC,@DAL,3.07,0.03,0.04,0.08,-,-,-,-,0.01,0.01,0.17
+Joe Webb QB - BUF,@NYJ,1.86,0.03,0.04,0.41,-,-,-,-,0.01,0.01,0.16
+EJ Manuel QB - OAK,@MIA,1.97,0.03,0.04,-,-,-,-,-,0.01,0.01,0.12
+Colt McCoy QB - WAS,@SEA,1.02,0.03,0.03,-,-,-,-,-,0.01,-,0.12
+AJ McCarron QB - CIN,@JAX,2.15,0.02,0.03,-,-,-,-,-,0.01,0.01,0.11
+Matt Schaub QB - ATL,@CAR,-,0.03,0.03,-,-,-,-,-,0.01,-,0.08
+Brandon Allen QB - LA,@NYG,-,-,-,-,-,-,-,-,-,-,0.00
+Matt Barkley QB - ARI,@SF,-,-,-,-,-,-,-,-,-,-,0.00
+Trevone Boykin QB - SEA,WAS,-,-,-,-,-,-,-,-,-,-,0.00
+Sam Bradford QB - MIN,Bye,-,-,-,-,-,-,-,-,-,-,-
+Tom Brady QB - NE View Videos,Bye,-,-,-,-,-,-,-,-,-,-,-
+Tyler Bray QB - KC,@DAL,-,-,-,-,-,-,-,-,-,-,0.00
+Teddy Bridgewater QB - MIN,Bye,-,-,-,-,-,-,-,-,-,-,-
+Kellen Clemens QB - LAC,Bye,-,-,-,-,-,-,-,-,-,-,-
+Connor Cook QB - OAK,@MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Joshua Dobbs QB - PIT,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jeff Driskel QB - CIN,@JAX,-,-,-,-,-,-,-,-,-,-,0.00
+David Fales QB - MIA,OAK,-,-,-,-,-,-,-,-,-,-,0.00
+Mike Glennon QB - CHI,Bye,-,-,-,-,-,-,-,-,-,-,-
+Garrett Grayson QB - ATL,@CAR,-,-,-,-,-,-,-,-,-,-,0.00
+Robert Griffin III QB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Christian Hackenberg QB - NYJ,BUF,-,-,-,-,-,-,-,-,-,-,0.00
+Shaun Hill QB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Taysom Hill QB - NO View Videos,TB,-,-,-,-,-,-,-,-,-,-,0.00
+Kevin Hogan QB - CLE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Bart Houston QB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Brian Hoyer QB - NE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Cardale Jones QB - LAC,Bye,-,-,-,-,-,-,-,-,-,-,-
+Landry Jones QB - PIT,Bye,-,-,-,-,-,-,-,-,-,-,-
+Brad Kaaya QB - IND,@HOU,-,-,-,-,-,-,-,-,-,-,0.00
+Colin Kaepernick QB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Case Keenum QB - MIN,Bye,-,-,-,-,-,-,-,-,-,-,-
+Chad Kelly QB - DEN,@PHI,-,-,-,-,-,-,-,-,-,-,0.00
+Cody Kessler QB - CLE,Bye,-,-,-,-,-,-,-,-,-,-,-
+DeShone Kizer QB - CLE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Andrew Luck QB - IND,@HOU,-,-,-,-,-,-,-,-,-,-,0.00
+Paxton Lynch QB - DEN,@PHI,-,-,-,-,-,-,-,-,-,-,0.00
+Luke McCown QB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Zach Mettenberger QB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Kellen Moore QB - DAL,KC,-,-,-,-,-,-,-,-,-,-,0.00
+Stephen Morris QB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Aaron Murray QB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Ryan Nassib QB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Carson Palmer QB - ARI,@SF,-,-,-,-,-,-,-,-,-,-,0.00
+Philip Rivers QB - LAC View Videos,Bye,-,-,-,-,-,-,-,-,-,-,-
+Aaron Rodgers QB - GB,DET,-,-,-,-,-,-,-,-,-,-,0.00
+Ben Roethlisberger QB - PIT View Videos,Bye,-,-,-,-,-,-,-,-,-,-,-
+Tony Romo QB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Mark Sanchez QB - CHI,Bye,-,-,-,-,-,-,-,-,-,-,-
+Connor Shaw QB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Kyle Sloter QB - MIN,Bye,-,-,-,-,-,-,-,-,-,-,-
+Joel Stave QB - NYJ,BUF,-,-,-,-,-,-,-,-,-,-,0.00
+Nate Sudfeld QB - PHI View Videos,DEN,-,-,-,-,-,-,-,-,-,-,0.00

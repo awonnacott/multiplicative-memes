@@ -13,16 +13,30 @@ positions = {
     'K': 7,
     'DEF': 8
 }
+pages = {
+    'QB': 4,
+    'RB': 10,
+    'WR': 13,
+    'TE': 7,
+    'K': 2,
+    'DEF': 2,
+}
 weeks = range(1, 22)
 
+
 def cbs(pos, week):
-    url = 'http://fantasy.nfl.com/research/projections?position={pos}&sort=projectedPts&statCategory=projectedStats&statSeason=2017&statType=weekProjectedStats&statWeek={week}'.format(pos=positions[pos], week=week)
+    url = 'http://fantasy.nfl.com/research/projections?position={pos}&sort=projectedPts&statCategory=projectedStats&statSeason=2017&statType=weekProjectedStats&statWeek={week}&offset={i}'.format(pos=positions[pos], week=week, i="{i}")
     try:
-        contents = requests.get(url).content
+        contents = requests.get(url.format(i=1)).content
         soup = BeautifulSoup(contents, "html.parser")
         table = soup.find('table')
         header = [td.text.rstrip().replace(u'\xa0', u'') for td in table.find('thead').find_all('tr')[1].find_all('th')]
-        data = [[td.text.rstrip().replace(u'\xa0', u'') for td in row.find_all('td')] for row in table.find('tbody').find_all('tr')]
+        data = []
+        for i in range(pages[pos]):
+            contents = requests.get(url.format(i=25*i+1)).content
+            soup = BeautifulSoup(contents, "html.parser")
+            table = soup.find('table')
+            data += [[td.text.rstrip().replace(u'\xa0', u'') for td in row.find_all('td')] for row in table.find('tbody').find_all('tr')]
     except IndexError:
         print("Failed: " + pos + " " + str(week))
         return

@@ -1,26 +1,167 @@
 Player,Opp,Yds,TD,Int,Yds,TD,Yds,TD,FumTD,2PT,Lost,Points
 Rob Gronkowski TE - NE,LAC,-,-,-,-,-,66.36,0.51,-,0.01,0.03,9.66
-Travis Kelce TE - KC,DEN,-,-,-,0.5,0.01,65.16,0.42,-,0.01,0.03,9.11
+Travis Kelce TE - KC View News View Videos,DEN,-,-,-,0.5,0.01,65.16,0.42,-,0.01,0.03,9.11
 Zach Ertz TE - PHI,SF,-,-,-,-,-,62.56,0.47,-,-,0.03,9.02
 Jordan Reed TE - WAS,DAL,-,-,-,-,-,55.41,0.4,-,0.01,0.03,7.90
-Jared Cook TE - OAK View Videos,@BUF,-,-,-,-,-,52.72,0.3,-,-,0.03,7.01
-Kyle Rudolph TE - MIN View Videos,@CLE,-,-,-,-,-,49.27,0.31,-,0.01,0.03,6.75
+Jared Cook TE - OAK,@BUF,-,-,-,-,-,52.72,0.3,-,-,0.03,7.01
+Kyle Rudolph TE - MIN,@CLE,-,-,-,-,-,49.27,0.31,-,0.01,0.03,6.75
 Hunter Henry TE - LAC,@NE,-,-,-,0.13,-,44.72,0.35,-,0.01,0.03,6.55
 Austin Seferian-Jenkins TE - NYJ,ATL,-,-,-,-,-,45.13,0.31,-,-,0.03,6.31
 Jason Witten TE - DAL,@WAS,-,-,-,-,-,43.84,0.31,-,0.01,0.02,6.22
-Cameron Brate TE - TB View News View Videos,CAR,-,-,-,-,-,41.38,0.34,-,-,0.02,6.14
-Jimmy Graham TE - SEA View Videos,HOU,-,-,-,-,-,40.44,0.3,-,-,0.02,5.80
-Jack Doyle TE - IND View Videos,@CIN,-,-,-,-,-,41.74,0.27,-,0.01,0.03,5.75
+Cameron Brate TE - TB,CAR,-,-,-,-,-,41.38,0.34,-,-,0.02,6.14
+Jimmy Graham TE - SEA View News,HOU,-,-,-,-,-,40.44,0.3,-,-,0.02,5.80
+Jack Doyle TE - IND,@CIN,-,-,-,-,-,41.74,0.27,-,0.01,0.03,5.75
 Zach Miller TE - CHI,@NO,-,-,-,-,-,35.71,0.27,-,-,0.02,5.15
-Vernon Davis TE - WAS View Videos,DAL,-,-,-,-,-,36.41,0.25,-,0.01,0.01,5.14
+Vernon Davis TE - WAS,DAL,-,-,-,-,-,36.41,0.25,-,0.01,0.01,5.14
 Ryan Griffin TE - HOU,@SEA,-,-,-,-,-,38.65,0.21,-,-,0.02,5.09
 Benjamin Watson TE - BAL View Videos,MIA,-,-,-,-,-,35.09,0.21,-,-,0.02,4.73
-Tyler Kroft TE - CIN View Videos,IND,-,-,-,0.04,-,30.57,0.25,-,-,0.02,4.52
+Tyler Kroft TE - CIN,IND,-,-,-,0.04,-,30.57,0.25,-,-,0.02,4.52
 O.J. Howard TE - TB,CAR,-,-,-,0.13,-,30.06,0.24,-,-,0.02,4.42
 A.J. Derby TE - MIA,@BAL,-,-,-,-,-,32.27,0.19,-,-,0.02,4.33
-David Njoku TE - CLE View Videos,MIN,-,-,-,0.83,0.01,28.81,0.22,-,0.01,0.02,4.32
-Eric Ebron TE - DET View News View Videos,PIT,-,-,-,0.11,0.01,30.72,0.16,-,0.01,0.02,4.08
+David Njoku TE - CLE,MIN,-,-,-,0.83,0.01,28.81,0.22,-,0.01,0.02,4.32
+Eric Ebron TE - DET,PIT,-,-,-,0.11,0.01,30.72,0.16,-,0.01,0.02,4.08
 Julius Thomas TE - MIA,@BAL,-,-,-,-,-,30.93,0.17,-,-,0.02,4.07
-Austin Hooper TE - ATL,@NYJ,-,-,-,0.11,-,28.88,0.19,-,-,0.02,4.00
+Austin Hooper TE - ATL View Videos,@NYJ,-,-,-,0.11,-,28.88,0.19,-,-,0.02,4.00
 Ed Dickson TE - CAR,@TB,-,-,-,-,-,29.26,0.16,-,-,0.02,3.85
 Jesse James TE - PIT,@DET,-,-,-,0.18,-,25.09,0.16,-,0.01,0.02,3.47
+George Kittle TE - SF,@PHI,-,-,-,0.05,-,24.83,0.17,-,-,0.02,3.47
+Seth DeValve TE - CLE View News,MIN,-,-,-,0.03,-,21.44,0.16,-,-,0.02,3.07
+Coby Fleener TE - NO,CHI,-,-,-,-,-,20.98,0.15,-,-,0.01,2.98
+Nick O'Leary TE - BUF,OAK,-,-,-,0.05,-,19.69,0.13,-,0.01,0.02,2.73
+Nick Boyle TE - BAL,MIA,-,-,-,0.04,-,19.34,0.12,-,0.01,0.02,2.64
+Stephen Anderson TE - HOU,@SEA,-,-,-,0.02,-,17.15,0.1,-,-,0.02,2.28
+Dion Sims TE - CHI,@NO,-,-,-,-,-,15.69,0.11,-,-,0.01,2.21
+Antonio Gates TE - LAC,@NE,-,-,-,-,-,14.89,0.09,-,0.01,0.01,2.03
+Trey Burton TE - PHI,SF,-,-,-,-,-,13.31,0.09,-,-,0.01,1.85
+C.J. Uzomah TE - CIN View News,IND,-,-,-,0.11,-,12.37,0.09,-,-,0.01,1.77
+Anthony Fasano TE - MIA,@BAL,-,-,-,-,-,11.51,0.08,-,0.01,-,1.65
+Demetrius Harris TE - KC View Videos,DEN,-,-,-,-,-,11.14,0.08,-,0.01,0.01,1.59
+Darren Fells TE - DET,PIT,-,-,-,-,-,8.85,0.1,-,-,0.01,1.47
+Luke Willson TE - SEA,HOU,-,-,-,-,-,9.56,0.08,-,-,0.01,1.42
+Michael Hoomanawanui TE - NO,CHI,-,-,-,-,-,9.09,0.08,-,0.01,0.01,1.39
+Josh Hill TE - NO,CHI,-,-,-,-,-,9.62,0.07,-,-,0.01,1.36
+Jeff Heuerman TE - DEN,@KC,-,-,-,0.1,-,9.61,0.06,-,-,0.01,1.31
+Xavier Grimble TE - PIT,@DET,-,-,-,0.04,-,8.74,0.06,-,-,0.01,1.22
+Logan Thomas TE - BUF,OAK,-,-,-,-,-,7.69,0.07,-,-,0.01,1.17
+Garrett Celek TE - SF,@PHI,-,-,-,-,-,7.36,0.05,-,-,0.01,1.02
+Virgil Green TE - DEN,@KC,-,-,-,-,-,7.42,0.05,-,-,0.01,1.02
+Brent Celek TE - PHI,SF,-,-,-,-,-,6.92,0.04,-,0.01,-,0.95
+Ross Travis TE - IND,@CIN,-,-,-,0.1,-,5.54,0.04,-,-,0.01,0.78
+Jeremy Sprinkle TE - WAS,DAL,-,-,-,0.15,-,4.91,0.04,-,-,0.01,0.73
+Neal Sterling TE - NYJ,ATL,-,-,-,-,-,5.64,0.03,-,-,0.01,0.72
+Levine Toilolo TE - ATL,@NYJ,-,-,-,-,-,5.09,0.03,-,-,0.01,0.67
+Nick Vannett TE - SEA,HOU,-,-,-,0.02,-,4.59,0.03,-,-,0.01,0.62
+Dwayne Allen TE - NE,LAC,-,-,-,-,-,4.32,0.03,-,0.01,0.01,0.61
+Randall Telfer TE - CLE View News,MIN,-,-,-,-,-,4.26,0.03,-,-,0.01,0.59
+James Hanna TE - DAL,@WAS,-,-,-,-,-,4.12,0.03,-,-,0.01,0.57
+Eric Tomlinson TE - NYJ,ATL,-,-,-,-,-,3.96,0.03,-,-,0.01,0.56
+Adam Shaheen TE - CHI,@NO,-,-,-,0.03,-,3.73,0.03,-,-,0.01,0.54
+Clive Walford TE - OAK,@BUF,-,-,-,-,-,3.77,0.03,-,-,0.01,0.54
+Michael Roberts TE - DET,PIT,-,-,-,0.18,0.01,2.65,0.03,-,-,0.01,0.50
+Gavin Escobar TE,Bye,-,-,-,-,-,3.34,0.03,-,-,0.01,-
+Brandon Williams TE - IND,@CIN,-,-,-,-,-,3.68,0.02,-,-,0.01,0.47
+Blake Bell TE - MIN,@CLE,-,-,-,-,-,3.61,0.02,-,-,0.01,0.46
+Chris Manhertz TE - CAR,@TB,-,-,-,-,-,3.58,0.02,-,-,0.01,0.46
+Sean Culkin TE - LAC,@NE,-,-,-,-,-,3.29,0.02,-,-,0.01,0.43
+Niles Paul TE - WAS,DAL,-,-,-,0.49,-,2.41,0.02,-,0.01,0.01,0.41
+Jacob Hollister TE - NE,LAC,-,-,-,0.07,-,2.63,0.02,-,-,0.01,0.37
+Geoff Swaim TE - DAL,@WAS,-,-,-,0.07,-,2.45,0.01,-,-,0.01,0.29
+MarQueis Gray TE - MIA,@BAL,-,-,-,-,-,2.4,0.01,-,-,0.01,0.28
+David Morgan TE - MIN,@CLE,-,-,-,0.03,-,2.1,0.01,-,-,0.01,0.25
+Daniel Brown TE - CHI,@NO,-,-,-,-,-,1.97,0.01,-,-,0.01,0.24
+Luke Stocker TE - TEN,Bye,-,-,-,-,-,1.79,0.01,-,-,-,-
+Lee Smith TE - OAK,@BUF,-,-,-,-,-,1.25,0.01,-,-,-,0.19
+Sean McGrath TE - LAC,@NE,-,-,-,-,-,1.22,-,-,-,-,0.12
+Eric Saubert TE - ATL,@NYJ,-,-,-,0.11,-,0.82,-,-,-,0.01,0.07
+Jerell Adams TE - NYG,Bye,-,-,-,-,-,-,-,-,-,-,-
+Mo Alie-Cox TE - IND,@CIN,-,-,-,-,-,-,-,-,-,-,0.00
+RaShaun Allen TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jace Amaro TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Rory Anderson TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Antony Auclair TE - TB,CAR,-,-,-,-,-,-,-,-,-,-,0.00
+David Ausberry TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Kennard Backman TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Gary Barnidge TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Martellus Bennett TE - NE,LAC,-,-,-,-,-,-,-,-,-,-,0.00
+E.J. Bibbs TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Brandon Bostick TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Ben Braunecker TE - CHI,@NO,-,-,-,-,-,-,-,-,-,-,0.00
+Chris Briggs TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jake Butt TE - DEN,@KC,-,-,-,-,-,-,-,-,-,-,0.00
+Derek Carrier TE - LA,Bye,-,-,-,-,-,-,-,-,-,-,-
+Gerald Christian TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Charles Clay TE - BUF,OAK,-,-,-,-,-,-,-,-,-,-,0.00
+Asante Cleveland TE - LAC,@NE,-,-,-,-,-,-,-,-,-,-,0.00
+Jeff Cumberland TE - LAC,@NE,-,-,-,-,-,-,-,-,-,-,0.00
+Jerome Cunningham TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Kellen Davis TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Dorin Dickerson TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Larry Donnell TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jim Dray TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Thomas Duarte TE - MIA,@BAL,-,-,-,-,-,-,-,-,-,-,0.00
+Tyler Eifert TE - CIN,IND,-,-,-,-,-,-,-,-,-,-,0.00
+Rhett Ellison TE - NYG,Bye,-,-,-,-,-,-,-,-,-,-,-
+Evan Engram TE - NYG,Bye,-,-,-,-,-,-,-,-,-,-,-
+Gerald Everett TE - LA,Bye,-,-,-,-,-,-,-,-,-,-,-
+C.J. Fiedorowicz TE - HOU,@SEA,-,-,-,-,-,-,-,-,-,-,0.00
+Rico Gathers TE - DAL,@WAS,-,-,-,-,-,-,-,-,-,-,0.00
+Crockett Gillmore TE - BAL,MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Chris Gragg TE - NYJ,ATL,-,-,-,-,-,-,-,-,-,-,0.00
+Ladarius Green TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jermaine Gresham TE - ARI,Bye,-,-,-,-,-,-,-,-,-,-,-
+Garrett Griffin TE - NO,CHI,-,-,-,-,-,-,-,-,-,-,0.00
+Clay Harbor TE - NO,CHI,-,-,-,-,-,-,-,-,-,-,0.00
+Cory Harkey TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Cooper Helfet TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Temarrick Hemingway TE - LA,Bye,-,-,-,-,-,-,-,-,-,-,-
+Ryan Hewitt TE - CIN,IND,-,-,-,-,-,-,-,-,-,-,0.00
+Tyler Higbee TE - LA,Bye,-,-,-,-,-,-,-,-,-,-,-
+Bucky Hodges TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+David Johnson TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Dominique Jones TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Lance Kendricks TE - GB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Ben Koyack TE - JAX,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jordan Leggett TE - NYJ,ATL,-,-,-,-,-,-,-,-,-,-,0.00
+Matt Lengel TE - CLE,MIN,-,-,-,-,-,-,-,-,-,-,0.00
+Brian Leonhardt TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Marcedes Lewis TE - JAX,Bye,-,-,-,-,-,-,-,-,-,-,-
+Vance McDonald TE - PIT,@DET,-,-,-,-,-,-,-,-,-,-,0.00
+Jake McGee TE - PIT,@DET,-,-,-,-,-,-,-,-,-,-,0.00
+Ifeanyi Momah TE - ARI,Bye,-,-,-,-,-,-,-,-,-,-,-
+Matthew Mulligan TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Johnny Mundt TE - LA,Bye,-,-,-,-,-,-,-,-,-,-,-
+Brandon Myers TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Troy Niklas TE - ARI View News,Bye,-,-,-,-,-,-,-,-,-,-,-
+Ryan O'Malley TE - NYG,Bye,-,-,-,-,-,-,-,-,-,-,-
+James O'Shaughnessy TE - JAX View News,Bye,-,-,-,-,-,-,-,-,-,-,-
+Greg Olsen TE - CAR,@TB,-,-,-,-,-,-,-,-,-,-,0.00
+Logan Paulsen TE - SF,@PHI,-,-,-,-,-,-,-,-,-,-,0.00
+Justin Perillo TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Josh Perkins TE - ATL,@NYJ,-,-,-,-,-,-,-,-,-,-,0.00
+John Phillips TE - NO,CHI,-,-,-,-,-,-,-,-,-,-,0.00
+Dennis Pitta TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+MyCole Pruitt TE - HOU,@SEA,-,-,-,-,-,-,-,-,-,-,0.00
+Mychal Rivera TE - JAX,Bye,-,-,-,-,-,-,-,-,-,-,-
+Richard Rodgers TE - GB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Beau Sandland TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Wes Saxton TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Mason Schreck TE - CIN,IND,-,-,-,-,-,-,-,-,-,-,0.00
+Greg Scruggs TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Ricky Seals-Jones TE - ARI,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jonnu Smith TE - TEN View Videos,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jake Stoneburner TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Phillip Supernaw TE - TEN,Bye,-,-,-,-,-,-,-,-,-,-,-
+Erik Swoope TE - IND,@CIN,-,-,-,-,-,-,-,-,-,-,0.00
+Jacob Tamme TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Austin Traylor TE - DEN,@KC,-,-,-,-,-,-,-,-,-,-,0.00
+Nick Truesdell TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Will Tye TE - NE,LAC,-,-,-,-,-,-,-,-,-,-,0.00
+Hakeem Valles TE - DET,PIT,-,-,-,-,-,-,-,-,-,-,0.00
+Delanie Walker TE - TEN View News View Videos,Bye,-,-,-,-,-,-,-,-,-,-,-
+Eric Wallace TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Darren Waller TE - BAL,MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Cole Wick TE - SF,@PHI,-,-,-,-,-,-,-,-,-,-,0.00
+Maxx Williams TE - BAL,MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Michael Williams TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Travis Wilson TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Timothy Wright TE,Bye,-,-,-,-,-,-,-,-,-,-,-

@@ -1,26 +1,33 @@
 Team,Opp,Sack,Int,Fum Rec,Saf,TD,Def 2pt Ret,TD,Pts Allow,Points
 Atlanta Falcons DEF View Videos,GB,2.96,1.05,0.66,0.03,0.16,-,0.03,18.07,7.58
-Washington Redskins DEF View Videos,@LA,2.66,1.09,0.68,0.04,0.15,-,0.03,19.65,7.36
-Tampa Bay Buccaneers DEF View Videos,CHI,2.77,1.07,0.67,0.03,0.14,-,0.03,19.14,7.33
-Baltimore Ravens DEF View Videos,CLE,2.69,1.03,0.62,0.03,0.14,-,0.03,17.8,7.07
+Washington Redskins DEF,@LA,2.66,1.09,0.68,0.04,0.15,-,0.03,19.65,7.36
+Tampa Bay Buccaneers DEF,CHI,2.77,1.07,0.67,0.03,0.14,-,0.03,19.14,7.33
+Baltimore Ravens DEF,CLE,2.69,1.03,0.62,0.03,0.14,-,0.03,17.8,7.07
 Carolina Panthers DEF View Videos,BUF,2.76,0.92,0.72,0.03,0.1,-,0.04,19.47,6.94
 Los Angeles Chargers DEF View Videos,MIA,2.78,0.98,0.64,0.03,0.12,-,0.02,21.67,6.92
 Kansas City Chiefs DEF View Videos,PHI,2.21,1.11,0.61,0.04,0.13,-,0.04,19.48,6.75
-Pittsburgh Steelers DEF View Videos,MIN,2.49,0.93,0.71,0.04,0.12,-,0.03,21.16,6.75
-Houston Texans DEF View Videos,@CIN,2.57,0.99,0.63,0.03,0.12,-,0.02,21,6.71
-Oakland Raiders DEF View Videos,NYJ,2.51,0.94,0.63,0.04,0.12,-,0.04,21.04,6.69
-Chicago Bears DEF View Videos,@TB,2.13,1.01,0.7,0.03,0.12,-,0.04,22.08,6.57
-Denver Broncos DEF View Videos,DAL,1.98,1.12,0.7,0.05,0.11,-,0.03,24.55,6.56
-Cincinnati Bengals DEF View Videos,HOU,2.21,1.01,0.64,0.03,0.13,-,0.03,18.77,6.53
-Dallas Cowboys DEF View Videos,@DEN,2.42,0.96,0.64,0.03,0.11,-,0.03,21.33,6.52
+Pittsburgh Steelers DEF,MIN,2.49,0.93,0.71,0.04,0.12,-,0.03,21.16,6.75
+Houston Texans DEF,@CIN,2.57,0.99,0.63,0.03,0.12,-,0.02,21,6.71
+Oakland Raiders DEF,NYJ,2.51,0.94,0.63,0.04,0.12,-,0.04,21.04,6.69
+Chicago Bears DEF,@TB,2.13,1.01,0.7,0.03,0.12,-,0.04,22.08,6.57
+Denver Broncos DEF,DAL,1.98,1.12,0.7,0.05,0.11,-,0.03,24.55,6.56
+Cincinnati Bengals DEF,HOU,2.21,1.01,0.64,0.03,0.13,-,0.03,18.77,6.53
+Dallas Cowboys DEF,@DEN,2.42,0.96,0.64,0.03,0.11,-,0.03,21.33,6.52
 Seattle Seahawks DEF View Videos,SF,2.16,0.93,0.71,0.03,0.13,-,0.03,16.5,6.46
 Tennessee Titans DEF View Videos,@JAX,2.37,0.93,0.66,0.03,0.12,-,0.02,21.31,6.45
 Jacksonville Jaguars DEF View Videos,TEN,2.33,0.96,0.64,0.03,0.11,-,0.03,21.52,6.43
 Buffalo Bills DEF View Videos,@CAR,2.52,0.94,0.59,0.03,0.1,-,0.03,22.21,6.42
-New York Giants DEF View Videos,DET,2.23,0.96,0.65,0.03,0.11,-,0.03,21.91,6.35
-Miami Dolphins DEF View Videos,@LAC,2.28,0.94,0.64,0.03,0.12,-,0.02,22.22,6.34
-Green Bay Packers DEF View Videos,@ATL,2.32,0.97,0.6,0.03,0.09,-,0.03,26.47,6.24
-Minnesota Vikings DEF View Videos,@PIT,1.77,1.05,0.62,0.03,0.13,-,0.03,23.85,6.13
-Indianapolis Colts DEF View Videos,ARI,2.1,0.96,0.66,0.03,0.09,-,0.03,22.32,6.12
-Philadelphia Eagles DEF View Videos,@KC,2.12,0.9,0.59,0.03,0.1,-,0.03,30,5.94
-New England Patriots DEF View Videos,@NO,1.87,0.9,0.6,0.03,0.13,-,0.03,23.29,5.89
+New York Giants DEF,DET,2.23,0.96,0.65,0.03,0.11,-,0.03,21.91,6.35
+Miami Dolphins DEF,@LAC,2.28,0.94,0.64,0.03,0.12,-,0.02,22.22,6.34
+Green Bay Packers DEF,@ATL,2.32,0.97,0.6,0.03,0.09,-,0.03,26.47,6.24
+Minnesota Vikings DEF,@PIT,1.77,1.05,0.62,0.03,0.13,-,0.03,23.85,6.13
+Indianapolis Colts DEF,ARI,2.1,0.96,0.66,0.03,0.09,-,0.03,22.32,6.12
+Philadelphia Eagles DEF,@KC,2.12,0.9,0.59,0.03,0.1,-,0.03,30,5.94
+New England Patriots DEF,@NO,1.87,0.9,0.6,0.03,0.13,-,0.03,23.29,5.89
+Cleveland Browns DEF,@BAL,1.68,0.88,0.75,0.03,0.11,-,0.03,24.17,5.84
+San Francisco 49ers DEF,@SEA,2.25,0.78,0.63,0.03,0.07,-,0.02,23.34,5.67
+New York Jets DEF,@OAK,1.69,0.88,0.71,0.03,0.09,-,0.03,25.12,5.65
+Arizona Cardinals DEF,@IND,2.22,0.76,0.6,0.03,0.07,-,0.03,24.63,5.60
+Los Angeles Rams DEF View Videos,WAS,1.7,0.94,0.6,0.03,0.1,-,0.02,22.49,5.56
+Detroit Lions DEF View Videos,@NYG,1.4,0.95,0.67,0.03,0.1,-,0.03,22.05,5.48
+New Orleans Saints DEF View Videos,NE,1.65,0.73,0.65,0.03,0.05,-,0.03,29.82,4.95

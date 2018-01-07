@@ -14,6 +14,7 @@ positions = {
 }
 weeks = range(1, 22)
 
+
 def cbs(pos, week):
     url = 'https://www.fftoday.com/rankings/playerwkproj.php?Season=2017&GameWeek={week}&PosID={pos}&LeagueID=1'.format(pos=positions[pos], week=week)
     try:

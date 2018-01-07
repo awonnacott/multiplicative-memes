@@ -1,26 +1,167 @@
 Player,Opp,Yds,TD,Int,Yds,TD,Yds,TD,FumTD,2PT,Lost,Points
 Rob Gronkowski TE - NE,@NO,-,-,-,-,-,68.46,0.56,-,0.01,0.03,10.17
-Travis Kelce TE - KC,PHI,-,-,-,0.28,-,72.6,0.41,-,0.01,0.04,9.69
+Travis Kelce TE - KC View News View Videos,PHI,-,-,-,0.28,-,72.6,0.41,-,0.01,0.04,9.69
 Jordan Reed TE - WAS,@LA,-,-,-,0.21,-,61.8,0.51,-,0.01,0.03,9.22
-Kyle Rudolph TE - MIN View Videos,@PIT,-,-,-,0.29,-,62.27,0.42,-,0.01,0.04,8.72
-Greg Olsen TE - CAR View Videos,BUF,-,-,-,-,-,57.81,0.33,-,0.01,0.03,7.72
+Kyle Rudolph TE - MIN,@PIT,-,-,-,0.29,-,62.27,0.42,-,0.01,0.04,8.72
+Greg Olsen TE - CAR,BUF,-,-,-,-,-,57.81,0.33,-,0.01,0.03,7.72
 Zach Ertz TE - PHI,@KC,-,-,-,0.23,-,55.54,0.36,-,-,0.03,7.68
-Jared Cook TE - OAK View Videos,NYJ,-,-,-,-,-,55.4,0.32,-,-,0.03,7.40
-Delanie Walker TE - TEN,@JAX,-,-,-,-,-,50.84,0.31,-,-,0.03,6.88
-Jimmy Graham TE - SEA View Videos,SF,-,-,-,-,-,46.16,0.35,-,-,0.02,6.68
+Jared Cook TE - OAK,NYJ,-,-,-,-,-,55.4,0.32,-,-,0.03,7.40
+Delanie Walker TE - TEN View News View Videos,@JAX,-,-,-,-,-,50.84,0.31,-,-,0.03,6.88
+Jimmy Graham TE - SEA View News,SF,-,-,-,-,-,46.16,0.35,-,-,0.02,6.68
 Tyler Eifert TE - CIN,HOU,-,-,-,0.18,-,42.96,0.39,-,-,0.02,6.61
-Charles Clay TE - BUF View News View Videos,@CAR,-,-,-,0.29,-,45.84,0.32,-,-,0.03,6.47
-Cameron Brate TE - TB View News View Videos,CHI,-,-,-,0.03,-,42.65,0.35,-,-,0.02,6.33
-Antonio Gates TE - LAC View Videos,MIA,-,-,-,-,-,42.74,0.32,-,0.01,0.02,6.17
-Eric Ebron TE - DET View News View Videos,@NYG,-,-,-,0.53,-,46.33,0.24,-,0.01,0.03,6.09
+Charles Clay TE - BUF,@CAR,-,-,-,0.29,-,45.84,0.32,-,-,0.03,6.47
+Cameron Brate TE - TB,CHI,-,-,-,0.03,-,42.65,0.35,-,-,0.02,6.33
+Antonio Gates TE - LAC,MIA,-,-,-,-,-,42.74,0.32,-,0.01,0.02,6.17
+Eric Ebron TE - DET,@NYG,-,-,-,0.53,-,46.33,0.24,-,0.01,0.03,6.09
 Jason Witten TE - DAL,@DEN,-,-,-,-,-,42.7,0.29,-,0.01,0.02,5.99
-Jack Doyle TE - IND View Videos,ARI,-,-,-,0.08,0.01,39,0.25,-,-,0.02,5.43
+Jack Doyle TE - IND,ARI,-,-,-,0.08,0.01,39,0.25,-,-,0.02,5.43
 Martellus Bennett TE - NE,@NO,-,-,-,0.55,-,34.35,0.24,-,0.01,0.02,4.91
 Coby Fleener TE - NO,NE,-,-,-,-,0.01,33.4,0.21,-,0.01,0.02,4.64
 Jesse James TE - PIT,MIN,-,-,-,0.56,0.01,32.68,0.21,-,0.01,0.02,4.62
 Zach Miller TE - CHI,@TB,-,-,-,-,-,33.03,0.21,-,-,0.02,4.52
-David Njoku TE - CLE View Videos,@BAL,-,-,-,0.62,-,32.18,0.19,-,0.01,0.02,4.40
+David Njoku TE - CLE,@BAL,-,-,-,0.62,-,32.18,0.19,-,0.01,0.02,4.40
 Julius Thomas TE - MIA,@LAC,-,-,-,0.28,-,29.49,0.22,-,-,0.02,4.26
 Benjamin Watson TE - BAL View Videos,CLE,-,-,-,-,-,29.75,0.21,-,-,0.01,4.22
-Marcedes Lewis TE - JAX View Videos,TEN,-,-,-,-,-,31.1,0.15,-,0.01,0.02,3.99
+Marcedes Lewis TE - JAX,TEN,-,-,-,-,-,31.1,0.15,-,0.01,0.02,3.99
 Will Tye TE - NE,@NO,-,-,-,0.07,-,29.61,0.15,-,-,0.02,3.83
+Austin Hooper TE - ATL View Videos,GB,-,-,-,1.56,0.01,24.45,0.19,-,0.01,0.02,3.78
+Jermaine Gresham TE - ARI,@IND,-,-,-,-,-,26.5,0.16,-,-,0.02,3.57
+Dion Sims TE - CHI,@TB,-,-,-,0.11,-,24.5,0.19,-,-,0.02,3.56
+Hunter Henry TE - LAC,MIA,-,-,-,1.09,0.01,21.45,0.21,-,0.01,0.02,3.55
+O.J. Howard TE - TB,CHI,-,-,-,0.39,0.01,24.75,0.16,-,-,0.02,3.49
+George Kittle TE - SF,@SEA,-,-,-,0.3,-,22.32,0.14,-,-,0.02,3.06
+Trey Burton TE - PHI,@KC,-,-,-,0.21,-,23.25,0.12,-,-,0.02,3.03
+Tyler Higbee TE - LA,WAS,-,-,-,0.35,0.01,19.67,0.13,-,-,0.02,2.80
+Evan Engram TE - NYG,DET,-,-,-,0.42,0.01,19.2,0.13,-,-,0.02,2.76
+A.J. Derby TE - MIA,@LAC,-,-,-,0.21,-,19.58,0.11,-,-,0.02,2.60
+Garrett Celek TE - SF,@SEA,-,-,-,-,-,18.08,0.13,-,-,0.01,2.57
+Virgil Green TE - DEN,DAL,-,-,-,0.26,-,17.86,0.12,-,-,0.01,2.51
+Seth DeValve TE - CLE View News,@BAL,-,-,-,0.29,-,15.98,0.12,-,-,0.02,2.31
+Dwayne Allen TE - NE,@NO,-,-,-,0.05,-,15.31,0.12,-,0.01,0.01,2.26
+Gerald Everett TE - LA,WAS,-,-,-,0.41,0.01,15.24,0.11,-,-,0.02,2.25
+Vernon Davis TE - WAS,@LA,-,-,-,-,-,15.21,0.09,-,-,0.01,2.04
+Nick Boyle TE - BAL,CLE,-,-,-,0.18,-,14.25,0.09,-,0.01,0.01,1.98
+Josh Hill TE - NO,NE,-,-,-,0.09,0.01,12.54,0.09,-,-,0.01,1.84
+Lance Kendricks TE - GB,@ATL,-,-,-,0.41,-,12.95,0.07,-,-,0.01,1.74
+Ben Koyack TE - JAX,TEN,-,-,-,0.4,0.01,11.41,0.08,-,-,0.01,1.70
+Demetrius Harris TE - KC View Videos,PHI,-,-,-,0.2,-,11.08,0.08,-,0.01,0.01,1.61
+Jonnu Smith TE - TEN View Videos,@JAX,-,-,-,0.27,-,11.32,0.07,-,-,0.01,1.56
+Clive Walford TE - OAK,NYJ,-,-,-,0.19,-,10.6,0.08,-,-,0.01,1.54
+Vance McDonald TE - PIT,MIN,-,-,-,0.23,-,10.06,0.08,-,-,0.01,1.49
+Luke Willson TE - SEA,SF,-,-,-,0.12,-,10.08,0.08,-,-,0.01,1.48
+Jeff Heuerman TE - DEN,DAL,-,-,-,0.43,-,9.9,0.06,-,-,0.01,1.37
+Adam Shaheen TE - CHI,@TB,-,-,-,0.21,-,9.87,0.06,-,-,0.01,1.35
+Rhett Ellison TE - NYG,DET,-,-,-,0.06,-,9.3,0.06,-,-,0.01,1.28
+Michael Hoomanawanui TE - NO,NE,-,-,-,0.02,-,8.57,0.07,-,0.01,0.01,1.28
+Levine Toilolo TE - ATL,GB,-,-,-,0.83,0.01,7.91,0.06,-,-,0.01,1.27
+Jerell Adams TE - NYG,DET,-,-,-,0.33,-,8.88,0.06,-,-,0.01,1.26
+Brent Celek TE - PHI,@KC,-,-,-,-,-,8.94,0.05,-,-,0.01,1.17
+Maxx Williams TE - BAL,CLE,-,-,-,0.38,-,7.72,0.05,-,0.01,0.01,1.11
+Richard Rodgers TE - GB,@ATL,-,-,-,0.55,-,6.46,0.06,-,-,0.01,1.04
+Ed Dickson TE - CAR,BUF,-,-,-,-,-,6.89,0.05,-,-,0.01,0.97
+Darren Fells TE - DET,@NYG,-,-,-,-,-,6.85,0.05,-,-,0.01,0.97
+Neal Sterling TE - NYJ,@OAK,-,-,-,0.12,-,7.22,0.04,-,-,0.01,0.95
+Jacob Hollister TE - NE,@NO,-,-,-,0.23,-,5.88,0.04,-,-,0.01,0.83
+James Hanna TE - DAL,@DEN,-,-,-,0.07,-,6.55,0.03,-,-,0.01,0.82
+Anthony Fasano TE - MIA,@LAC,-,-,-,0.12,-,5.43,0.04,-,-,-,0.80
+Ifeanyi Momah TE - ARI,@IND,-,-,-,-,-,5.6,0.04,-,-,0.01,0.78
+Eric Saubert TE - ATL,GB,-,-,-,0.71,0.01,3.61,0.04,-,-,0.01,0.71
+Geoff Swaim TE - DAL,@DEN,-,-,-,0.34,-,4.34,0.03,-,-,0.01,0.63
+Lee Smith TE - OAK,NYJ,-,-,-,-,-,4.45,0.03,-,-,0.01,0.61
+Luke Stocker TE - TEN,@JAX,-,-,-,-,-,4.52,0.03,-,-,0.01,0.61
+Nick O'Leary TE - BUF,@CAR,-,-,-,0.21,-,4.36,0.02,-,-,0.01,0.56
+Nick Vannett TE - SEA,SF,-,-,-,0.22,-,3.43,0.03,-,-,0.01,0.53
+MarQueis Gray TE - MIA,@LAC,-,-,-,0.39,-,2.89,0.03,-,-,0.01,0.49
+Derek Carrier TE - LA,WAS,-,-,-,0.17,-,2.84,0.03,-,-,-,0.48
+Brandon Williams TE - IND,ARI,-,-,-,-,-,3.15,0.03,-,-,0.01,0.48
+Michael Roberts TE - DET,@NYG,-,-,-,0.29,-,3.23,0.02,-,-,0.01,0.45
+Randall Telfer TE - CLE View News,@BAL,-,-,-,0.18,-,3.18,0.02,-,-,0.01,0.44
+Chris Manhertz TE - CAR,BUF,-,-,-,0.22,-,3.04,0.02,-,-,0.01,0.43
+Xavier Grimble TE - PIT,MIN,-,-,-,0.45,-,2.4,0.02,-,0.01,0.01,0.41
+Tyler Kroft TE - CIN,HOU,-,-,-,0.34,-,2.68,0.02,-,-,0.01,0.40
+David Morgan TE - MIN,@PIT,-,-,-,0.27,-,2.69,0.02,-,-,0.01,0.40
+Niles Paul TE - WAS,@LA,-,-,-,0.04,-,2.97,0.02,-,-,0.01,0.40
+Ryan Hewitt TE - CIN,HOU,-,-,-,0.16,-,2.35,0.02,-,-,0.01,0.35
+James O'Shaughnessy TE - JAX View News,TEN,-,-,-,0.11,-,2.3,0.02,-,-,0.01,0.34
+Jim Dray TE,Bye,-,-,-,-,-,1.93,0.01,-,-,-,-
+Logan Paulsen TE - SF,@SEA,-,-,-,-,-,1.89,0.01,-,-,-,0.25
+Blake Bell TE - MIN,@PIT,-,-,-,0.14,-,1.64,0.01,-,-,0.01,0.22
+Troy Niklas TE - ARI View News,@IND,-,-,-,0.16,-,1.64,0.01,-,-,0.01,0.22
+Sean McGrath TE - LAC,MIA,-,-,-,0.38,-,0.66,0.01,-,-,-,0.16
+Phillip Supernaw TE - TEN,@JAX,-,-,-,0.04,-,1.63,-,-,-,0.01,0.15
+Mo Alie-Cox TE - IND,ARI,-,-,-,-,-,-,-,-,-,-,0.00
+RaShaun Allen TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jace Amaro TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Rory Anderson TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Stephen Anderson TE - HOU,@CIN,-,-,-,-,-,-,-,-,-,-,0.00
+Antony Auclair TE - TB,CHI,-,-,-,-,-,-,-,-,-,-,0.00
+David Ausberry TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Kennard Backman TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Gary Barnidge TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+E.J. Bibbs TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Brandon Bostick TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Ben Braunecker TE - CHI,@TB,-,-,-,-,-,-,-,-,-,-,0.00
+Chris Briggs TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Daniel Brown TE - CHI,@TB,-,-,-,-,-,-,-,-,-,-,0.00
+Jake Butt TE - DEN,DAL,-,-,-,-,-,-,-,-,-,-,0.00
+Gerald Christian TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Asante Cleveland TE - LAC,MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Sean Culkin TE - LAC,MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Jeff Cumberland TE - LAC,MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Jerome Cunningham TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Kellen Davis TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Dorin Dickerson TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Larry Donnell TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Thomas Duarte TE - MIA,@LAC,-,-,-,-,-,-,-,-,-,-,0.00
+Gavin Escobar TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+C.J. Fiedorowicz TE - HOU,@CIN,-,-,-,-,-,-,-,-,-,-,0.00
+Rico Gathers TE - DAL,@DEN,-,-,-,-,-,-,-,-,-,-,0.00
+Crockett Gillmore TE - BAL,CLE,-,-,-,-,-,-,-,-,-,-,0.00
+Chris Gragg TE - NYJ,@OAK,-,-,-,-,-,-,-,-,-,-,0.00
+Ladarius Green TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Garrett Griffin TE - NO,NE,-,-,-,-,-,-,-,-,-,-,0.00
+Ryan Griffin TE - HOU,@CIN,-,-,-,-,-,-,-,-,-,-,0.00
+Clay Harbor TE - NO,NE,-,-,-,-,-,-,-,-,-,-,0.00
+Cory Harkey TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Cooper Helfet TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Temarrick Hemingway TE - LA,WAS,-,-,-,-,-,-,-,-,-,-,0.00
+Bucky Hodges TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+David Johnson TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Dominique Jones TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jordan Leggett TE - NYJ,@OAK,-,-,-,-,-,-,-,-,-,-,0.00
+Matt Lengel TE - CLE,@BAL,-,-,-,-,-,-,-,-,-,-,0.00
+Brian Leonhardt TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jake McGee TE - PIT,MIN,-,-,-,-,-,-,-,-,-,-,0.00
+Matthew Mulligan TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Johnny Mundt TE - LA,WAS,-,-,-,-,-,-,-,-,-,-,0.00
+Brandon Myers TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Ryan O'Malley TE - NYG,DET,-,-,-,-,-,-,-,-,-,-,0.00
+Justin Perillo TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Josh Perkins TE - ATL,GB,-,-,-,-,-,-,-,-,-,-,0.00
+John Phillips TE - NO,NE,-,-,-,-,-,-,-,-,-,-,0.00
+Dennis Pitta TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+MyCole Pruitt TE - HOU,@CIN,-,-,-,-,-,-,-,-,-,-,0.00
+Mychal Rivera TE - JAX,TEN,-,-,-,-,-,-,-,-,-,-,0.00
+Beau Sandland TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Wes Saxton TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Mason Schreck TE - CIN,HOU,-,-,-,-,-,-,-,-,-,-,0.00
+Greg Scruggs TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Ricky Seals-Jones TE - ARI,@IND,-,-,-,-,-,-,-,-,-,-,0.00
+Austin Seferian-Jenkins TE - NYJ,@OAK,-,-,-,-,-,-,-,-,-,-,0.00
+Jeremy Sprinkle TE - WAS,@LA,-,-,-,-,-,-,-,-,-,-,0.00
+Jake Stoneburner TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Erik Swoope TE - IND,ARI,-,-,-,-,-,-,-,-,-,-,0.00
+Jacob Tamme TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Logan Thomas TE - BUF,@CAR,-,-,-,-,-,-,-,-,-,-,0.00
+Eric Tomlinson TE - NYJ,@OAK,-,-,-,-,-,-,-,-,-,-,0.00
+Ross Travis TE - IND,ARI,-,-,-,-,-,-,-,-,-,-,0.00
+Austin Traylor TE - DEN,DAL,-,-,-,-,-,-,-,-,-,-,0.00
+Nick Truesdell TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+C.J. Uzomah TE - CIN View News,HOU,-,-,-,-,-,-,-,-,-,-,0.00
+Hakeem Valles TE - DET,@NYG,-,-,-,-,-,-,-,-,-,-,0.00
+Eric Wallace TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Darren Waller TE - BAL,CLE,-,-,-,-,-,-,-,-,-,-,0.00
+Cole Wick TE - SF,@SEA,-,-,-,-,-,-,-,-,-,-,0.00
+Michael Williams TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Travis Wilson TE,Bye,-,-,-,-,-,-,-,-,-,-,-
+Timothy Wright TE,Bye,-,-,-,-,-,-,-,-,-,-,-

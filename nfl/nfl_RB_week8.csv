@@ -1,26 +1,230 @@
 Player,Opp,Yds,TD,Int,Yds,TD,Yds,TD,FumTD,2PT,Lost,Points
-Le'Veon Bell RB - PIT View Videos,@DET,-,-,-,93.86,0.72,32.26,0.11,-,0.01,0.15,17.31
-Ezekiel Elliott RB - DAL View Videos,@WAS,-,-,-,90.12,0.71,22.91,0.11,-,0.01,0.14,15.96
-LeSean McCoy RB - BUF View News View Videos,OAK,-,-,-,78.24,0.56,34.57,0.11,-,0.01,0.16,15.00
-Mark Ingram RB - NO View News,CHI,-,-,-,75.48,0.59,27.14,0.11,-,0.02,0.11,14.28
+Le'Veon Bell RB - PIT,@DET,-,-,-,93.86,0.72,32.26,0.11,-,0.01,0.15,17.31
+Ezekiel Elliott RB - DAL,@WAS,-,-,-,90.12,0.71,22.91,0.11,-,0.01,0.14,15.96
+LeSean McCoy RB - BUF View Videos,OAK,-,-,-,78.24,0.56,34.57,0.11,-,0.01,0.16,15.00
+Mark Ingram RB - NO,CHI,-,-,-,75.48,0.59,27.14,0.11,-,0.02,0.11,14.28
 Jordan Howard RB - CHI,@NO,-,-,-,91.57,0.55,14.07,0.06,-,0.01,0.13,13.98
 Devonta Freeman RB - ATL View News View Videos,@NYJ,-,-,-,74.59,0.6,23.28,0.12,-,0.01,0.11,13.91
-Kareem Hunt RB - KC View Videos,DEN,-,-,-,76.78,0.44,27.09,0.15,-,0.01,0.13,13.69
-Melvin Gordon RB - LAC View Videos,@NE,-,-,-,65.69,0.47,27.84,0.19,-,-,0.12,13.07
-Jay Ajayi RB - PHI View Videos,SF,-,-,-,83.09,0.4,15.38,0.06,-,-,0.15,12.31
+Kareem Hunt RB - KC View News View Videos,DEN,-,-,-,76.78,0.44,27.09,0.15,-,0.01,0.13,13.69
+Melvin Gordon RB - LAC,@NE,-,-,-,65.69,0.47,27.84,0.19,-,-,0.12,13.07
+Jay Ajayi RB - PHI,SF,-,-,-,83.09,0.4,15.38,0.06,-,-,0.15,12.31
 Lamar Miller RB - HOU,@SEA,-,-,-,65.92,0.39,20.16,0.11,-,0.01,0.11,11.41
 Alvin Kamara RB - NO View Videos,CHI,-,-,-,42.23,0.31,41.61,0.2,-,0.01,0.1,11.26
-Doug Martin RB - TB View News,CAR,-,-,-,64.35,0.52,13.92,0.07,-,0.01,0.11,11.17
+Doug Martin RB - TB,CAR,-,-,-,64.35,0.52,13.92,0.07,-,0.01,0.11,11.17
 Chris Thompson RB - WAS,DAL,-,-,-,40.12,0.24,42.38,0.26,-,-,0.09,11.07
-Carlos Hyde RB - SF View Videos,@PHI,-,-,-,58.86,0.36,19.49,0.08,-,-,0.11,10.26
+Carlos Hyde RB - SF,@PHI,-,-,-,58.86,0.36,19.49,0.08,-,-,0.11,10.26
 LeGarrette Blount RB - PHI,SF,-,-,-,64.08,0.59,2.99,0.02,-,0.02,0.09,10.23
-Ameer Abdullah RB - DET View News View Videos,PIT,-,-,-,63.47,0.32,16.01,0.09,-,0.01,0.11,10.21
+Ameer Abdullah RB - DET,PIT,-,-,-,63.47,0.32,16.01,0.09,-,0.01,0.11,10.21
 Jalen Richard RB - OAK,@BUF,-,-,-,51.25,0.26,26.9,0.11,-,-,0.09,9.86
-C.J. Anderson RB - DEN View Videos,@KC,-,-,-,57.66,0.38,13.85,0.07,-,-,0.09,9.67
-Javorius Allen RB - BAL View Videos,MIA,-,-,-,42.78,0.29,28.79,0.1,-,0.01,0.09,9.34
+C.J. Anderson RB - DEN,@KC,-,-,-,57.66,0.38,13.85,0.07,-,-,0.09,9.67
+Javorius Allen RB - BAL,MIA,-,-,-,42.78,0.29,28.79,0.1,-,0.01,0.09,9.34
 Isaiah Crowell RB - CLE,MIN,-,-,-,52.7,0.32,17.82,0.08,-,0.01,0.1,9.27
-Joe Mixon RB - CIN View Videos,IND,-,-,-,53.7,0.32,16.53,0.08,-,0.01,0.09,9.26
-Latavius Murray RB - MIN View Videos,@CLE,-,-,-,55.88,0.37,11.07,0.04,-,-,0.11,8.94
-Dion Lewis RB - NE View Videos,LAC,-,-,-,48.89,0.38,14.48,0.07,-,0.01,0.1,8.86
-Bilal Powell RB - NYJ View Videos,ATL,-,-,-,48.04,0.3,17.34,0.08,-,-,0.07,8.68
-Christian McCaffrey RB - CAR View News,@TB,-,-,-,22.77,0.13,42.58,0.21,-,-,0.08,8.42
+Joe Mixon RB - CIN,IND,-,-,-,53.7,0.32,16.53,0.08,-,0.01,0.09,9.26
+Latavius Murray RB - MIN,@CLE,-,-,-,55.88,0.37,11.07,0.04,-,-,0.11,8.94
+Dion Lewis RB - NE,LAC,-,-,-,48.89,0.38,14.48,0.07,-,0.01,0.1,8.86
+Bilal Powell RB - NYJ,ATL,-,-,-,48.04,0.3,17.34,0.08,-,-,0.07,8.68
+Christian McCaffrey RB - CAR View Videos,@TB,-,-,-,22.77,0.13,42.58,0.21,-,-,0.08,8.42
+Tevin Coleman RB - ATL View News View Videos,@NYJ,-,-,-,42.98,0.29,17.05,0.1,-,-,0.08,8.18
+Matt Forte RB - NYJ,ATL,-,-,-,33.9,0.18,30.84,0.12,-,0.01,0.07,8.15
+Marlon Mack RB - IND,@CIN,-,-,-,42.55,0.27,17.63,0.07,-,0.01,0.08,7.92
+Duke Johnson RB - CLE,MIN,-,-,-,24.35,0.17,33.91,0.14,-,0.01,0.06,7.59
+Thomas Rawls RB - SEA,HOU,-,-,-,44.63,0.32,9.45,0.05,-,-,0.09,7.45
+Rob Kelley RB - WAS,DAL,-,-,-,46.79,0.3,6.8,0.04,-,-,0.07,7.26
+Jonathan Stewart RB - CAR,@TB,-,-,-,46.76,0.29,7.5,0.03,-,0.01,0.09,7.19
+Jerick McKinnon RB - MIN,@CLE,-,-,-,33.07,0.2,22.2,0.09,-,-,0.1,7.07
+Frank Gore RB - IND,@CIN,-,-,-,43.73,0.25,10.9,0.04,-,0.01,0.1,7.02
+James White RB - NE,LAC,-,-,-,14.18,0.14,33.74,0.2,-,0.01,0.04,6.77
+DeAndre Washington RB - OAK,@BUF,-,-,-,37.02,0.23,12.94,0.05,-,-,0.07,6.54
+Alex Collins RB - BAL,MIA,-,-,-,43.89,0.18,5.37,0.03,-,0.01,0.1,6.01
+Tarik Cohen RB - CHI View Videos,@NO,-,-,-,23.46,0.09,25.6,0.11,-,0.01,0.07,5.99
+Wendell Smallwood RB - PHI,SF,-,-,-,31.39,0.22,12.64,0.05,-,0.01,0.07,5.90
+D'Onta Foreman RB - HOU,@SEA,-,-,-,36.29,0.2,7.7,0.04,-,0.01,0.08,5.70
+Theo Riddick RB - DET,PIT,-,-,-,13.48,0.08,29.62,0.15,-,0.01,0.04,5.63
+Jamaal Charles RB - DEN,@KC,-,-,-,28.36,0.24,8.97,0.03,-,0.01,0.05,5.27
+Giovani Bernard RB - CIN View News,IND,-,-,-,16.99,0.1,21.25,0.11,-,0.01,0.04,5.02
+Mike Gillislee RB - NE,LAC,-,-,-,33.62,0.24,1.73,0.01,-,0.01,0.05,4.96
+Jeremy Hill RB - CIN,IND,-,-,-,28.1,0.22,5.18,0.03,-,-,0.06,4.71
+Eddie Lacy RB - SEA,HOU,-,-,-,30.12,0.17,3.62,0.02,-,-,0.05,4.41
+Rex Burkhead RB - NE,LAC,-,-,-,20.38,0.15,9.37,0.05,-,-,0.04,4.10
+J.D. McKissic RB - SEA,HOU,-,-,-,13.32,0.1,15.42,0.1,-,-,0.04,3.99
+Damien Williams RB - MIA,@BAL,-,-,-,10.73,0.07,18.32,0.09,-,-,0.03,3.81
+Charles Sims RB - TB,CAR,-,-,-,9.5,0.08,18.66,0.09,-,0.01,0.03,3.80
+Matt Breida RB - SF,@PHI,-,-,-,18.13,0.08,11.48,0.04,-,-,0.05,3.58
+Devontae Booker RB - DEN,@KC,-,-,-,13.64,0.1,12.11,0.06,-,-,0.03,3.48
+Austin Ekeler RB - LAC,@NE,-,-,-,12.19,0.09,10.06,0.04,-,-,0.03,2.95
+Corey Clement RB - PHI,SF,-,-,-,13.96,0.11,6.38,0.04,-,0.01,0.03,2.89
+Charcandrick West RB - KC,DEN,-,-,-,7.93,0.06,12.26,0.09,-,-,0.03,2.86
+Mike Tolbert RB - BUF,OAK,-,-,-,16.15,0.11,2.92,0.02,-,0.01,0.03,2.65
+James Conner RB - PIT,@DET,-,-,-,12.67,0.09,2.46,0.01,-,-,0.03,2.05
+Alfred Morris RB - DAL,@WAS,-,-,-,13.9,0.08,1.54,-,-,-,0.03,1.96
+Samaje Perine RB - WAS,DAL,-,-,-,11.22,0.06,3.53,0.03,-,-,0.03,1.96
+Branden Oliver RB - LAC,@NE,-,-,-,9.93,0.05,6.5,0.01,-,-,0.03,1.94
+Elijah Hood RB - OAK,@BUF,-,-,-,9.68,0.07,3.91,0.02,-,0.01,0.03,1.86
+Zach Zenner RB - DET View News,PIT,-,-,-,8.92,0.09,2.38,0.02,-,-,0.02,1.75
+Elijah McGuire RB - NYJ,ATL,-,-,-,10.85,0.06,2.92,0.01,-,-,0.03,1.74
+Bobby Rainey RB,Bye,-,-,-,3.72,0.03,8.04,0.04,-,-,0.04,-
+Jacquizz Rodgers RB - TB,CAR,-,-,-,8.49,0.06,2.18,0.01,-,0.01,0.02,1.47
+Josh Ferguson RB - IND,@CIN,-,-,-,5.31,0.04,4.79,0.02,-,-,0.02,1.33
+Kenjon Barner RB - PHI,SF,-,-,-,6.09,0.04,2.47,0.01,-,-,0.02,1.12
+Kenyan Drake RB - MIA,@BAL,-,-,-,5.12,0.03,2.94,0.01,-,-,0.03,0.99
+Rod Smith RB - DAL,@WAS,-,-,-,6.07,0.04,1,-,-,-,0.02,0.91
+Akeem Hunt RB - KC,DEN,-,-,-,4.08,0.03,2.22,0.02,-,0.01,0.03,0.89
+Terrell Watson RB - PIT,@DET,-,-,-,4.79,0.04,1.27,0.01,-,-,0.02,0.87
+Tre Madden RB - SEA,HOU,-,-,-,3.04,0.02,3.05,0.02,-,-,0.01,0.83
+Taiwan Jones RB - BUF,OAK,-,-,-,0.53,0.01,4.43,0.03,-,-,0.01,0.72
+Andy Janovich RB - DEN,@KC,-,-,-,2.42,0.02,2.01,0.01,-,-,0.01,0.60
+Terron Ward RB - ATL,@NYJ,-,-,-,3.95,0.02,0.66,-,-,-,0.01,0.56
+Jordan Todman RB - HOU,@SEA,-,-,-,3.25,0.02,1.24,-,-,0.01,0.02,0.55
+C.J. Ham RB - MIN,@CLE,-,-,-,1.42,0.01,2.96,0.01,-,-,0.01,0.54
+Trey Edmunds RB - NO,CHI,-,-,-,0.93,0.01,2.77,0.02,-,-,0.01,0.53
+Danny Vitale RB - CLE,MIN,-,-,-,1.03,0.01,2.61,0.02,-,-,0.01,0.52
+Jamize Olawale RB - OAK,@BUF,-,-,-,1.6,0.01,2.37,0.01,-,-,0.01,0.50
+Raheem Mostert RB - SF,@PHI,-,-,-,3.47,0.02,0.66,-,-,-,0.03,0.47
+Matt Dayes RB - CLE,MIN,-,-,-,1.76,0.01,1.51,0.01,-,-,0.01,0.43
+Zach Line RB - NO,CHI,-,-,-,0.45,0.01,2.16,0.02,-,-,0.01,0.42
+Kyle Juszczyk RB - SF,@PHI,-,-,-,0.28,-,3.32,0.01,-,-,0.01,0.40
+Patrick DiMarco RB - BUF,OAK,-,-,-,0.48,-,1.9,0.02,-,0.01,-,0.38
+James Develin RB - NE,LAC,-,-,-,-,-,2.94,0.01,-,0.01,-,0.37
+Alfred Blue RB - HOU,@SEA,-,-,-,1.81,0.01,1.01,-,-,-,0.01,0.32
+Anthony Sherman RB - KC,DEN,-,-,-,0.32,-,1.82,0.01,-,0.01,-,0.29
+Cameron Artis-Payne RB - CAR,@TB,-,-,-,1.65,0.01,0.66,-,-,-,0.01,0.27
+Jay Prosch RB - HOU,@SEA,-,-,-,0.74,-,1.96,-,-,-,0.01,0.25
+Roosevelt Nix RB - PIT,@DET,-,-,-,0.04,-,1.9,0.01,-,-,0.01,0.23
+Derek Watt RB - LAC,@NE,-,-,-,0.09,-,1.26,-,-,-,0.01,0.12
+Benny Cunningham RB - CHI,@NO,-,-,-,-,-,0.7,-,-,-,0.02,0.03
+Antonio Andrews RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Dri Archer RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Matt Asiata RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+George Atkinson RB - KC,DEN,-,-,-,-,-,-,-,-,-,-,0.00
+Joe Banyard RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Peyton Barber RB - TB,CAR,-,-,-,-,-,-,-,-,-,-,0.00
+Kapri Bibbs RB - WAS,DAL,-,-,-,-,-,-,-,-,-,-,0.00
+Brandon Bolden RB - NE,LAC,-,-,-,-,-,-,-,-,-,-,0.00
+Zac Brooks RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Mack Brown RB - MIN,@CLE,-,-,-,-,-,-,-,-,-,-,0.00
+Malcolm Brown RB - LA,Bye,-,-,-,-,-,-,-,-,-,-,-
+Brandon Burks RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Travaris Cadet RB - BUF,OAK,-,-,-,-,-,-,-,-,-,-,0.00
+Ka'Deem Carey RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Chris Carson RB - SEA,HOU,-,-,-,-,-,-,-,-,-,-,0.00
+Tra Carson RB - CIN,IND,-,-,-,-,-,-,-,-,-,-,0.00
+David Cobb RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Dalvin Cook RB - MIN,@CLE,-,-,-,-,-,-,-,-,-,-,0.00
+John Crockett RB - BAL,MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Alan Cross RB - TB,CAR,-,-,-,-,-,-,-,-,-,-,0.00
+LeShun Daniels RB - WAS,DAL,-,-,-,-,-,-,-,-,-,-,0.00
+Orleans Darkwa RB - NYG,Bye,-,-,-,-,-,-,-,-,-,-,-
+Justin Davis RB - LA,Bye,-,-,-,-,-,-,-,-,-,-,-
+Knile Davis RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Mike Davis RB - SEA,HOU,-,-,-,-,-,-,-,-,-,-,0.00
+Kenneth Dixon RB - BAL,MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Shaun Draughn RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Lance Dunbar RB - LA,Bye,-,-,-,-,-,-,-,-,-,-,-
+Andre Ellington RB - HOU,@SEA,-,-,-,-,-,-,-,-,-,-,0.00
+Tyler Ervin RB - HOU,@SEA,-,-,-,-,-,-,-,-,-,-,0.00
+Kenneth Farrow RB - LAC,@NE,-,-,-,-,-,-,-,-,-,-,0.00
+Jerome Felton RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Justin Forsett RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+D.J. Foster RB - ARI,Bye,-,-,-,-,-,-,-,-,-,-,-
+Leonard Fournette RB - JAX View Videos,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jalston Fowler RB - SEA,HOU,-,-,-,-,-,-,-,-,-,-,0.00
+Wayne Gallman RB - NYG,Bye,-,-,-,-,-,-,-,-,-,-,-
+Corey Grant RB - JAX,Bye,-,-,-,-,-,-,-,-,-,-,-
+Aaron Green RB - BUF,OAK,-,-,-,-,-,-,-,-,-,-,0.00
+Tion Green RB - DET,PIT,-,-,-,-,-,-,-,-,-,-,0.00
+Jonathan Grimes RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Glenn Gronkowski RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Todd Gurley RB - LA View News View Videos,Bye,-,-,-,-,-,-,-,-,-,-,-
+DuJuan Harris RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+De'Angelo Henderson RB - DEN,@KC,-,-,-,-,-,-,-,-,-,-,0.00
+Derrick Henry RB - TEN View News View Videos,Bye,-,-,-,-,-,-,-,-,-,-,-
+Quayvon Hicks RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Tim Hightower RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Brian Hill RB - CIN View News,IND,-,-,-,-,-,-,-,-,-,-,0.00
+Ronnie Hillman RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Chris Ivory RB - JAX,Bye,-,-,-,-,-,-,-,-,-,-,-
+Darius Jackson RB - CLE,MIN,-,-,-,-,-,-,-,-,-,-,0.00
+Don Jackson RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Mike James RB - DET,PIT,-,-,-,-,-,-,-,-,-,-,0.00
+Rashad Jennings RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Austin Johnson RB - TB,CAR,-,-,-,-,-,-,-,-,-,-,0.00
+Chris Johnson RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+David Johnson RB - ARI,Bye,-,-,-,-,-,-,-,-,-,-,-
+Devon Johnson RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Storm Johnson RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Will Johnson RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Aaron Jones RB - GB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Matt Jones RB - IND,@CIN,-,-,-,-,-,-,-,-,-,-,0.00
+John Kuhn RB - NO,CHI,-,-,-,-,-,-,-,-,-,-,0.00
+Jeremy Langford RB - NYJ,ATL,-,-,-,-,-,-,-,-,-,-,0.00
+Daniel Lasco RB - NO,CHI,-,-,-,-,-,-,-,-,-,-,0.00
+T.J. Logan RB - ARI,Bye,-,-,-,-,-,-,-,-,-,-,-
+Marshawn Lynch RB - OAK,@BUF,-,-,-,-,-,-,-,-,-,-,0.00
+Byron Marshall RB - WAS,DAL,-,-,-,-,-,-,-,-,-,-,0.00
+Keith Marshall RB - WAS,DAL,-,-,-,-,-,-,-,-,-,-,0.00
+Tre Mason RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Ryan Mathews RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Devante Mays RB - GB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Darren McFadden RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jeremy McNichols RB - SF,@PHI,-,-,-,-,-,-,-,-,-,-,0.00
+Christine Michael RB - IND,@CIN,-,-,-,-,-,-,-,-,-,-,0.00
+Taquan Mizzell RB - CHI,@NO,-,-,-,-,-,-,-,-,-,-,0.00
+Ty Montgomery RB - GB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Khalfani Muhammad RB - TEN,Bye,-,-,-,-,-,-,-,-,-,-,-
+Marcus Murphy RB - BUF,OAK,-,-,-,-,-,-,-,-,-,-,0.00
+DeMarco Murray RB - TEN View Videos,Bye,-,-,-,-,-,-,-,-,-,-,-
+Dare Ogunbowale RB - WAS,DAL,-,-,-,-,-,-,-,-,-,-,0.00
+Cedric Peerman RB - CIN,IND,-,-,-,-,-,-,-,-,-,-,0.00
+Elijhaa Penny RB - ARI,Bye,-,-,-,-,-,-,-,-,-,-,-
+Paul Perkins RB - NYG,Bye,-,-,-,-,-,-,-,-,-,-,-
+Senorise Perry RB - MIA,@BAL,-,-,-,-,-,-,-,-,-,-,0.00
+Adrian Peterson RB - ARI,Bye,-,-,-,-,-,-,-,-,-,-,-
+Troymaine Pope RB - HOU,@SEA,-,-,-,-,-,-,-,-,-,-,0.00
+Jhurrell Pressley RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+C.J. Prosise RB - SEA,HOU,-,-,-,-,-,-,-,-,-,-,0.00
+DJ Pumphrey RB - PHI,SF,-,-,-,-,-,-,-,-,-,-,0.00
+Darrin Reaves RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Devine Redding RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Marcel Reece RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Patrick Ricard RB - BAL,MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Daryl Richardson RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Stevan Ridley RB - PIT,@DET,-,-,-,-,-,-,-,-,-,-,0.00
+Aaron Ripkowski RB - GB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Denard Robinson RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Khiry Robinson RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Sam Rogers RB - LA,Bye,-,-,-,-,-,-,-,-,-,-,-
+Bishop Sankey RB - MIN,@CLE,-,-,-,-,-,-,-,-,-,-,0.00
+Antone Smith RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+De'Veon Smith RB - MIA,@BAL,-,-,-,-,-,-,-,-,-,-,0.00
+Shane Smith RB - NYG,Bye,-,-,-,-,-,-,-,-,-,-,-
+C.J. Spiller RB - KC View News,DEN,-,-,-,-,-,-,-,-,-,-,0.00
+Darren Sproles RB - PHI,SF,-,-,-,-,-,-,-,-,-,-,0.00
+James Starks RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Lorenzo Taliaferro RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Kelvin Taylor RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Stepfan Taylor RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Juwan Thompson RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Fitzgerald Toussaint RB - PIT,@DET,-,-,-,-,-,-,-,-,-,-,0.00
+Robert Turbin RB - IND,@CIN,-,-,-,-,-,-,-,-,-,-,0.00
+Harvey Unga RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Shane Vereen RB - NYG,Bye,-,-,-,-,-,-,-,-,-,-,-
+Daryl Virgies RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Spencer Ware RB - KC,DEN,-,-,-,-,-,-,-,-,-,-,0.00
+Dwayne Washington RB - DET View News,PIT,-,-,-,-,-,-,-,-,-,-,0.00
+Terrance West RB - BAL,MIA,-,-,-,-,-,-,-,-,-,-,0.00
+Fozzy Whittaker RB - CAR,@TB,-,-,-,-,-,-,-,-,-,-,0.00
+Brandon Wilds RB - JAX,Bye,-,-,-,-,-,-,-,-,-,-,-
+Andre Williams RB - LAC,@NE,-,-,-,-,-,-,-,-,-,-,0.00
+DeAngelo Williams RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jamaal Williams RB - GB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Jarveon Williams RB - CIN,IND,-,-,-,-,-,-,-,-,-,-,0.00
+Joe Williams RB - SF,@PHI,-,-,-,-,-,-,-,-,-,-,0.00
+Jonathan Williams RB - NO,CHI,-,-,-,-,-,-,-,-,-,-,0.00
+Karlos Williams RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Kerwynn Williams RB - ARI,Bye,-,-,-,-,-,-,-,-,-,-,-
+Marquez Williams RB - CLE,MIN,-,-,-,-,-,-,-,-,-,-,0.00
+Brandon Wilson RB - CIN,IND,-,-,-,-,-,-,-,-,-,-,0.00
+George Winn RB - IND,@CIN,-,-,-,-,-,-,-,-,-,-,0.00
+Glenn Winston RB,Bye,-,-,-,-,-,-,-,-,-,-,-
+Danny Woodhead RB - BAL,MIA,-,-,-,-,-,-,-,-,-,-,0.00
+T.J. Yeldon RB - JAX View Videos,Bye,-,-,-,-,-,-,-,-,-,-,-
