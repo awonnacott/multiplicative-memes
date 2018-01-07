@@ -3,7 +3,9 @@
 from clean_data import clean, experts, positions, num_weeks, points_weights
 
 cost_scalar = 0.0007
-eta = 0.25
+eta = 0.55
+
+players = []
 
 weights = {expert: 1.0 / len(experts) for expert in experts}
 cost = 0
@@ -16,6 +18,15 @@ for week in range(1, num_weeks + 1):
     for pos in positions:
         true_values = clean(pos, str(week), "truevalues")
         predictions = {expert: clean(pos, str(week), expert) for expert in experts}
+
+        for player in true_values.keys():
+            if not(player in players):
+                players.append(player)
+        for expert in predictions:
+            for player in predictions[expert].keys():
+                if not (player in players):
+                    players.append(player)
+
         for player in true_values:
             guess = 0
             true_score = sum(value * weight for value, weight in zip(true_values[player], points_weights))
@@ -33,3 +44,7 @@ for week in range(1, num_weeks + 1):
     print("Costs:", costs, weekly_cost)
     cost += weekly_cost
 print "Total cost:", cost
+
+list.sort(players)
+for player in players:
+    print player
