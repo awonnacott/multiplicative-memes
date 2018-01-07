@@ -36,7 +36,7 @@ for pos in positions:
                     guess += expert_score * weights[expert]
                     costs[expert] += abs(expert_score - true_score)
                 guess /= weight_sum
-                weekly_cost += abs(guess - true_score) * cost_scalars[pos][stat]
+                weekly_cost += abs(guess - true_score)
             for expert in experts:
                 costs[expert] *= cost_scalars[pos][stat]
                 # if costs[expert] > max_cost:
@@ -45,3 +45,4 @@ for pos in positions:
             print("Costs:", costs, weekly_cost)
             cost += weekly_cost
         # print(max_cost)
+        print "Stat cost: ", cost
