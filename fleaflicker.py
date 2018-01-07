@@ -18,14 +18,14 @@ positions = {
 }
 pages = {
     'QB': 2,
-    'RB': 5,
-    'WR': 7,
-    'TE': 3,
+    'RB': 6,
+    'WR': 8,
+    'TE': 4,
     'DST': 2,
     'K': 2,
-    'DB': 7,
-    'DL': 7,
-    'LB': 7,
+    'DB': 12,
+    'DL': 10,
+    'LB': 9,
 }
 weeks = range(1, 22)
 
