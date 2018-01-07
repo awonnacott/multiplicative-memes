@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 from bs4 import BeautifulSoup
 import requests
 import csv
@@ -11,7 +12,16 @@ positions = {
     'TE': 6,
     'DST': 16,
     'K': 17,
-    'FLEX': 23,
+    'FLEX': 23
+}
+pages = {
+    'QB': 3,
+    'RB': 6,
+    'WR': 8,
+    'TE': 4,
+    'DST': 1,
+    'K': 2,
+    'FLEX': 18,
 }
 weeks = range(1, 22)
 
@@ -23,15 +33,12 @@ def cbs(pos, week):
         soup = BeautifulSoup(contents, "html.parser")
         rows = soup.find('table').find_all('tr')
         header = [td.text.split(',')[0].replace(u'\xa0', u'') for td in rows[2]]
-        data = [[td.text.split(',')[0].split('D/ST')[0] for td in row] for row in rows[3:]]
-        contents = requests.get(url.format(i=50)).content
-        soup = BeautifulSoup(contents, "html.parser")
-        rows = soup.find('table').find_all('tr')
-        data += [[td.text.split(',')[0].split('D/ST')[0] for td in row] for row in rows[3:]]
-        contents = requests.get(url.format(i=100)).content
-        soup = BeautifulSoup(contents, "html.parser")
-        rows = soup.find('table').find_all('tr')
-        data += [[td.text.split(',')[0].split('D/ST')[0] for td in row] for row in rows[3:]]
+        data = []
+        for i in range(pages[pos]):
+            contents = requests.get(url.format(i=50 * i)).content
+            soup = BeautifulSoup(contents, "html.parser")
+            rows = soup.find('table').find_all('tr')
+            data += [[td.text.split(',')[0].split('D/ST')[0] for td in row] for row in rows[3:]]
     except AttributeError:
         print("Failed: " + pos + " " + str(week))
         return
