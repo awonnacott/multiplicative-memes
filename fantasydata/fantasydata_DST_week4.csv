@@ -1,0 +1,33 @@
+Rk,Player,Pos,Week,Team,Opp,TFL,Sacks,QB Hits,Int,Fum Rec,Safeties,Def TD,Return TD,Pts Allowed,Fantasy Points
+1,Cincinnati Bengals,DST,4,CIN,CLE,0.0,3.3,0.0,1.3,0.6,0.0,0.0,0.0,15.9,9.30
+2,Seattle Seahawks,DST,4,SEA,IND,0.0,3.0,0.0,1.2,0.8,0.0,0.0,0.0,17.2,9.20
+3,Green Bay Packers,DST,4,GB,CHI,0.0,2.5,0.0,1.0,0.8,0.1,0.0,0.0,19.0,8.50
+4,Jacksonville Jaguars,DST,4,JAX,NYJ,0.0,2.7,0.0,0.9,0.9,0.0,0.0,0.0,18.8,8.50
+5,Dallas Cowboys,DST,4,DAL,LAR,0.0,2.4,0.0,0.9,0.7,0.1,0.0,0.0,19.7,8.00
+6,Pittsburgh Steelers,DST,4,PIT,BAL,0.0,2.3,0.0,1.0,0.7,0.0,0.0,0.0,18.0,7.90
+7,Arizona Cardinals,DST,4,ARI,SF,0.0,2.3,0.0,0.9,0.7,0.0,0.0,0.0,17.0,7.70
+8,Tampa Bay Buccaneers,DST,4,TB,NYG,0.0,2.1,0.0,1.1,0.6,0.0,0.0,0.0,18.8,7.70
+9,New England Patriots,DST,4,NE,CAR,0.0,2.3,0.0,1.0,0.5,0.0,0.0,0.0,19.1,7.50
+10,Tennessee Titans,DST,4,TEN,HOU,0.0,3.0,0.0,1.0,0.6,0.0,0.0,0.0,20.9,7.40
+11,New York Giants,DST,4,NYG,TB,0.0,2.0,0.0,1.0,0.6,0.0,0.0,0.0,20.0,7.40
+12,Minnesota Vikings,DST,4,MIN,DET,0.0,2.3,0.0,0.8,0.6,0.0,0.0,0.0,20.0,7.30
+13,Philadelphia Eagles,DST,4,PHI,LAC,0.0,2.3,0.0,1.1,0.7,0.0,0.0,0.0,22.0,7.10
+14,Los Angeles Chargers,DST,4,LAC,PHI,0.0,2.5,0.0,1.0,0.7,0.0,0.0,0.0,23.0,7.10
+15,Baltimore Ravens,DST,4,BAL,PIT,0.0,1.6,0.0,1.0,0.6,0.0,0.0,0.0,20.1,7.00
+16,Oakland Raiders,DST,4,OAK,DEN,0.0,2.5,0.0,1.0,0.6,0.0,0.0,0.0,22.8,6.90
+17,San Francisco 49ers,DST,4,SF,ARI,0.0,2.0,0.0,0.9,0.8,0.1,0.0,0.0,25.1,6.80
+18,Kansas City Chiefs,DST,4,KC,WAS,0.0,2.1,0.0,0.9,0.8,0.0,0.0,0.0,21.8,6.70
+19,Detroit Lions,DST,4,DET,MIN,0.0,2.0,0.0,0.9,0.6,0.0,0.0,0.0,22.0,6.20
+20,Cleveland Browns,DST,4,CLE,CIN,0.0,2.1,0.0,0.8,0.6,0.0,0.0,0.0,22.0,6.10
+21,New Orleans Saints,DST,4,NO,MIA,0.0,2.0,0.0,0.8,0.6,0.0,0.0,0.0,23.1,6.00
+22,Miami Dolphins,DST,4,MIA,NO,0.0,2.0,0.0,0.8,0.6,0.0,0.0,0.0,26.1,6.00
+23,Denver Broncos,DST,4,DEN,OAK,0.0,2.0,0.0,0.8,0.6,0.0,0.0,0.0,20.8,6.00
+24,Chicago Bears,DST,4,CHI,GB,0.0,3.0,0.0,0.5,0.6,0.0,0.0,0.0,27.1,5.80
+25,Atlanta Falcons,DST,4,ATL,BUF,0.0,2.4,0.0,0.6,0.5,0.0,0.0,0.0,21.0,5.80
+26,Indianapolis Colts,DST,4,IND,SEA,0.0,2.4,0.0,0.6,0.5,0.0,0.0,0.0,26.9,5.80
+27,New York Jets,DST,4,NYJ,JAX,0.0,2.1,0.0,0.8,0.6,0.0,0.0,0.0,20.9,5.50
+28,Washington Redskins,DST,4,WAS,KC,0.0,2.2,0.0,0.6,0.6,0.0,0.0,0.0,26.1,5.20
+29,Houston Texans,DST,4,HOU,TEN,0.0,2.0,0.0,0.6,0.6,0.0,0.0,0.0,21.9,5.00
+30,Los Angeles Rams,DST,4,LAR,DAL,0.0,2.0,0.0,0.5,0.6,0.0,0.0,0.0,27.0,4.80
+31,Carolina Panthers,DST,4,CAR,NE,0.0,2.2,0.0,0.6,0.5,0.1,0.0,0.0,27.7,4.20
+32,Buffalo Bills,DST,4,BUF,ATL,0.0,2.3,0.0,0.7,0.4,0.0,0.0,0.0,27.8,4.10

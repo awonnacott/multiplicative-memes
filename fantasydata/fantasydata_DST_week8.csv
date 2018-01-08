@@ -1,0 +1,27 @@
+Rk,Player,Pos,Week,Team,Opp,TFL,Sacks,QB Hits,Int,Fum Rec,Safeties,Def TD,Return TD,Pts Allowed,Fantasy Points
+1,Minnesota Vikings,DST,8,MIN,CLE,0.0,3.2,0.0,1.5,0.6,0.0,0.0,0.0,13.9,10.20
+2,Philadelphia Eagles,DST,8,PHI,SF,0.0,3.5,0.0,1.2,0.6,0.0,0.0,0.0,15.5,9.30
+3,Cincinnati Bengals,DST,8,CIN,IND,0.0,3.6,0.0,0.8,0.7,0.1,0.0,0.0,17.0,9.00
+4,Pittsburgh Steelers,DST,8,PIT,DET,0.0,3.3,0.0,0.8,0.7,0.0,0.0,0.0,19.0,8.50
+5,Kansas City Chiefs,DST,8,KC,DEN,0.0,3.0,0.0,1.0,0.6,0.0,0.0,0.0,18.2,8.40
+6,Seattle Seahawks,DST,8,SEA,HOU,0.0,2.8,0.0,1.1,0.5,0.0,0.0,0.0,18.4,8.20
+7,New Orleans Saints,DST,8,NO,CHI,0.0,2.4,0.0,0.9,0.6,0.1,0.0,0.0,18.7,7.80
+8,Baltimore Ravens,DST,8,BAL,MIA,0.0,2.1,0.0,1.0,0.7,0.0,0.0,0.0,17.3,7.70
+9,Miami Dolphins,DST,8,MIA,BAL,0.0,2.2,0.0,0.9,0.7,0.0,0.0,0.0,19.1,7.60
+10,Atlanta Falcons,DST,8,ATL,NYJ,0.0,2.4,0.0,0.9,0.6,0.0,0.0,0.0,16.7,7.60
+11,Carolina Panthers,DST,8,CAR,TB,0.0,2.6,0.0,0.8,0.7,0.0,0.0,0.0,22.7,6.80
+12,Tampa Bay Buccaneers,DST,8,TB,CAR,0.0,2.4,0.0,0.9,0.7,0.0,0.0,0.0,22.2,6.80
+13,Houston Texans,DST,8,HOU,SEA,0.0,2.3,0.0,0.8,0.6,0.0,0.0,0.0,23.9,6.30
+14,New England Patriots,DST,8,NE,LAC,0.0,1.9,0.0,1.1,0.4,0.0,0.0,0.0,21.2,6.10
+15,Denver Broncos,DST,8,DEN,KC,0.0,2.5,0.0,0.7,0.5,0.0,0.0,0.0,24.5,6.10
+16,Dallas Cowboys,DST,8,DAL,WAS,0.0,2.3,0.0,0.5,0.7,0.0,0.0,0.0,23.1,5.90
+17,Buffalo Bills,DST,8,BUF,OAK,0.0,1.8,0.0,0.8,0.6,0.0,0.0,0.0,21.4,5.80
+18,Detroit Lions,DST,8,DET,PIT,0.0,1.6,0.0,1.1,0.4,0.0,0.0,0.0,24.1,5.80
+19,Chicago Bears,DST,8,CHI,NO,0.0,2.1,0.0,0.8,0.4,0.0,0.0,0.0,27.2,5.70
+20,Indianapolis Colts,DST,8,IND,CIN,0.0,1.8,0.0,0.7,0.6,0.0,0.0,0.0,25.6,5.60
+21,Washington Redskins,DST,8,WAS,DAL,0.0,1.9,0.0,0.6,0.5,0.0,0.0,0.0,25.0,5.30
+22,New York Jets,DST,8,NYJ,ATL,0.0,1.5,0.0,0.7,0.4,0.0,0.0,0.0,25.3,4.90
+23,Cleveland Browns,DST,8,CLE,MIN,0.0,1.4,0.0,0.7,0.4,0.0,0.0,0.0,23.4,4.80
+24,Oakland Raiders,DST,8,OAK,BUF,0.0,2.3,0.0,0.4,0.5,0.0,0.0,0.0,23.7,4.70
+25,San Francisco 49ers,DST,8,SF,PHI,0.0,1.9,0.0,0.5,0.7,0.0,0.0,0.0,28.3,4.50
+26,Los Angeles Chargers,DST,8,LAC,NE,0.0,2.4,0.0,0.6,0.5,0.0,0.0,0.0,27.6,4.20

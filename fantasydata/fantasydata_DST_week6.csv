@@ -1,0 +1,29 @@
+Rk,Player,Pos,Week,Team,Opp,TFL,Sacks,QB Hits,Int,Fum Rec,Safeties,Def TD,Return TD,Pts Allowed,Fantasy Points
+1,Denver Broncos,DST,6,DEN,NYG,0.0,2.6,0.0,1.3,0.6,0.0,0.0,0.0,13.5,11.60
+2,Jacksonville Jaguars,DST,6,JAX,LAR,0.0,3.1,0.0,1.1,0.9,0.1,0.0,0.0,20.7,8.50
+3,Baltimore Ravens,DST,6,BAL,CHI,0.0,2.7,0.0,1.1,0.5,0.1,0.0,0.0,16.7,8.30
+4,Washington Redskins,DST,6,WAS,SF,0.0,2.8,0.0,1.0,0.6,0.0,0.0,0.0,17.7,8.20
+5,Carolina Panthers,DST,6,CAR,PHI,0.0,3.0,0.0,0.7,0.7,0.0,0.0,0.0,20.1,8.00
+6,New England Patriots,DST,6,NE,NYJ,0.0,2.5,0.0,0.8,0.8,0.0,0.0,0.0,19.6,7.90
+7,Atlanta Falcons,DST,6,ATL,MIA,0.0,2.4,0.0,1.0,0.6,0.0,0.0,0.0,17.2,7.80
+8,Philadelphia Eagles,DST,6,PHI,CAR,0.0,2.7,0.0,0.9,0.7,0.0,0.0,0.0,22.3,7.10
+9,Arizona Cardinals,DST,6,ARI,TB,0.0,2.1,0.0,1.1,0.8,0.0,0.0,0.0,22.0,7.10
+10,Tennessee Titans,DST,6,TEN,IND,0.0,2.8,0.0,0.8,0.7,0.0,0.0,0.0,21.7,7.00
+11,Tampa Bay Buccaneers,DST,6,TB,ARI,0.0,2.4,0.0,1.0,0.5,0.1,0.0,0.0,20.7,6.80
+12,Kansas City Chiefs,DST,6,KC,PIT,0.0,2.3,0.0,1.0,0.5,0.1,0.0,0.0,21.4,6.70
+13,Minnesota Vikings,DST,6,MIN,GB,0.0,3.0,0.0,0.7,0.5,0.0,0.0,0.0,23.6,6.60
+14,Cleveland Browns,DST,6,CLE,HOU,0.0,2.5,0.0,0.8,0.6,0.0,0.0,0.0,25.9,6.50
+15,Houston Texans,DST,6,HOU,CLE,0.0,2.2,0.0,0.7,0.6,0.0,0.0,0.0,18.2,6.40
+16,Los Angeles Rams,DST,6,LAR,JAX,0.0,2.3,0.0,0.9,0.5,0.0,0.0,0.0,22.8,6.30
+17,Green Bay Packers,DST,6,GB,MIN,0.0,2.2,0.0,0.8,0.6,0.0,0.0,0.0,22.1,6.20
+18,New Orleans Saints,DST,6,NO,DET,0.0,2.4,0.0,0.8,0.5,0.0,0.0,0.0,23.2,6.20
+19,Detroit Lions,DST,6,DET,NO,0.0,1.7,0.0,1.1,0.4,0.0,0.0,0.0,26.3,5.90
+20,Chicago Bears,DST,6,CHI,BAL,0.0,2.0,0.0,0.8,0.5,0.0,0.0,0.0,22.2,5.80
+21,Oakland Raiders,DST,6,OAK,LAC,0.0,2.0,0.0,0.8,0.5,0.0,0.0,0.0,22.7,5.80
+22,San Francisco 49ers,DST,6,SF,WAS,0.0,1.7,0.0,0.6,0.8,0.0,0.0,0.0,27.0,5.70
+23,Miami Dolphins,DST,6,MIA,ATL,0.0,2.1,0.0,0.7,0.4,0.0,0.0,0.0,27.4,5.50
+24,New York Giants,DST,6,NYG,DEN,0.0,1.7,0.0,0.8,0.4,0.0,0.0,0.0,23.5,5.30
+25,Pittsburgh Steelers,DST,6,PIT,KC,0.0,2.6,0.0,0.5,0.5,0.0,0.0,0.0,25.6,5.20
+26,Indianapolis Colts,DST,6,IND,TEN,0.0,1.6,0.0,0.7,0.5,0.0,0.0,0.0,26.2,5.20
+27,Los Angeles Chargers,DST,6,LAC,OAK,0.0,2.4,0.0,0.5,0.5,0.0,0.0,0.0,24.9,5.00
+28,New York Jets,DST,6,NYJ,NE,0.0,1.3,0.0,0.5,0.5,0.0,0.0,0.0,28.6,2.90

@@ -1,0 +1,31 @@
+Rk,Player,Pos,Week,Team,Opp,TFL,Sacks,QB Hits,Int,Fum Rec,Safeties,Def TD,Return TD,Pts Allowed,Fantasy Points
+1,Jacksonville Jaguars,DST,7,JAX,IND,0.0,3.6,0.0,1.1,0.7,0.1,0.0,0.0,20.1,9.60
+2,Tennessee Titans,DST,7,TEN,CLE,0.0,2.7,0.0,1.3,0.6,0.0,0.0,0.0,18.9,8.70
+3,Buffalo Bills,DST,7,BUF,TB,0.0,2.4,0.0,1.1,0.8,0.0,0.0,0.0,20.4,8.40
+4,Carolina Panthers,DST,7,CAR,CHI,0.0,3.0,0.0,0.8,0.7,0.1,0.0,0.0,18.2,8.40
+5,Miami Dolphins,DST,7,MIA,NYJ,0.0,3.0,0.0,0.9,0.7,0.0,0.0,0.0,18.0,8.40
+6,Minnesota Vikings,DST,7,MIN,BAL,0.0,2.5,0.0,1.1,0.7,0.0,0.0,0.0,16.2,8.30
+7,Seattle Seahawks,DST,7,SEA,NYG,0.0,2.5,0.0,1.1,0.7,0.0,0.0,0.0,17.2,8.30
+8,Los Angeles Rams,DST,7,LAR,ARI,0.0,3.1,0.0,1.1,0.7,0.0,0.0,0.0,20.8,7.90
+9,Pittsburgh Steelers,DST,7,PIT,CIN,0.0,2.8,0.0,0.8,0.6,0.0,0.0,0.0,17.5,7.80
+10,Denver Broncos,DST,7,DEN,LAC,0.0,2.3,0.0,1.1,0.5,0.0,0.0,0.0,19.7,7.70
+11,Dallas Cowboys,DST,7,DAL,SF,0.0,3.1,0.0,1.1,0.5,0.0,0.0,0.0,20.9,7.50
+12,New Orleans Saints,DST,7,NO,GB,0.0,2.3,0.0,1.3,0.6,0.0,0.0,0.0,22.9,7.30
+13,Los Angeles Chargers,DST,7,LAC,DEN,0.0,2.9,0.0,0.8,0.6,0.0,0.0,0.0,21.1,6.90
+14,New York Jets,DST,7,NYJ,MIA,0.0,1.8,0.0,0.9,0.5,0.0,0.0,0.0,19.0,6.80
+15,Washington Redskins,DST,7,WAS,PHI,0.0,2.8,0.0,0.7,0.7,0.0,0.0,0.0,25.6,6.80
+16,Philadelphia Eagles,DST,7,PHI,WAS,0.0,2.1,0.0,0.9,0.8,0.0,0.0,0.0,21.4,6.70
+17,Chicago Bears,DST,7,CHI,CAR,0.0,2.8,0.0,0.7,0.6,0.0,0.0,0.0,22.4,6.60
+18,New York Giants,DST,7,NYG,SEA,0.0,2.2,0.0,0.8,0.6,0.0,0.0,0.0,20.6,6.20
+19,Baltimore Ravens,DST,7,BAL,MIN,0.0,1.9,0.0,0.8,0.7,0.0,0.0,0.0,20.9,6.10
+20,Cincinnati Bengals,DST,7,CIN,PIT,0.0,2.1,0.0,1.0,0.4,0.0,0.0,0.0,21.5,6.10
+21,Tampa Bay Buccaneers,DST,7,TB,BUF,0.0,2.3,0.0,0.8,0.4,0.0,0.0,0.0,23.7,5.90
+22,Arizona Cardinals,DST,7,ARI,LAR,0.0,1.7,0.0,0.8,0.7,0.0,0.0,0.0,24.1,5.90
+23,Green Bay Packers,DST,7,GB,NO,0.0,1.8,0.0,0.9,0.4,0.1,0.0,0.0,24.7,5.80
+24,Indianapolis Colts,DST,7,IND,JAX,0.0,1.8,0.0,0.9,0.5,0.0,0.0,0.0,23.6,5.80
+25,Kansas City Chiefs,DST,7,KC,OAK,0.0,2.1,0.0,0.6,0.6,0.0,0.0,0.0,23.0,5.70
+26,New England Patriots,DST,7,NE,ATL,0.0,2.0,0.0,0.8,0.4,0.0,0.0,0.0,26.6,5.60
+27,Cleveland Browns,DST,7,CLE,TEN,0.0,1.4,0.0,0.7,0.4,0.0,0.0,0.0,25.0,4.80
+28,Oakland Raiders,DST,7,OAK,KC,0.0,2.2,0.0,0.4,0.5,0.0,0.0,0.0,26.0,4.60
+29,Atlanta Falcons,DST,7,ATL,NE,0.0,1.8,0.0,0.5,0.5,0.1,0.0,0.0,29.2,3.60
+30,San Francisco 49ers,DST,7,SF,DAL,0.0,1.6,0.0,0.6,0.5,0.0,0.0,0.0,27.6,3.40

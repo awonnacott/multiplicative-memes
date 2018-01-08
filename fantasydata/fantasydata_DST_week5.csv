@@ -1,0 +1,29 @@
+Rk,Player,Pos,Week,Team,Opp,TFL,Sacks,QB Hits,Int,Fum Rec,Safeties,Def TD,Return TD,Pts Allowed,Fantasy Points
+1,Philadelphia Eagles,DST,5,PHI,ARI,0.0,2.7,0.0,1.2,0.9,0.1,0.0,0.0,17.1,9.30
+2,Kansas City Chiefs,DST,5,KC,HOU,0.0,2.8,0.0,1.2,0.6,0.0,0.0,0.0,19.8,8.60
+3,Minnesota Vikings,DST,5,MIN,CHI,0.0,2.8,0.0,1.0,0.6,0.1,0.0,0.0,17.8,8.40
+4,New York Jets,DST,5,NYJ,CLE,0.0,2.3,0.0,1.3,0.6,0.0,0.0,0.0,18.0,8.30
+5,Buffalo Bills,DST,5,BUF,CIN,0.0,2.6,0.0,1.0,0.6,0.0,0.0,0.0,19.7,8.00
+6,Pittsburgh Steelers,DST,5,PIT,JAX,0.0,2.5,0.0,0.9,0.7,0.0,0.0,0.0,18.2,7.90
+7,Detroit Lions,DST,5,DET,CAR,0.0,2.4,0.0,1.1,0.5,0.0,0.0,0.0,19.8,7.80
+8,New York Giants,DST,5,NYG,LAC,0.0,1.9,0.0,1.0,0.7,0.0,0.0,0.0,20.1,7.50
+9,Baltimore Ravens,DST,5,BAL,OAK,0.0,2.3,0.0,1.2,0.8,0.0,0.0,0.0,21.0,7.50
+10,Oakland Raiders,DST,5,OAK,BAL,0.0,2.1,0.0,0.9,0.7,0.0,0.0,0.0,19.1,7.50
+11,San Francisco 49ers,DST,5,SF,IND,0.0,2.6,0.0,0.8,0.7,0.1,0.0,0.0,23.0,7.00
+12,Carolina Panthers,DST,5,CAR,DET,0.0,2.9,0.0,0.8,0.6,0.0,0.0,0.0,20.9,6.90
+13,Jacksonville Jaguars,DST,5,JAX,PIT,0.0,2.4,0.0,1.0,0.6,0.0,0.0,0.0,23.9,6.80
+14,Cincinnati Bengals,DST,5,CIN,BUF,0.0,2.9,0.0,0.6,0.5,0.0,0.0,0.0,19.0,6.70
+15,Miami Dolphins,DST,5,MIA,TEN,0.0,2.1,0.0,1.1,0.6,0.0,0.0,0.0,22.9,6.70
+16,Indianapolis Colts,DST,5,IND,SF,0.0,2.0,0.0,1.0,0.7,0.0,0.0,0.0,21.9,6.60
+17,Seattle Seahawks,DST,5,SEA,LAR,0.0,2.1,0.0,0.8,0.7,0.1,0.0,0.0,21.6,6.50
+18,New England Patriots,DST,5,NE,TB,0.0,2.0,0.0,1.0,0.6,0.0,0.0,0.0,24.1,6.40
+19,Arizona Cardinals,DST,5,ARI,PHI,0.0,2.2,0.0,0.8,0.7,0.0,0.0,0.0,22.6,6.40
+20,Los Angeles Rams,DST,5,LAR,SEA,0.0,2.6,0.0,0.8,0.5,0.0,0.0,0.0,23.3,6.40
+21,Los Angeles Chargers,DST,5,LAC,NYG,0.0,2.1,0.0,0.9,0.6,0.0,0.0,0.0,22.9,6.30
+22,Cleveland Browns,DST,5,CLE,NYJ,0.0,2.3,0.0,0.8,0.7,0.0,0.0,0.0,22.1,5.90
+23,Tennessee Titans,DST,5,TEN,MIA,0.0,2.3,0.0,0.9,0.6,0.0,0.0,0.0,21.2,5.90
+24,Houston Texans,DST,5,HOU,KC,0.0,2.6,0.0,0.6,0.6,0.0,0.0,0.0,22.0,5.60
+25,Chicago Bears,DST,5,CHI,MIN,0.0,2.1,0.0,0.5,0.7,0.1,0.0,0.0,23.1,5.30
+26,Dallas Cowboys,DST,5,DAL,GB,0.0,2.6,0.0,0.5,0.5,0.0,0.0,0.0,25.9,5.20
+27,Green Bay Packers,DST,5,GB,DAL,0.0,2.0,0.0,0.6,0.6,0.0,0.0,0.0,27.0,5.00
+28,Tampa Bay Buccaneers,DST,5,TB,NE,0.0,1.7,0.0,0.6,0.5,0.0,0.0,0.0,28.7,3.50
