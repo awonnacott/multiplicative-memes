@@ -3,7 +3,7 @@
 from clean_data import clean, experts, positions, num_weeks, points_weights
 
 cost_scalar = 0.0007
-eta = 0.5
+eta = 0.8
 
 players = set()
 

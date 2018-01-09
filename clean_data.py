@@ -2,7 +2,7 @@
 
 import csv
 
-experts = ["espn", "nfl", "fftoday", "cbs"]
+experts = ["espn", "nfl", "fftoday", "cbs", "fantasydata"]
 positions = ["QB", "RB", "WR", "TE"]
 num_weeks = 17
 points_weights = [.04, 4, -2, .1, 6, .1, 6]
@@ -84,10 +84,24 @@ def clean(pos, week, source):
                     stats[player] = [float(row[i]) for i in range(2, 9)]
             else:
                 print("Unrecognized position.")
+        elif source == "fantasydata":
+            next(reader)
+            if pos == "QB":
+                for row in reader:
+                    player = clean_name(row[1])
+                    stats[player] = [float(row[i]) for i in [9, 11, 12, 15, 17]] + [0, 0]
+            elif pos == "RB":
+                for row in reader:
+                    player = clean_name(row[1])
+                    stats[player] = [0, 0, 0] + [float(row[i]) for i in [7, 9, 12, 13]]
+            elif pos == "WR" or pos == "TE":
+                for row in reader:
+                    player = clean_name(row[1])
+                    stats[player] = [0, 0, 0] + [float(row[i]) for i in [15, 16, 9, 10]]
+            else:
+                print("Unrecognized position.")
         else:
             print("Unrecognized source.")
         return stats
 
-
-if __name__ == "__main":
-    print(clean("WR", "10", "truevalues"))
+print(clean("RB", "1", "fantasydata"))
