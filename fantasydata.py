@@ -13,7 +13,7 @@ positions = {
     'K': 5,
     'DST': 6,
 }
-weeks = range(1, 22)
+weeks = range(0, 16)
 
 
 def cbs(pos, week):
@@ -29,7 +29,7 @@ def cbs(pos, week):
     except IndexError:
         print("Failed: " + pos + " " + str(week))
         return
-    filename = 'fantasydata_{pos}_week{week}.csv'.format(pos=pos, week=week)
+    filename = 'fantasydata_{pos}_week{week + 1}.csv'.format(pos=pos, week=week)
     with open(filename, 'w') as f:
         print('writing: ', filename)
         writer = csv.writer(f)
