@@ -7,6 +7,7 @@ positions = ["QB", "RB", "WR", "TE"]
 num_weeks = 17
 points_weights = [.04, 4, -2, .1, 6, .1, 6]
 
+
 def clean_name(player):
     player = ((player.rstrip('*')).replace('.', '')).lower()
     if player.endswith(' iii'):
@@ -22,6 +23,7 @@ def clean_name(player):
     elif player.endswith(' sr'):
         player = player[:-3]
     return player
+
 
 def clean(pos, week, source):
     # Player, passing YDS, passing TD, INT, rushing YDS, rushing TD, receiving YDS, receiving TD
@@ -113,4 +115,6 @@ def clean(pos, week, source):
             print("Unrecognized source.")
         return stats
 
-print(clean("RB", "1", "fantasyalarm"))
+
+if __name__ == "__main__":
+    print(clean("RB", "1", "fantasyalarm"))
