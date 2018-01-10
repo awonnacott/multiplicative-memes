@@ -39,6 +39,16 @@ Danny Amendola,@Oak,W 33-8,0/0,0,0,0,0,0,0,4,40.9,0.3,9.8
 Ted Ginn Jr.,Wsh,W 34-31,0/0,0,0,0,0.5,3.8,0,2.8,44.7,0.3,9.7
 Jeremy Maclin*,@GB,W 23-0,0/0,0,0,0,0,0,0,4,45.4,0.2,9.7
 Roger Lewis,KC,W 12-9,0/0,0,0,0,0,0,0,3.4,46.2,0.3,9.6
+John Brown,@Hou,L 21-31,0/0,0,0,0,0.2,1.3,0,3.3,48.4,0.2,9.6
+Randall Cobb,Bal,L 0-23,0/0,0,0,0,0.5,3.1,0,4,41.8,0.2,9.6
+Tyler Lockett,Atl,L 31-34,0/0,0,0,0,1,6.4,0,3,40.7,0.2,9.4
+Terrance Williams,Phi,L 9-37,0/0,0,0,0,0,0,0,3.2,44.2,0.3,9.1
+Bruce Ellington*,Ari,W 31-21,0/0,0,0,0,0.6,3.8,0,3.3,39,0.2,9.1
+Corey Davis,@Pit,L 17-40,0/0,0,0,0,0,0,0,3.7,42,0.2,8.9
+Sammy Watkins,@Min,L 7-24,0/0,0,0,0,0,0,0,2.8,47.1,0.2,8.8
+Kenny Stills,TB,L 20-30,0/0,0,0,0,0,0,0,2.8,43.1,0.3,8.6
+Tavarres King*,KC,W 12-9,0/0,0,0,0,0.2,1.5,0,2.8,40.7,0.3,8.5
+Mike Wallace,@GB,W 23-0,0/0,0,0,0,0.3,1.9,0,3.1,37.3,0.2,8.3
 Brandon LaFell,@Den,W 20-17,0/0,0,0,0,0,0,0,3.2,36.2,0.2,8.2
 Ryan Grant,@NO,L 31-34,0/0,0,0,0,0,0,0,3.2,37,0.2,8.1
 Paul Richardson,Atl,L 31-34,0/0,0,0,0,0,0,0,2.8,38.4,0.2,8.1
@@ -79,6 +89,16 @@ Chris Moore,@GB,W 23-0,0/0,0,0,0,0,0,0,1.7,18.7,0.1,4.2
 Bennie Fowler III,Cin,L 17-20,0/0,0,0,0,0,0,0,1.7,18.4,0.1,4.2
 Laquon Treadwell,LAR,W 24-7,0/0,0,0,0,0,0,0,1.5,19.2,0.1,4.1
 Willie Snead,Wsh,W 34-31,0/0,0,0,0,0,0,0,1.5,19.3,0.1,4.1
+Kalif Raymond,KC,W 12-9,0/0,0,0,0,0.2,1.5,0,1.4,18.3,0.1,4
+Rashard Higgins,Jax,L 7-19,0/0,0,0,0,0,0,0,1.7,17.9,0.1,3.9
+Cordarrelle Patterson,NE,L 8-33,0/0,0,0,0,1,8.9,0,1,10.1,0.1,3.6
+TJ Jones*,@Chi,W 27-24,0/0,0,0,0,0,0,0,1.4,16.9,0.1,3.6
+Justin Hardy,@Sea,W 34-31,0/0,0,0,0,0,0,0,1.4,14,0.1,3.2
+Mack Hollins,@Dal,W 37-9,0/0,0,0,0,0,0,0,1.1,13.9,0.1,3.1
+Deonte Thompson,@LAC,L 24-54,0/0,0,0,0,0.3,1.8,0,1.1,13.6,0.1,3.1
+Geronimo Allison,Bal,L 0-23,0/0,0,0,0,0,0,0,1.1,14,0.1,2.9
+Kenny Britt,@Oak,W 33-8,0/0,0,0,0,0,0,0,1.1,14.1,0.1,2.8
+Chris Godwin,@Mia,W 30-20,0/0,0,0,0,0,0,0,1,11.5,0.1,2.7
 Tommylee Lewis,Wsh,W 34-31,0/0,0,0,0,0.3,1.7,0,0.8,10.3,0.1,2.5
 Taywan Taylor,@Pit,L 17-40,0/0,0,0,0,0.5,3.1,0,0.8,9.9,0,2.3
 Sammie Coates,Jax,L 7-19,0/0,0,0,0,0,0,0,1,10.9,0,2.3
@@ -105,7 +125,7 @@ Johnny Holton,NE,L 8-33,0/0,0,0,0,0,0,0,0.2,3.1,0,0.6
 Darrius Heyward-Bey,Ten,W 40-17,0/0,0,0,0,0,0,0,0.2,2.6,0,0.6
 Rashawn Scott,TB,L 20-30,0/0,0,0,0,0,0,0,0.2,2.6,0,0.5
 Jarius Wright,LAR,W 24-7,0/0,0,0,0,0,0,0,0.2,2.5,0,0.5
-Marvin Hall*,@Sea,W 34-31,0/0,0,0,0,0,0,0,0.2,2.5,0,0.5
+Marvin Hall,@Sea,W 34-31,0/0,0,0,0,0,0,0,0.2,2.5,0,0.5
 Josh Reynolds,@Min,L 7-24,0/0,0,0,0,0,0,0,0.2,2.6,0,0.5
 Freddie Martino,@Mia,W 30-20,0/0,0,0,0,0.5,3,0,0,0,0,0.4
 Trevor Davis,Bal,L 0-23,0/0,0,0,0,0,0,0,0.1,1.1,0,0.3
@@ -119,6 +139,16 @@ Jeff Janis,Bal,L 0-23,0/0,0,0,0,0,0,0,0,0,0,0
 Eric Weems,@Pit,L 17-40,0/0,0,0,0,0,0,0,0,0,0,0
 T.Y. Hilton,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Steve Smith Sr.,@GB,W 23-0,0/0,0,0,0,0,0,0,0,0,0,0
+Andre Johnson,@Pit,L 17-40,0/0,0,0,0,0,0,0,0,0,0,0
+Anquan Boldin,@LAC,L 24-54,0/0,0,0,0,0,0,0,0,0,0,0
+Jerricho Cotchery,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Wes Welker,@Min,L 7-24,0/0,0,0,0,0,0,0,0,0,0,0
+Roddy White,@Sea,W 34-31,0/0,0,0,0,0,0,0,0,0,0,0
+Vincent Jackson,@Mia,W 30-20,0/0,0,0,0,0,0,0,0,0,0,0
+Joshua Cribbs,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Nate Washington,@Oak,W 33-8,0/0,0,0,0,0,0,0,0,0,0,0
+Lance Moore,@Sea,W 34-31,0/0,0,0,0,0,0,0,0,0,0,0
+Greg Jennings,TB,L 20-30,0/0,0,0,0,0,0,0,0,0,0,0
 Devin Hester,Atl,L 31-34,0/0,0,0,0,0,0,0,0,0,0,0
 Derek Hagan,@Pit,L 17-40,0/0,0,0,0,0,0,0,0,0,0,0
 Jason Avant,@NYG,L 9-12,0/0,0,0,0,0,0,0,0,0,0,0
@@ -131,7 +161,7 @@ Jacoby Jones,Ten,W 40-17,0/0,0,0,0,0,0,0,0,0,0,0
 James Jones,Buf,W 54-24,0/0,0,0,0,0,0,0,0,0,0,0
 Eddie Royal,Det,L 24-27,0/0,0,0,0,0,0,0,0,0,0,0
 Jerome Simpson,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
-Harry Douglas*,@Pit,L 17-40,0/0,0,0,0,0,0,0,0,0,0,0
+Harry Douglas,@Pit,L 17-40,0/0,0,0,0,0,0,0,0,0,0,0
 Andre Jerome Caldwell,@Chi,W 27-24,0/0,0,0,0,0,0,0,0,0,0,0
 Matthew Slater,@Oak,W 33-8,0/0,0,0,0,0,0,0,0,0,0,0
 Pierre Garcon*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
@@ -159,6 +189,16 @@ Danario Alexander,Buf,W 54-24,0/0,0,0,0,0,0,0,0,0,0,0
 Andrew Hawkins,Jax,L 7-19,0/0,0,0,0,0,0,0,0,0,0,0
 Leonard Hankerson,@LAC,L 24-54,0/0,0,0,0,0,0,0,0,0,0,0
 Greg Little,@LAC,L 24-54,0/0,0,0,0,0,0,0,0,0,0,0
+Vincent Brown,Wsh,W 34-31,0/0,0,0,0,0,0,0,0,0,0,0
+Dwayne Harris*,KC,W 12-9,0/0,0,0,0,0,0,0,0,0,0,0
+Greg Salas,@LAC,L 24-54,0/0,0,0,0,0,0,0,0,0,0,0
+Jeremy Kerley,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Denarius Moore,@LAC,L 24-54,0/0,0,0,0,0,0,0,0,0,0,0
+Aldrick Robinson,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Cecil Shorts III,@Mia,W 30-20,0/0,0,0,0,0,0,0,0,0,0,0
+Ricardo Lockette,Atl,L 31-34,0/0,0,0,0,0,0,0,0,0,0,0
+Chris Hogan*,@Oak,W 33-8,0/0,0,0,0,0,0,0,0,0,0,0
+Andre Holmes*,@LAC,L 24-54,0/0,0,0,0,0,0,0,0,0,0,0
 Joe Morgan,@GB,W 23-0,0/0,0,0,0,0,0,0,0,0,0,0
 Jeremy Ross,@Hou,L 21-31,0/0,0,0,0,0,0,0,0,0,0,0
 Kamar Aiken,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
@@ -199,6 +239,16 @@ Quinton Patton,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Da'Rick Rogers,@NYG,L 9-12,0/0,0,0,0,0,0,0,0,0,0,0
 Russell Shepard,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Ryan Spadola,@Chi,W 27-24,0/0,0,0,0,0,0,0,0,0,0,0
+Nick Williams,@Sea,W 34-31,0/0,0,0,0,0,0,0,0,0,0,0
+Rodney Smith,Atl,L 31-34,0/0,0,0,0,0,0,0,0,0,0,0
+Kenbrell Thompkins,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Myles White,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Marlon Brown,Cin,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
+Odell Beckham Jr.*,KC,W 12-9,0/0,0,0,0,0,0,0,0,0,0,0
+Josh Huff,@Mia,W 30-20,0/0,0,0,0,0,0,0,0,0,0,0
+Donte Moncrief*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Allen Robinson*,@Cle,W 19-7,0/0,0,0,0,0,0,0,0,0,0,0
+Shaq Evans,Phi,L 9-37,0/0,0,0,0,0,0,0,0,0,0,0
 Jeremy Gallon,@Oak,W 33-8,0/0,0,0,0,0,0,0,0,0,0,0
 Jared Abbrederis,@Chi,W 27-24,0/0,0,0,0,0,0,0,0,0,0,0
 Kevin Norwood,KC,W 12-9,0/0,0,0,0,0,0,0,0,0,0,0
@@ -230,7 +280,7 @@ Keith Mumphery,Ari,W 31-21,0/0,0,0,0,0,0,0,0,0,0,0
 DeAndrew White,Ari,W 31-21,0/0,0,0,0,0,0,0,0,0,0,0
 Kaelin Clay,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Dezmin Lewis,@LAC,L 24-54,0/0,0,0,0,0,0,0,0,0,0,0
-Quan Bray,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Quan Bray,@LAC,L 24-54,0/0,0,0,0,0,0,0,0,0,0,0
 Devin Smith*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Evan Spencer,@Mia,W 30-20,0/0,0,0,0,0,0,0,0,0,0,0
 Rashad Greene Sr.*,@Cle,W 19-7,0/0,0,0,0,0,0,0,0,0,0,0
@@ -239,6 +289,16 @@ Dorial Green-Beckham,@Dal,W 37-9,0/0,0,0,0,0,0,0,0,0,0,0
 Breshad Perriman,@GB,W 23-0,0/0,0,0,0,0,0,0,0,0,0,0
 Devin Funchess,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Kevin White*,Det,L 24-27,0/0,0,0,0,0,0,0,0,0,0,0
+Jaelen Strong*,@Cle,W 19-7,0/0,0,0,0,0,0,0,0,0,0,0
+Mario Alford,Jax,L 7-19,0/0,0,0,0,0,0,0,0,0,0,0
+DeAndre Smelter,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Duron Carter,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Antwan Goodley,Bal,L 0-23,0/0,0,0,0,0,0,0,0,0,0,0
+Chris Matthews,@GB,W 23-0,0/0,0,0,0,0,0,0,0,0,0,0
+Seantavius Jones,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Cameron Meredith*,Det,L 24-27,0/0,0,0,0,0,0,0,0,0,0,0
+Lucky Whitehead,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Quincy Enunwa*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Matt Hazel,Jax,L 7-19,0/0,0,0,0,0,0,0,0,0,0,0
 Chris Harper,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Tyler Murphy,TB,L 20-30,0/0,0,0,0,0,0,0,0,0,0,0
@@ -259,7 +319,7 @@ Michael Thomas,@Min,L 7-24,0/0,0,0,0,0,0,0,0,0,0,0
 Aaron Burbridge*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Devin Lucien,@Mia,W 30-20,0/0,0,0,0,0,0,0,0,0,0,0
 Demarcus Ayers,Det,L 24-27,0/0,0,0,0,0,0,0,0,0,0,0
-Daniel Braverman,Det,L 24-27,0/0,0,0,0,0,0,0,0,0,0,0
+Daniel Braverman,@NYG,L 9-12,0/0,0,0,0,0,0,0,0,0,0,0
 Devin Lewis Fuller,@Sea,W 34-31,0/0,0,0,0,0,0,0,0,0,0,0
 Charone Peake*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Kenny Lawler,Atl,L 31-34,0/0,0,0,0,0,0,0,0,0,0,0
@@ -279,6 +339,16 @@ Wendall Williams,Ari,W 31-21,0/0,0,0,0,0,0,0,0,0,0,0
 Anthony Dable,@Sea,W 34-31,0/0,0,0,0,0,0,0,0,0,0,0
 Darius Jennings,@Pit,L 17-40,0/0,0,0,0,0,0,0,0,0,0,0
 Devon Cajuste,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Mitch Mathews,TB,L 20-30,0/0,0,0,0,0,0,0,0,0,0,0
+Keyarris Garrett*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Jalin Marshall,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Bryce Treggs,Jax,L 7-19,0/0,0,0,0,0,0,0,0,0,0,0
+Nelson Spruce,@Min,L 7-24,0/0,0,0,0,0,0,0,0,0,0,0
+Robby Anderson,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Paul Turner,@Dal,W 37-9,0/0,0,0,0,0,0,0,0,0,0,0
+Chad Williams,@Hou,L 21-31,0/0,0,0,0,0,0,0,0,0,0,0
+Chad Hansen,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Malachi Dupre,@LAC,L 24-54,0/0,0,0,0,0,0,0,0,0,0,0
 Rodney Adams,LAR,W 24-7,0/0,0,0,0,0,0,0,0,0,0,0
 David Moore,Atl,L 31-34,0/0,0,0,0,0,0,0,0,0,0,0
 Curtis Samuel*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--

@@ -39,6 +39,16 @@ Virgil Green,@Phi,L 23-51,0/0,0,0,0,0,0,0,1.3,12,0.1,2.9
 Jonnu Smith,Bal,W 23-20,0/0,0,0,0,0,0,0,1.1,11.6,0.1,2.8
 Demetrius Harris,@Dal,L 17-28,0/0,0,0,0,0,0,0,1,10.1,0.1,2.7
 Maxx Williams,@Ten,L 20-23,0/0,0,0,0,0,0,0,1.2,10.4,0.1,2.7
+Logan Thomas,@NYJ,L 21-34,0/0,0,0,0,0,0,0,0.9,9.6,0.1,2.4
+Garrett Celek,Ari,L 10-20,0/0,0,0,0,0,0,0,0.9,10.1,0.1,2.3
+James O'Shaughnessy,Cin,W 23-7,0/0,0,0,0,0,0,0,0.7,7.3,0.1,1.8
+Luke Willson,Wsh,L 14-17,0/0,0,0,0,0,0,0,0.6,8,0.1,1.8
+Nick Vannett*,Wsh,L 14-17,0/0,0,0,0,0,0,0,0.6,6.9,0.1,1.8
+Cole Hikutini*,Ari,L 10-20,0/0,0,0,0,0,0,0,0.7,7.1,0,1.7
+Anthony Fasano,Oak,L 24-27,0/0,0,0,0,0,0,0,0.6,6.4,0.1,1.6
+C.J. Uzomah,@Jax,L 7-23,0/0,0,0,0,0,0,0,0.7,6.1,0,1.6
+Brandon Williams*,@Hou,W 20-14,0/0,0,0,0,0,0,0,0.6,6.7,0,1.5
+Darrell Daniels,@Hou,W 20-14,0/0,0,0,0,0,0,0,0.6,6.7,0,1.5
 Josh Hill,TB,W 30-10,0/0,0,0,0,0,0,0,0.5,5.5,0.1,1.4
 Matt LaCosse,@Phi,L 23-51,0/0,0,0,0,0,0,0,0.5,5.3,0,1.3
 Lee Smith,@Mia,W 27-24,0/0,0,0,0,0,0,0,0.5,4.4,0,1.2
@@ -79,6 +89,16 @@ Chase Coffman,@Hou,W 20-14,0/0,0,0,0,0,0,0,0,0,0,0
 Bear Pascoe,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Brandon Pettigrew,@GB,W 30-17,0/0,0,0,0,0,0,0,0,0,0,0
 John Phillips,TB,W 30-10,0/0,0,0,0,0,0,0,0,0,0,0
+Zach Miller*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Brandon Myers,@NO,L 10-30,0/0,0,0,0,0,0,0,0,0,0,0
+Rob Gronkowski,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Dennis Pitta*,@Ten,L 20-23,0/0,0,0,0,0,0,0,0,0,0,0
+Tony Moeaki,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Jim Dray,@SF,W 20-10,0/0,0,0,0,0,0,0,0,0,0,0
+Garrett Graham,@Phi,L 23-51,0/0,0,0,0,0,0,0,0,0,0,0
+Clay Harbor*,TB,W 30-10,0/0,0,0,0,0,0,0,0,0,0,0
+Anthony McCoy,Wsh,L 14-17,0/0,0,0,0,0,0,0,0,0,0,0
+Andrew Quarless,@GB,W 30-17,0/0,0,0,0,0,0,0,0,0,0,0
 Richie Brockel,Atl,W 20-17,0/0,0,0,0,0,0,0,0,0,0,0
 Jeff Cumberland,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Logan Paulsen,Ari,L 10-20,0/0,0,0,0,0,0,0,0,0,0,0
@@ -119,6 +139,16 @@ Zach Sudfeld,Buf,W 34-21,0/0,0,0,0,0,0,0,0,0,0,0
 Jake Stoneburner,@NYG,W 51-17,0/0,0,0,0,0,0,0,0,0,0,0
 C.J. Fiedorowicz*,Ind,L 14-20,0/0,0,0,0,0,0,0,0,0,0,0
 Crockett Gillmore*,@Ten,L 20-23,0/0,0,0,0,0,0,0,0,0,0,0
+Jace Amaro,Bal,W 23-20,0/0,0,0,0,0,0,0,0,0,0,0
+Brian Leonhardt,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Kyle Nelson,Ari,L 10-20,0/0,0,0,0,0,0,0,0,0,0,0
+Marcel Jensen,@Sea,W 17-14,0/0,0,0,0,0,0,0,0,0,0,0
+Asante Cleveland*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Nic Jacobs,Cin,W 23-7,0/0,0,0,0,0,0,0,0,0,0,0
+Blake Annen,@NYJ,L 21-34,0/0,0,0,0,0,0,0,0,0,0,0
+RaShaun Allen,Ind,L 14-20,0/0,0,0,0,0,0,0,0,0,0,0
+Justin Perillo,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+MyCole Pruitt*,Ind,L 14-20,0/0,0,0,0,0,0,0,0,0,0,0
 Randall Telfer,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Gerald Christian,@SF,W 20-10,0/0,0,0,0,0,0,0,0,0,0,0
 Blake Bell*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
@@ -143,7 +173,7 @@ Beau Sandland,Det,L 17-30,0/0,0,0,0,0,0,0,0,0,0,0
 Ben Braunecker,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Cole Wick,Ari,L 10-20,0/0,0,0,0,0,0,0,0,0,0,0
 Erik Swoope*,@Hou,W 20-14,0/0,0,0,0,0,0,0,0,0,0,0
-Anthony Denham*,Den,W 51-23,0/0,0,0,0,0,0,0,0,0,0,0
+Anthony Denham,Den,W 51-23,0/0,0,0,0,0,0,0,0,0,0,0
 Bryce Williams,Atl,W 20-17,0/0,0,0,0,0,0,0,0,0,0,0
 Alan Cross,@NO,L 10-30,0/0,0,0,0,0,0,0,0,0,0,0
 Braedon Bowman,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
@@ -159,5 +189,15 @@ Jake Butt*,@Phi,L 23-51,0/0,0,0,0,0,0,0,0,0,0,0
 Mason Schreck*,@Jax,L 7-23,0/0,0,0,0,0,0,0,0,0,0,0
 Adam Shaheen*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 David Njoku,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
-Henry Krieger-Coble,@Hou,W 20-14,0/0,0,0,0,0,0,0,0,0,0,0
+Bucky Hodges*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Eric Saubert,@Car,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
+Antony Auclair,@NO,L 10-30,0/0,0,0,0,0,0,0,0,0,0,0
+Ricky Seals-Jones,@SF,W 20-10,0/0,0,0,0,0,0,0,0,0,0,0
+Hakeem Valles,@GB,W 30-17,0/0,0,0,0,0,0,0,0,0,0,0
+Jacob Hollister,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Sean Culkin,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Cethan Carter,@Jax,L 7-23,0/0,0,0,0,0,0,0,0,0,0,0
+Evan Baylis,Ind,L 14-20,0/0,0,0,0,0,0,0,0,0,0,0
+Shane Smith,LAR,L 17-51,0/0,0,0,0,0,0,0,0,0,0,0
+Henry Krieger-Coble,@NYG,W 51-17,0/0,0,0,0,0,0,0,0,0,0,0
 Austin Traylor,@Phi,L 23-51,--/--,--,--,--,--,--,--,--,--,--,--

@@ -39,6 +39,16 @@ Dion Sims,@Bal,W 27-24,0/0,0,0,0,0,0,0,1.5,14.6,0.1,3.6
 Virgil Green,NYG,L 10-23,0/0,0,0,0,0,0,0,1.3,13.5,0.1,3.3
 Rhett Ellison,@Den,W 23-10,0/0,0,0,0,0,0,0,1.4,12.5,0.1,3.1
 Gerald Everett,@Jax,W 27-17,0/0,0,0,0,0,0,0,1.3,12.1,0.1,3
+Garrett Celek,@Wsh,L 24-26,0/0,0,0,0,0,0,0,1.3,13,0.1,2.9
+Troy Niklas,TB,W 38-33,0/0,0,0,0,0,0,0,1.1,12,0.1,2.7
+Demetrius Harris,Pit,L 13-19,0/0,0,0,0,0,0,0,1,9.9,0.1,2.6
+Vance McDonald,@KC,W 19-13,0/0,0,0,0,0,0,0,0.9,10.2,0.1,2.3
+Lance Kendricks,@Min,L 10-23,0/0,0,0,0,0,0,0,0.9,9,0.1,2.3
+Trey Burton,@Car,W 28-23,0/0,0,0,0,0,0,0,1,9.6,0.1,2.3
+Josh Hill,Det,W 52-38,0/0,0,0,0,0,0,0,0.8,8.5,0.1,2.2
+Jerell Adams,@Den,W 23-10,0/0,0,0,0,0,0,0,0.8,7.9,0,1.8
+Levine Toilolo*,Mia,L 17-20,0/0,0,0,0,0,0,0,0.7,6.6,0.1,1.8
+Eric Tomlinson,NE,L 17-24,0/0,0,0,0,0,0,0,0.7,7.6,0.1,1.8
 Anthony Fasano,@Atl,W 20-17,0/0,0,0,0,0,0,0,0.6,6.6,0.1,1.7
 Michael Hoomanawanui*,Det,W 52-38,0/0,0,0,0,0,0,0,0.5,6.1,0.1,1.5
 James O'Shaughnessy,LAR,L 17-27,0/0,0,0,0,0,0,0,0.6,5.5,0,1.4
@@ -79,6 +89,16 @@ Craig Stevens,Ind,W 36-22,0/0,0,0,0,0,0,0,0,0,0,0
 Gary Barnidge,@Hou,L 17-33,0/0,0,0,0,0,0,0,0,0,0,0
 Jacob Tamme,Mia,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
 Kellen Davis,NE,L 17-24,0/0,0,0,0,0,0,0,0,0,0,0
+Matthew Mulligan,@NO,L 38-52,0/0,0,0,0,0,0,0,0,0,0,0
+David Johnson,@KC,W 19-13,0/0,0,0,0,0,0,0,0,0,0,0
+James Casey,NYG,L 10-23,0/0,0,0,0,0,0,0,0,0,0,0
+Chase Coffman,@Ten,L 22-36,0/0,0,0,0,0,0,0,0,0,0,0
+Bear Pascoe,@NYJ,W 24-17,0/0,0,0,0,0,0,0,0,0,0,0
+Brandon Pettigrew,@NO,L 38-52,0/0,0,0,0,0,0,0,0,0,0,0
+John Phillips,Det,W 52-38,0/0,0,0,0,0,0,0,0,0,0,0
+Brandon Myers,@Ari,L 33-38,0/0,0,0,0,0,0,0,0,0,0,0
+Dennis Pitta*,Chi,L 24-27,0/0,0,0,0,0,0,0,0,0,0,0
+Jimmy Graham,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Tony Moeaki,@Bal,W 27-24,0/0,0,0,0,0,0,0,0,0,0,0
 Jim Dray,TB,W 38-33,0/0,0,0,0,0,0,0,0,0,0,0
 Garrett Graham,NYG,L 10-23,0/0,0,0,0,0,0,0,0,0,0,0
@@ -119,6 +139,16 @@ C.J. Fiedorowicz*,Cle,W 33-17,0/0,0,0,0,0,0,0,0,0,0,0
 Crockett Gillmore*,Chi,L 24-27,0/0,0,0,0,0,0,0,0,0,0,0
 Jace Amaro,Ind,W 36-22,0/0,0,0,0,0,0,0,0,0,0,0
 Logan Thomas,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Brian Leonhardt,GB,W 23-10,0/0,0,0,0,0,0,0,0,0,0,0
+Kyle Nelson,@Wsh,L 24-26,0/0,0,0,0,0,0,0,0,0,0,0
+Marcel Jensen,SF,W 26-24,0/0,0,0,0,0,0,0,0,0,0,0
+Asante Cleveland*,@Oak,W 17-16,0/0,0,0,0,0,0,0,0,0,0,0
+Nic Jacobs,LAR,L 17-27,0/0,0,0,0,0,0,0,0,0,0,0
+Blake Annen,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+RaShaun Allen,Cle,W 33-17,0/0,0,0,0,0,0,0,0,0,0,0
+Justin Perillo,@Bal,W 27-24,0/0,0,0,0,0,0,0,0,0,0,0
+MyCole Pruitt*,Cle,W 33-17,0/0,0,0,0,0,0,0,0,0,0,0
+Gerald Christian,TB,W 38-33,0/0,0,0,0,0,0,0,0,0,0,0
 Neal Sterling,NE,L 17-24,0/0,0,0,0,0,0,0,0,0,0,0
 C.J. Uzomah,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Nick O'Leary,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
@@ -143,7 +173,7 @@ Ben Braunecker,@Bal,W 27-24,0/0,0,0,0,0,0,0,0,0,0,0
 Cole Wick,@Wsh,L 24-26,0/0,0,0,0,0,0,0,0,0,0,0
 Matt LaCosse,NYG,L 10-23,0/0,0,0,0,0,0,0,0,0,0,0
 Erik Swoope*,@Ten,L 22-36,0/0,0,0,0,0,0,0,0,0,0,0
-Anthony Denham*,@Car,W 28-23,0/0,0,0,0,0,0,0,0,0,0,0
+Anthony Denham,@Car,W 28-23,0/0,0,0,0,0,0,0,0,0,0,0
 Bryce Williams,Phi,L 23-28,0/0,0,0,0,0,0,0,0,0,0,0
 Alan Cross,@Ari,L 33-38,0/0,0,0,0,0,0,0,0,0,0,0
 Braedon Bowman,@Oak,W 17-16,0/0,0,0,0,0,0,0,0,0,0,0
@@ -159,5 +189,15 @@ Jordan Leggett*,NE,L 17-24,0/0,0,0,0,0,0,0,0,0,0,0
 Jake Butt*,NYG,L 10-23,0/0,0,0,0,0,0,0,0,0,0,0
 Mason Schreck*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Jeremy Sprinkle,SF,W 26-24,0/0,0,0,0,0,0,0,0,0,0,0
-Henry Krieger-Coble,@Ten,L 22-36,0/0,0,0,0,0,0,0,0,0,0,0
+Bucky Hodges*,GB,W 23-10,0/0,0,0,0,0,0,0,0,0,0,0
+Eric Saubert,Mia,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
+Antony Auclair,@Ari,L 33-38,0/0,0,0,0,0,0,0,0,0,0,0
+Ricky Seals-Jones,TB,W 38-33,0/0,0,0,0,0,0,0,0,0,0,0
+Hakeem Valles,@NO,L 38-52,0/0,0,0,0,0,0,0,0,0,0,0
+Cole Hikutini*,@Wsh,L 24-26,0/0,0,0,0,0,0,0,0,0,0,0
+Sean Culkin,@Oak,W 17-16,0/0,0,0,0,0,0,0,0,0,0,0
+Cethan Carter,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Evan Baylis,Cle,W 33-17,0/0,0,0,0,0,0,0,0,0,0,0
+Shane Smith,@Den,W 23-10,0/0,0,0,0,0,0,0,0,0,0,0
+Henry Krieger-Coble,@Jax,W 27-17,0/0,0,0,0,0,0,0,0,0,0,0
 Austin Traylor,NYG,L 10-23,--/--,--,--,--,--,--,--,--,--,--,--

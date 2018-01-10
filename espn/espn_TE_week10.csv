@@ -39,6 +39,16 @@ Jesse James,@Ind,W 20-17,0/0,0,0,0,0,0,0,1.4,15.2,0.1,3.8
 Lance Kendricks,@Chi,W 23-16,0/0,0,0,0,0,0,0,1.7,15,0.1,3.7
 Troy Niklas,Sea,L 16-22,0/0,0,0,0,0,0,0,1.5,15.1,0.1,3.5
 Logan Paulsen,NYG,W 31-21,0/0,0,0,0,0,0,0,1.3,13.3,0.1,3.2
+Brandon Williams*,Pit,L 17-20,0/0,0,0,0,0,0,0,1.3,14,0.1,3
+Jonnu Smith,Cin,W 24-20,0/0,0,0,0,0,0,0,1.2,12.1,0.1,2.9
+C.J. Uzomah,@Ten,L 20-24,0/0,0,0,0,0,0,0,1.1,10.7,0.1,2.8
+Eric Tomlinson,@TB,L 10-15,0/0,0,0,0,0,0,0,1,11.3,0.1,2.8
+Rhett Ellison,@SF,L 21-31,0/0,0,0,0,0,0,0,1,10.5,0.1,2.6
+Virgil Green,NE,L 16-41,0/0,0,0,0,0,0,0,1,10.8,0.1,2.5
+Nick O'Leary,NO,L 10-47,0/0,0,0,0,0,0,0,0.9,11.6,0.1,2.5
+Ben Braunecker,GB,L 16-23,0/0,0,0,0,0,0,0,0.8,9,0.1,2.2
+Darrell Daniels,Pit,L 17-20,0/0,0,0,0,0,0,0,0.8,8.4,0,1.9
+Josh Hill,@Buf,W 47-10,0/0,0,0,0,0,0,0,0.8,7.6,0.1,1.9
 James Hanna,@Atl,L 7-27,0/0,0,0,0,0,0,0,0.8,7.6,0.1,1.9
 Luke Willson,@Ari,W 22-16,0/0,0,0,0,0,0,0,0.7,8.1,0.1,1.9
 Nick Vannett*,@Ari,W 22-16,0/0,0,0,0,0,0,0,0.7,7.1,0.1,1.9
@@ -79,6 +89,16 @@ Jacob Tamme,Dal,W 27-7,0/0,0,0,0,0,0,0,0,0,0,0
 Kellen Davis,@TB,L 10-15,0/0,0,0,0,0,0,0,0,0,0,0
 Matthew Mulligan,Cle,W 38-24,0/0,0,0,0,0,0,0,0,0,0,0
 David Johnson,@Ind,W 20-17,0/0,0,0,0,0,0,0,0,0,0,0
+James Casey,NE,L 16-41,0/0,0,0,0,0,0,0,0,0,0,0
+Chase Coffman,Pit,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
+Jared Cook,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Bear Pascoe,@Den,W 41-16,0/0,0,0,0,0,0,0,0,0,0,0
+Brandon Pettigrew,Cle,W 38-24,0/0,0,0,0,0,0,0,0,0,0,0
+John Phillips,@Buf,W 47-10,0/0,0,0,0,0,0,0,0,0,0,0
+Zach Miller*,GB,L 16-23,0/0,0,0,0,0,0,0,0,0,0,0
+Brandon Myers,NYJ,W 15-10,0/0,0,0,0,0,0,0,0,0,0,0
+Dennis Pitta*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Tony Moeaki,GB,L 16-23,0/0,0,0,0,0,0,0,0,0,0,0
 Jim Dray,Sea,L 16-22,0/0,0,0,0,0,0,0,0,0,0,0
 Garrett Graham,NE,L 16-41,0/0,0,0,0,0,0,0,0,0,0,0
 Clay Harbor*,@Buf,W 47-10,0/0,0,0,0,0,0,0,0,0,0,0
@@ -119,6 +139,16 @@ Justice Cunningham,Hou,W 33-7,0/0,0,0,0,0,0,0,0,0,0,0
 Chris Pantale,@Car,L 21-45,0/0,0,0,0,0,0,0,0,0,0,0
 Timothy Wright,Cle,W 38-24,0/0,0,0,0,0,0,0,0,0,0,0
 Zach Sudfeld,@TB,L 10-15,0/0,0,0,0,0,0,0,0,0,0,0
+Jake Stoneburner,Hou,W 33-7,0/0,0,0,0,0,0,0,0,0,0,0
+Crockett Gillmore*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Jace Amaro,Cin,W 24-20,0/0,0,0,0,0,0,0,0,0,0,0
+Brian Leonhardt,@Wsh,W 38-30,0/0,0,0,0,0,0,0,0,0,0,0
+Demetrius Harris,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Trey Burton,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Kyle Nelson,NYG,W 31-21,0/0,0,0,0,0,0,0,0,0,0,0
+Marcel Jensen,Min,L 30-38,0/0,0,0,0,0,0,0,0,0,0,0
+Asante Cleveland*,@Jax,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
+Nic Jacobs,LAC,W 20-17,0/0,0,0,0,0,0,0,0,0,0,0
 Blake Annen,NO,L 10-47,0/0,0,0,0,0,0,0,0,0,0,0
 RaShaun Allen,@LAR,L 7-33,0/0,0,0,0,0,0,0,0,0,0,0
 Justin Perillo,GB,L 16-23,0/0,0,0,0,0,0,0,0,0,0,0
@@ -144,7 +174,7 @@ Beau Sandland,@Chi,W 23-16,0/0,0,0,0,0,0,0,0,0,0,0
 Cole Wick,NYG,W 31-21,0/0,0,0,0,0,0,0,0,0,0,0
 Matt LaCosse,NE,L 16-41,0/0,0,0,0,0,0,0,0,0,0,0
 Erik Swoope*,Pit,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
-Anthony Denham*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Anthony Denham,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Bryce Williams,Mia,W 45-21,0/0,0,0,0,0,0,0,0,0,0,0
 Alan Cross,NYJ,W 15-10,0/0,0,0,0,0,0,0,0,0,0,0
 Braedon Bowman,@Jax,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
@@ -159,5 +189,15 @@ Jordan Leggett*,@TB,L 10-15,0/0,0,0,0,0,0,0,0,0,0,0
 Jake Butt*,NE,L 16-41,0/0,0,0,0,0,0,0,0,0,0,0
 Mason Schreck*,@Ten,L 20-24,0/0,0,0,0,0,0,0,0,0,0,0
 George Kittle,NYG,W 31-21,0/0,0,0,0,0,0,0,0,0,0,0
-Henry Krieger-Coble,Pit,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
+Bucky Hodges*,@Wsh,W 38-30,0/0,0,0,0,0,0,0,0,0,0,0
+Eric Saubert,Dal,W 27-7,0/0,0,0,0,0,0,0,0,0,0,0
+Antony Auclair,NYJ,W 15-10,0/0,0,0,0,0,0,0,0,0,0,0
+Ricky Seals-Jones,Sea,L 16-22,0/0,0,0,0,0,0,0,0,0,0,0
+Hakeem Valles,Cle,W 38-24,0/0,0,0,0,0,0,0,0,0,0,0
+Cole Hikutini*,NYG,W 31-21,0/0,0,0,0,0,0,0,0,0,0,0
+Sean Culkin,@Jax,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
+Cethan Carter,@Ten,L 20-24,0/0,0,0,0,0,0,0,0,0,0,0
+Evan Baylis,@LAR,L 7-33,0/0,0,0,0,0,0,0,0,0,0,0
+Shane Smith,@SF,L 21-31,0/0,0,0,0,0,0,0,0,0,0,0
+Henry Krieger-Coble,Hou,W 33-7,0/0,0,0,0,0,0,0,0,0,0,0
 Austin Traylor,NE,L 16-41,--/--,--,--,--,--,--,--,--,--,--,--

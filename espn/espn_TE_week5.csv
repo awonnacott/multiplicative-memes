@@ -39,6 +39,16 @@ Jonnu Smith,@Mia,L 10-16,0/0,0,0,0,0,0,0,1.3,12.8,0.1,3.3
 Dion Sims,Min,L 17-20,0/0,0,0,0,0,0,0,1.3,12.9,0.1,3.2
 Brandon Williams*,SF,W 26-23,0/0,0,0,0,0,0,0,1.2,13.4,0.1,3.2
 Luke Willson,@LAR,W 16-10,0/0,0,0,0,0,0,0,1.1,12.9,0.1,3
+Trey Burton,Ari,W 34-7,0/0,0,0,0,0,0,0,1.2,12.2,0.1,2.9
+Troy Niklas,@Phi,L 7-34,0/0,0,0,0,0,0,0,1.1,11.7,0.1,2.6
+Lance Kendricks,@Dal,W 35-31,0/0,0,0,0,0,0,0,0.9,9.6,0.1,2.5
+C.J. Uzomah,Buf,W 20-16,0/0,0,0,0,0,0,0,0.9,9,0.1,2.2
+Demetrius Harris,@Hou,W 42-34,0/0,0,0,0,0,0,0,0.8,7.5,0.1,1.9
+Nick O'Leary,@Cin,L 16-20,0/0,0,0,0,0,0,0,0.7,9.2,0,1.9
+Rhett Ellison,LAC,L 22-27,0/0,0,0,0,0,0,0,0.7,7.2,0.1,1.8
+James Hanna,GB,L 31-35,0/0,0,0,0,0,0,0,0.7,7.3,0.1,1.8
+Derek Carrier,Sea,L 10-16,0/0,0,0,0,0,0,0,0.7,6.8,0,1.6
+Adam Shaheen*,Min,L 17-20,0/0,0,0,0,0,0,0,0.6,6.3,0,1.5
 James O'Shaughnessy,@Pit,W 30-9,0/0,0,0,0,0,0,0,0.7,6.2,0,1.5
 Brent Celek,Ari,W 34-7,0/0,0,0,0,0,0,0,0.5,5.9,0,1.3
 Garrett Celek,@Ind,L 23-26,0/0,0,0,0,0,0,0,0.5,5.7,0,1.2
@@ -79,6 +89,16 @@ Fred Davis,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Craig Stevens,@Mia,L 10-16,0/0,0,0,0,0,0,0,0,0,0,0
 Gary Barnidge,NYJ,L 14-17,0/0,0,0,0,0,0,0,0,0,0,0
 Jacob Tamme,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Kellen Davis,@Cle,W 17-14,0/0,0,0,0,0,0,0,0,0,0,0
+Matthew Mulligan,Car,L 24-27,0/0,0,0,0,0,0,0,0,0,0,0
+David Johnson,Jax,L 9-30,0/0,0,0,0,0,0,0,0,0,0,0
+James Casey,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Chase Coffman,SF,W 26-23,0/0,0,0,0,0,0,0,0,0,0,0
+Bear Pascoe,@TB,W 19-14,0/0,0,0,0,0,0,0,0,0,0,0
+Brandon Pettigrew,Car,L 24-27,0/0,0,0,0,0,0,0,0,0,0,0
+John Phillips,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Brandon Myers,NE,L 14-19,0/0,0,0,0,0,0,0,0,0,0,0
+Rob Gronkowski,@TB,W 19-14,0/0,0,0,0,0,0,0,0,0,0,0
 Dennis Pitta*,@Oak,W 30-17,0/0,0,0,0,0,0,0,0,0,0,0
 Tony Moeaki,Min,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
 Jim Dray,@Phi,L 7-34,0/0,0,0,0,0,0,0,0,0,0,0
@@ -119,6 +139,16 @@ Timothy Wright,Car,L 24-27,0/0,0,0,0,0,0,0,0,0,0,0
 Zach Sudfeld,@Cle,W 17-14,0/0,0,0,0,0,0,0,0,0,0,0
 Jake Stoneburner,Sea,L 10-16,0/0,0,0,0,0,0,0,0,0,0,0
 Jack Doyle,SF,W 26-23,0/0,0,0,0,0,0,0,0,0,0,0
+C.J. Fiedorowicz*,KC,L 34-42,0/0,0,0,0,0,0,0,0,0,0,0
+Crockett Gillmore*,@Oak,W 30-17,0/0,0,0,0,0,0,0,0,0,0,0
+Jace Amaro,@Mia,L 10-16,0/0,0,0,0,0,0,0,0,0,0,0
+Logan Thomas,@Cin,L 16-20,0/0,0,0,0,0,0,0,0,0,0,0
+Brian Leonhardt,@Chi,W 20-17,0/0,0,0,0,0,0,0,0,0,0,0
+Marcel Jensen,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Asante Cleveland*,@NYG,W 27-22,0/0,0,0,0,0,0,0,0,0,0,0
+Nic Jacobs,@Pit,W 30-9,0/0,0,0,0,0,0,0,0,0,0,0
+Blake Annen,@Cin,L 16-20,0/0,0,0,0,0,0,0,0,0,0,0
+RaShaun Allen,KC,L 34-42,0/0,0,0,0,0,0,0,0,0,0,0
 Justin Perillo,Min,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
 MyCole Pruitt*,KC,L 34-42,0/0,0,0,0,0,0,0,0,0,0,0
 Gerald Christian,@Phi,L 7-34,0/0,0,0,0,0,0,0,0,0,0,0
@@ -144,7 +174,7 @@ Ben Braunecker,Min,L 17-20,0/0,0,0,0,0,0,0,0,0,0,0
 Cole Wick,@Ind,L 23-26,0/0,0,0,0,0,0,0,0,0,0,0
 Matt LaCosse,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Erik Swoope*,SF,W 26-23,0/0,0,0,0,0,0,0,0,0,0,0
-Anthony Denham*,Ari,W 34-7,0/0,0,0,0,0,0,0,0,0,0,0
+Anthony Denham,Ari,W 34-7,0/0,0,0,0,0,0,0,0,0,0,0
 Bryce Williams,@Det,W 27-24,0/0,0,0,0,0,0,0,0,0,0,0
 Alan Cross,NE,L 14-19,0/0,0,0,0,0,0,0,0,0,0,0
 Braedon Bowman,@NYG,W 27-22,0/0,0,0,0,0,0,0,0,0,0,0
@@ -158,6 +188,16 @@ Jake Butt*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Mason Schreck*,Buf,W 20-16,0/0,0,0,0,0,0,0,0,0,0,0
 Jeremy Sprinkle,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Bucky Hodges*,@Chi,W 20-17,0/0,0,0,0,0,0,0,0,0,0,0
-Eric Saubert*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
-Henry Krieger-Coble,SF,W 26-23,--/--,--,--,--,--,--,--,--,--,--,--
+Eric Saubert,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Antony Auclair,NE,L 14-19,0/0,0,0,0,0,0,0,0,0,0,0
+Ricky Seals-Jones,@Phi,L 7-34,0/0,0,0,0,0,0,0,0,0,0,0
+Hakeem Valles,Car,L 24-27,0/0,0,0,0,0,0,0,0,0,0,0
+Cole Hikutini*,@Ind,L 23-26,0/0,0,0,0,0,0,0,0,0,0,0
+Sean Culkin,@NYG,W 27-22,0/0,0,0,0,0,0,0,0,0,0,0
+Cethan Carter,Buf,W 20-16,0/0,0,0,0,0,0,0,0,0,0,0
+Evan Baylis,KC,L 34-42,0/0,0,0,0,0,0,0,0,0,0,0
+Shane Smith,LAC,L 22-27,0/0,0,0,0,0,0,0,0,0,0,0
+Beau Brinkley,@Mia,L 10-16,--/--,--,--,--,--,--,--,--,--,--,--
+Kyle Nelson,@Ind,L 23-26,--/--,--,--,--,--,--,--,--,--,--,--
+Henry Krieger-Coble,Sea,L 10-16,--/--,--,--,--,--,--,--,--,--,--,--
 Austin Traylor,** BYE **,--/--,--,--,--,--,--,--,--,--,--,--

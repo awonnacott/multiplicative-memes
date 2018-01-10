@@ -35,7 +35,7 @@ def cbs(pos, week):
         header = [td.text.split(',')[0].replace(u'\xa0', u'') for td in rows[2]]
         data = []
         for i in range(pages[pos]):
-            contents = requests.get(url.format(i=50 * i)).content
+            contents = requests.get(url.format(i=40 * i)).content
             soup = BeautifulSoup(contents, "html.parser")
             rows = soup.find('table').find_all('tr')
             data += [[td.text.split(',')[0].split('D/ST')[0] for td in row] for row in rows[3:]]

@@ -39,6 +39,16 @@ Isaiah Crowell,Min,L 16-33,0/0,0,0,0,12.5,46.9,0.2,1.8,12.7,0,9.1
 Dion Lewis,LAC,W 21-13,0/0,0,0,0,11.2,52,0.3,0.8,5.9,0,8.9
 Giovani Bernard,Ind,W 24-23,0/0,0,0,0,4.9,20.4,0.2,2.6,25,0.1,8.5
 Marlon Mack,@Cin,L 23-24,0/0,0,0,0,7.3,29.7,0.2,2.1,15.9,0,8.1
+Austin Ekeler,@NE,L 13-21,0/0,0,0,0,4.4,18.3,0.1,2.6,22.3,0.1,7.6
+Thomas Rawls,Hou,W 41-38,0/0,0,0,0,9.1,39.6,0.2,1.2,9.8,0,7.5
+Eddie Lacy,Hou,W 41-38,0/0,0,0,0,9.6,41,0.2,0.7,6.1,0,6.8
+Mike Gillislee*,LAC,W 21-13,0/0,0,0,0,8.9,40.6,0.5,0,0,0,6.7
+Jamaal Charles*,@KC,L 19-29,0/0,0,0,0,7.3,38.2,0.1,1,8.9,0,6.7
+Matt Breida,@Phi,L 10-33,0/0,0,0,0,4.6,18.5,0.1,2,15.6,0,6.1
+Mike Tolbert,Oak,W 34-14,0/0,0,0,0,6.8,25.8,0.3,0.8,7.3,0,5.8
+D'Onta Foreman*,@Sea,L 38-41,0/0,0,0,0,7.9,34.3,0.1,0.7,5.3,0,5.4
+Devontae Booker,@KC,L 19-29,0/0,0,0,0,1.7,6.7,0,2.2,19.2,0.1,5.3
+J.D. McKissic,Hou,W 41-38,0/0,0,0,0,2.8,10.8,0.1,1.9,16,0.1,5.2
 Jeremy Hill*,Ind,W 24-23,0/0,0,0,0,5.7,23.3,0.2,0.7,6.3,0,5.1
 Charles Sims,Car,L 3-17,0/0,0,0,0,1.6,6.2,0,2.1,17.8,0.1,5.1
 Charcandrick West*,Den,W 29-19,0/0,0,0,0,2.3,8,0.1,1.6,12.6,0.1,4.7
@@ -79,6 +89,16 @@ Corey Grant,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Jordan Todman*,@Sea,L 38-41,0/0,0,0,0,0,0,0,0,0,0,0
 Shane Vereen,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Taiwan Jones*,Oak,W 34-14,0/0,0,0,0,0,0,0,0,0,0,0
+Steven Jackson,LAC,W 21-13,0/0,0,0,0,0,0,0,0,0,0,0
+Darren Sproles*,SF,W 33-10,0/0,0,0,0,0,0,0,0,0,0,0
+John Kuhn*,Chi,W 20-12,0/0,0,0,0,0,0,0,0,0,0,0
+Reggie Bush,Oak,W 34-14,0/0,0,0,0,0,0,0,0,0,0,0
+DeAngelo Williams,@Det,W 20-15,0/0,0,0,0,0,0,0,0,0,0,0
+Fred Jackson,Hou,W 41-38,0/0,0,0,0,0,0,0,0,0,0,0
+Adrian Peterson*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Marshawn Lynch,@Buf,L 14-34,0/0,0,0,0,0,0,0,0,0,0,0
+Ahmad Bradshaw,@Cin,L 23-24,0/0,0,0,0,0,0,0,0,0,0,0
+Pierre Thomas,Dal,L 19-33,0/0,0,0,0,0,0,0,0,0,0,0
 Darren McFadden,@Wsh,W 33-19,0/0,0,0,0,0,0,0,0,0,0,0
 Chris Johnson,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Jerome Felton,Oak,W 34-14,0/0,0,0,0,0,0,0,0,0,0,0
@@ -94,7 +114,7 @@ Cedric Peerman*,Ind,W 24-23,0/0,0,0,0,0,0,0,0,0,0,0
 Marcus Thigpen,Oak,W 34-14,0/0,0,0,0,0,0,0,0,0,0,0
 Darrel Young,@TB,W 17-3,0/0,0,0,0,0,0,0,0,0,0,0
 Antone Smith,Car,L 3-17,0/0,0,0,0,0,0,0,0,0,0,0
-C.J. Spiller*,Den,W 29-19,0/0,0,0,0,0,0,0,0,0,0,0
+C.J. Spiller,Den,W 29-19,0/0,0,0,0,0,0,0,0,0,0,0
 Ryan Mathews,SF,W 33-10,0/0,0,0,0,0,0,0,0,0,0,0
 Dexter McCluster,@NE,L 13-21,0/0,0,0,0,0,0,0,0,0,0,0
 Ben Tate,@Det,W 20-15,0/0,0,0,0,0,0,0,0,0,0,0
@@ -119,9 +139,19 @@ Trent Richardson,Mia,W 40-0,0/0,0,0,0,0,0,0,0,0,0,0
 Isaiah Pead*,@Bal,L 0-40,0/0,0,0,0,0,0,0,0,0,0,0
 Chris Polk,@Sea,L 38-41,0/0,0,0,0,0,0,0,0,0,0,0
 LaMike James,@Bal,L 0-40,0/0,0,0,0,0,0,0,0,0,0,0
+Bernard Pierce,@KC,L 19-29,0/0,0,0,0,0,0,0,0,0,0,0
+Robert Turbin*,@Cin,L 23-24,0/0,0,0,0,0,0,0,0,0,0,0
+Ronnie Hillman,@Wsh,W 33-19,0/0,0,0,0,0,0,0,0,0,0,0
+Cyrus Gray,@NYJ,W 25-20,0/0,0,0,0,0,0,0,0,0,0,0
+Vick Ballard,Chi,W 20-12,0/0,0,0,0,0,0,0,0,0,0,0
+Daniel Herron,Oak,W 34-14,0/0,0,0,0,0,0,0,0,0,0,0
+Bryce Brown,Hou,W 41-38,0/0,0,0,0,0,0,0,0,0,0,0
+Daryl Richardson,@Cin,L 23-24,0/0,0,0,0,0,0,0,0,0,0,0
+Cory Harkey,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Joe Banyard,Oak,W 34-14,0/0,0,0,0,0,0,0,0,0,0,0
 Derrick Coleman,@NYJ,W 25-20,0/0,0,0,0,0,0,0,0,0,0,0
 Jonas Gray,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
-Lance Dunbar*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Lance Dunbar,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Travaris Cadet*,Oak,W 34-14,0/0,0,0,0,0,0,0,0,0,0,0
 Brandon Bolden,LAC,W 21-13,0/0,0,0,0,0,0,0,0,0,0,0
 Jonathan Grimes,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
@@ -159,6 +189,16 @@ Branden Oliver,@NE,L 13-21,0/0,0,0,0,0,0,0,0,0,0,0
 Antonio Andrews,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Darrin Reaves,Den,W 29-19,0/0,0,0,0,0,0,0,0,0,0,0
 Silas Redd,Dal,L 19-33,0/0,0,0,0,0,0,0,0,0,0,0
+Ryan Hewitt,Ind,W 24-23,0/0,0,0,0,0,0,0,0,0,0,0
+Trey Watts,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Austin Johnson,Car,L 3-17,0/0,0,0,0,0,0,0,0,0,0,0
+Jay Prosch,@Sea,L 38-41,0/0,0,0,0,0,0,0,0,0,0,0
+Orleans Darkwa,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Senorise Perry,@Bal,L 0-40,0/0,0,0,0,0,0,0,0,0,0,0
+Glenn Winston,Min,L 16-33,0/0,0,0,0,0,0,0,0,0,0,0
+Fitzgerald Toussaint,@Det,W 20-15,0/0,0,0,0,0,0,0,0,0,0,0
+Roosevelt Nix,@Det,W 20-15,0/0,0,0,0,0,0,0,0,0,0,0
+David Johnson*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Marcus Murphy,Oak,W 34-14,0/0,0,0,0,0,0,0,0,0,0,0
 Jeremy Langford,Mia,W 40-0,0/0,0,0,0,0,0,0,0,0,0,0
 Jalston Fowler,Hou,W 41-38,0/0,0,0,0,0,0,0,0,0,0,0
@@ -171,13 +211,13 @@ Kenny Hilliard,Dal,L 19-33,0/0,0,0,0,0,0,0,0,0,0,0
 Josh Robinson,@Cin,L 23-24,0/0,0,0,0,0,0,0,0,0,0,0
 Aaron Ripkowski,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Tyler Varga,@Cin,L 23-24,0/0,0,0,0,0,0,0,0,0,0,0
-T.J. Yeldon,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+T.J. Yeldon*,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Todd Gurley II,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
 Matt Jones,@Cin,L 23-24,0/0,0,0,0,0,0,0,0,0,0,0
 Mike Davis,Hou,W 41-38,0/0,0,0,0,0,0,0,0,0,0,0
 Michael Dyer,@Buf,L 14-34,0/0,0,0,0,0,0,0,0,0,0,0
 John Crockett,Mia,W 40-0,0/0,0,0,0,0,0,0,0,0,0,0
-Terrence Magee*,@NYJ,W 25-20,0/0,0,0,0,0,0,0,0,0,0,0
+Terrence Magee,@NYJ,W 25-20,0/0,0,0,0,0,0,0,0,0,0,0
 Gus Johnson,@NE,L 13-21,0/0,0,0,0,0,0,0,0,0,0,0
 Zach Zenner,Pit,L 15-20,0/0,0,0,0,0,0,0,0,0,0,0
 Malcolm Brown,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
@@ -199,6 +239,16 @@ Darius Jackson*,Min,L 16-33,0/0,0,0,0,0,0,0,0,0,0,0
 Daniel Lasco*,Chi,W 20-12,0/0,0,0,0,0,0,0,0,0,0,0
 Keith Marshall*,Dal,L 19-33,0/0,0,0,0,0,0,0,0,0,0,0
 Zac Brooks,Hou,W 41-38,0/0,0,0,0,0,0,0,0,0,0,0
+Brandon Wilds*,Min,L 16-33,0/0,0,0,0,0,0,0,0,0,0,0
+Jhurell Pressley,@NYJ,W 25-20,0/0,0,0,0,0,0,0,0,0,0,0
+Byron Marshall*,Dal,L 19-33,0/0,0,0,0,0,0,0,0,0,0,0
+George Atkinson III,Den,W 29-19,0/0,0,0,0,0,0,0,0,0,0,0
+James Wilder Jr.,Oak,W 34-14,0/0,0,0,0,0,0,0,0,0,0,0
+D.J. Foster,** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+Dreamius Smith,@NE,L 13-21,0/0,0,0,0,0,0,0,0,0,0,0
+Devon Johnson,@TB,W 17-3,0/0,0,0,0,0,0,0,0,0,0,0
+Troymaine Pope,@Sea,L 38-41,0/0,0,0,0,0,0,0,0,0,0,0
+Glenn Gronkowski,LAC,W 21-13,0/0,0,0,0,0,0,0,0,0,0,0
 Julian Howsare,Atl,L 20-25,0/0,0,0,0,0,0,0,0,0,0,0
 Kenneth Farrow*,@NE,L 13-21,0/0,0,0,0,0,0,0,0,0,0,0
 Paul Lasike,@NO,L 12-20,0/0,0,0,0,0,0,0,0,0,0,0
