@@ -2,10 +2,11 @@
 
 from clean_data import clean, experts, positions, num_weeks, points_weights
 
-cost_scalars = {"QB": 0.004, "RB": 0.002, "WR": 0.0015, "TE": 0.004}
-eta = 0.3
+eta = 0.5
+max_week_1_cost = 0.8
 
 total_cost = 0
+cost_scalars = {"QB": 0, "RB": 0, "WR": 0, "TE": 0}
 for pos in positions:
     print("Position:", pos)
     weights = {expert: 1.0 / len(experts) for expert in experts}
@@ -29,9 +30,14 @@ for pos in positions:
                 costs[expert] += abs(expert_score - true_score)
             guess /= weight_sum
             weekly_cost += abs(guess - true_score)
+        if week == 1:
+            cost_scalars[pos] = max_week_1_cost/max(costs[expert] for expert in experts)
         for expert in experts:
             costs[expert] *= cost_scalars[pos]
             weights[expert] *= 1 - eta * costs[expert]
+            if weights[expert] <= 0:
+                print("Error: weight not positive.")
+                exit(1)
         print("Costs:", costs, weekly_cost)
         position_cost += weekly_cost
     print "Total position cost:", position_cost
