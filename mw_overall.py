@@ -4,7 +4,7 @@ from clean_data import clean, experts, positions, num_weeks, points_weights
 import math
 
 eta = (math.log(len(experts))/num_weeks)**.5
-margin = 1.3
+margin = 1.4
 
 players = set()
 
