@@ -3,7 +3,7 @@
 import csv
 
 experts = ["espn", "nfl", "fftoday", "cbs", "fantasydata", "fantasyalarm", "yahoo"]
-#experts = ["fantasyalarm", "espn"]
+#experts = ["espn"]
 positions = ["QB", "RB", "WR", "TE"]
 num_weeks = 17
 points_weights = [.04, 4, -2, .1, 6, .1, 6]

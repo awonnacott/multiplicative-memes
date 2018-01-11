@@ -4,6 +4,7 @@ from clean_data import clean, experts, positions, num_weeks, points_weights
 import math
 
 eta = (math.log(len(experts))/num_weeks)**.5
+#eta = 0
 margin = 1.3
 
 players = set()
@@ -17,6 +18,8 @@ for week in range(1, num_weeks + 1):
     print("Week:", week)
     print("Weights:", weights)
     weight_sum = sum(weights[expert] for expert in experts)
+    if week == 17 and "nfl" in weights:
+        weight_sum -= weights["nfl"]
     weekly_cost = 0
     costs = {expert: 0 for expert in experts}
     for pos in positions:
@@ -31,11 +34,12 @@ for week in range(1, num_weeks + 1):
             guess = 0
             true_score = sum(value * weight for value, weight in zip(true_values[player], points_weights))
             for expert in experts:
-                expert_score = 0
-                if player in predictions[expert]:
-                    expert_score += sum(value * weight for value, weight in zip(predictions[expert][player], points_weights))
-                guess += expert_score * weights[expert]
-                costs[expert] += abs(expert_score - true_score)
+                if not(week == 17 and expert == "nfl"):
+                    expert_score = 0
+                    if player in predictions[expert]:
+                        expert_score += sum(value * weight for value, weight in zip(predictions[expert][player], points_weights))
+                    guess += expert_score * weights[expert]
+                    costs[expert] += abs(expert_score - true_score)
             guess /= weight_sum
             weekly_cost += abs(guess - true_score)
     if week == 1:

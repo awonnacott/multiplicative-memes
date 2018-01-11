@@ -18,7 +18,7 @@ for pos in positions:
         print("Week:", week)
         print("Weights:", weights)
         weight_sum = sum(weights[expert] for expert in experts)
-        if week == 17:
+        if week == 17 and "nfl" in weights:
             weight_sum -= weights["nfl"]
         weekly_cost = 0
         costs = {expert: 0 for expert in experts}
