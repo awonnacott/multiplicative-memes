@@ -33,7 +33,7 @@ def cbs(pos, week):
         header = [td.text.rstrip().replace(u'\xa0', u'') for td in table.find('thead').find_all('tr')[1].find_all('th')]
         data = []
         for i in range(pages[pos]):
-            contents = requests.get(url.format(i=25*i+1)).content
+            contents = requests.get(url.format(i=25 * i + 1)).content
             soup = BeautifulSoup(contents, "html.parser")
             table = soup.find('table')
             data += [[td.text.rstrip().replace(u'\xa0', u'') for td in row.find_all('td')] for row in table.find('tbody').find_all('tr')]

@@ -3,13 +3,13 @@
 from clean_data import clean, experts, positions, num_weeks, points_weights
 import math
 
-eta = (math.log(len(experts))/num_weeks)**.5
+eta = (math.log(len(experts)) / num_weeks) ** 0.5
 margin = 1.3
 
 total_cost = 0
 cost_scalars = {"QB": 0, "RB": 0, "WR": 0, "TE": 0}
 cost_constants = {"QB": 0, "RB": 0, "WR": 0, "TE": 0}
-print "eta: ", eta
+print("eta: ", eta)
 for pos in positions:
     print("Position:", pos)
     weights = {expert: 1.0 / len(experts) for expert in experts}
@@ -36,8 +36,6 @@ for pos in positions:
                     costs[expert] += abs(expert_score - true_score)
             guess /= weight_sum
             weekly_cost += abs(guess - true_score)
-            #if week == 17:
-                #print player+","+str(abs(guess - true_score))
         if week == 1:
             min_cost = min(costs[expert] for expert in experts)
             max_cost = max(costs[expert] for expert in experts)
@@ -51,6 +49,6 @@ for pos in positions:
                 exit(1)
         print("Costs:", costs, weekly_cost)
         position_cost += weekly_cost
-    print "Total position cost:", position_cost
+    print("Total position cost:", position_cost)
     total_cost += position_cost
-print "Total cost: ", total_cost
+print("Total cost: ", total_cost)

@@ -44,5 +44,4 @@ for pos in positions:
                 weights[expert] *= 1 - eta * costs[expert]
             print("Costs:", costs, weekly_cost)
             cost += weekly_cost
-        # print(max_cost)
-        print "Stat cost: ", cost
+        print("Stat cost: ", cost)

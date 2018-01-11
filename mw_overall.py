@@ -3,8 +3,7 @@
 from clean_data import clean, experts, positions, num_weeks, points_weights
 import math
 
-eta = (math.log(len(experts))/num_weeks)**.5
-#eta = 0
+eta = (math.log(len(experts)) / num_weeks) ** 0.5
 margin = 1.3
 
 players = set()
@@ -13,7 +12,7 @@ weights = {expert: 1.0 / len(experts) for expert in experts}
 cost = 0
 cost_scalar = 0
 cost_constant = 0
-print "eta: ", eta
+print("eta: ", eta)
 for week in range(1, num_weeks + 1):
     print("Week:", week)
     print("Weights:", weights)
@@ -45,10 +44,10 @@ for week in range(1, num_weeks + 1):
     if week == 1:
         min_cost = min(costs[expert] for expert in experts)
         max_cost = max(costs[expert] for expert in experts)
-        cost_scalar = 2/(max_cost*margin - min_cost/margin)
-        cost_constant = 1 - cost_scalar*max_cost*margin
+        cost_scalar = 2 / (max_cost * margin - min_cost / margin)
+        cost_constant = 1 - cost_scalar * max_cost * margin
     for expert in experts:
-        costs[expert] = cost_scalar*costs[expert] + cost_constant
+        costs[expert] = cost_scalar * costs[expert] + cost_constant
         weights[expert] *= 1 - eta * costs[expert]
         if weights[expert] <= 0:
             print("Error: weight not positive.")
@@ -58,5 +57,3 @@ for week in range(1, num_weeks + 1):
 
 if __name__ == '__main__':
     print("Total cost:", cost)
-    #for player in sorted(players):
-        #print(player)
