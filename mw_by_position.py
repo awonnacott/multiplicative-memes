@@ -4,7 +4,7 @@ from clean_data import clean, experts, positions, num_weeks, points_weights
 import math
 
 eta = (math.log(len(experts))/num_weeks)**.5
-margin = 1.4
+margin = 1.3
 
 total_cost = 0
 cost_scalars = {"QB": 0, "RB": 0, "WR": 0, "TE": 0}
@@ -18,6 +18,8 @@ for pos in positions:
         print("Week:", week)
         print("Weights:", weights)
         weight_sum = sum(weights[expert] for expert in experts)
+        if week == 17:
+            weight_sum -= weights["nfl"]
         weekly_cost = 0
         costs = {expert: 0 for expert in experts}
         true_values = clean(pos, str(week), "truevalues")
@@ -26,13 +28,16 @@ for pos in positions:
             guess = 0
             true_score = sum(value * weight for value, weight in zip(true_values[player], points_weights))
             for expert in experts:
-                expert_score = 0
-                if player in predictions[expert]:
-                    expert_score += sum(value * weight for value, weight in zip(predictions[expert][player], points_weights))
-                guess += expert_score * weights[expert]
-                costs[expert] += abs(expert_score - true_score)
+                if not(week == 17 and expert == "nfl"):
+                    expert_score = 0
+                    if player in predictions[expert]:
+                        expert_score += sum(value * weight for value, weight in zip(predictions[expert][player], points_weights))
+                    guess += expert_score * weights[expert]
+                    costs[expert] += abs(expert_score - true_score)
             guess /= weight_sum
             weekly_cost += abs(guess - true_score)
+            #if week == 17:
+                #print player+","+str(abs(guess - true_score))
         if week == 1:
             min_cost = min(costs[expert] for expert in experts)
             max_cost = max(costs[expert] for expert in experts)
