@@ -1,0 +1,52 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+
+\title{Algorithms Final Project Proposal \#2}
+\author{
+    Dylan  Mavrides  (\texttt{mavrides}),
+    Eric   Neyman    (\texttt{eneyman}),
+    Andrew Wonnacott (\texttt{ajw4})
+    }
+\date{1/3/2018}
+
+\begin{document}
+
+\maketitle
+
+We have chosen fantasy football as the domain for our project. We have obtained week-by-week projections from ESPN, CBS, NFL, and FFToday, and plan to use several more experts. The best way to describe our data is as follows:
+
+For each source:
+
+\quad For each week of play in 2017\footnote{Unfortunately we were unable to reliably locate websites' predictions for previous years.}:
+
+\quad \quad For each offense position (quarterback, running back, wide receiver, tight end):
+
+\quad \quad \quad For each player with that position:
+
+\quad \quad \quad \quad For each statistic that goes into calculating fantasy points for players of that position:\footnote{Unfortunately the websites are not very thorough and leave off predictions for some (less important) statistics. We can treat these as miscellaneous, and know what they add up to because the websites also predict overall fantasy points for each player.}
+
+\quad \quad \quad \quad \quad A projection for that statistic.
+
+There are several choices we need to make for our multiplicative weights algorithm (we may try different settings and see whether some work convincingly better than others).
+
+\begin{itemize}
+    \item Is it better to use multiplicative weights on each statistic separately, or just on the overall fantasy points? The former is substantially better if some websites are better than others at certain statistics and other websites are better at other statistics. The latter is probably better if some websites are just globally better than others. There is a middle ground, which is to run multiplicative weights on each \emph{position} separately, but not separate across each statistic within the positions.
+    \item Our algorithm will resolve many events (all of the events in a given week) at the same time, instead of just one. That is, instead of updating weights each time we find out the results (statistics or fantasy points) for a specific player, we will update weights once at the end of each week. This means that we will need some sort of aggregate cost function that takes into account all of the players. This involves doing two things:
+    \begin{itemize}
+        \item First, we need to figure out cost functions for each player. This is probably straightforward: the absolute difference between the projected points and actual points scored. (Or, if running separately on each statistic, the absolute difference between projected statistic and actual statistic.) But maybe something like squared difference works better.
+        \item Second, we need to aggregate these cost functions across all players. This is probably best done with a sum and normalized to be between $0$ and $1$.
+    \end{itemize}
+    \item We need to determine what value of $\eta$ to use (we can test this experimentally).
+\end{itemize}
+
+An important experimental design question: since we likely won't have data from years other than $2017$, should we set some weeks aside to test our multiplicative weights algorithm on after seeing which parameters (see above) work best on our training data? This is not necessarily the right thing to do: if we split the weeks into $9$ training weeks and $9$ testing weeks, that's very few weeks to run the algorithm on (not many weeks based on which to update weights).
+
+Another thing we will have to deal with is mistakes in the data. For example, the week $10$ CBS projections give Jay Cutler and Cam Newton $0$ points, despite predicting on the order of $200$ yards and one touchdown (and a negligible number of negative points). We should probably run a script to highlight rows in the data where the sum of points from various statistics does not resemble to predicted number of overall fantasy points.
+
+There are also some theoretical questions related to the project that we may want to consider:
+\begin{itemize}
+    \item In a simplified model of fantasy football, each week you select nine players, and get points equal to the sum of the players' points.\footnote{You also pick a team and get rewarded for the team having good defense.} Suppose that you are playing with a hundred other people and your goal is to win, not to maximize the number of points (say, the winner gets a thousand dollars). How should you alter your strategy? (You can view the experts as predicting correlated random variables. It may make sense to place a bet on a certain set of those correlated random variables being exceptionally high, rather than picking the nine uncorrelated random variables with the highest mean.) Perhaps an appropriate model is: there are some normally distributed random variables, which are correlated in some way. Each of the hundred other people pick nine of those random variables and are more likely to pick random variables with higher means. Which random variables should you pick to maximize the probability that the sum of your random variables is greater than all hundred other sums?
+    \item The question of whether running separate algorithms on each statistic or one algorithm on everything or something in the middle can be approached theoretically. We can model the cost of each expert's prediction for each statistic as a random variable with some distribution, and ask which model the multiplicative weights algorithm would do better on. This seems messy to approach completely theoretically; perhaps running simulations would help answer this question.
+\end{itemize}
+\end{document}

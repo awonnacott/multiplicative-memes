@@ -1,0 +1,42 @@
+\documentclass{pset}
+\usepackage[utf8]{inputenc}
+
+\title{Algorithms Final Project Proposal}
+\author{
+    Dylan  Mavrides  (\texttt{mavrides}),
+    Eric   Neyman    (\texttt{eneyman}),
+    Andrew Wonnacott (\texttt{ajw4})
+    }
+\date{11/30/2017}
+
+\begin{document}
+
+\maketitle
+
+Our project's purpose is to implement and test the effectiveness of the multiplicative weights algorithm with real-world data. There are many settings in which experts make predictions: fantasy sports, the weather, and politics, among others. It is well-known that taking an expert average or consensus is a good predictive tool, but this approach has a lot of flexibility. How do we decide who the best experts are? How much more should we weight the experts with the best records relative to mediocre experts? One approach to deciding the expert consensus is to use the multiplicative weights algorithm discussed in class. But if we are dealing with real-world data, there are many questions we will have to answer; for example, what if an expert does not make a prediction on a given day? And of course we need to decide on which domain to use.
+
+We intend to decide on at least one implement the multiplicative weights algorithm or a variant of it, 
+
+We have not yet decided a data set, but some possibilities include:
+\begin{itemize}
+\item Fantasy sports e.g. march madness
+\item Weather predictions
+\end{itemize}
+
+There are likely to be some barriers in implementing our algorithm that will force our implementation to differ from the exact algorithm given in class. 
+
+For instance, if we use fantasy sports data and have access to the predictions made by different users, we think it likely that not all users will make all possible predictions for all possible teams/games/etc. In this case, we will need to consider questions like "what if each expert only gives a prediction at some of the time steps?" We may simply want to not update their weight for the time steps during which they don't submit a prediction, or we may need some kind of variable or penalty to account for the fact that we've obtained less information from them than others.
+
+Similarly, since fantasy sports often have lots of potential variables (i.e. yards, goals, etc.) that contribute to meta-variables, like teams winning - we will have to decide how much of the data we want to use, or how to weigh different variables, if we are trying to make one prediction - like which team will win - as a function of all predictions made.
+
+If instead we decide to use something more similar to weather predictions, then the data will be different from that of the model given in class. These types of predictions are when the experts give a probability distribution over potential outcomes. Potential solutions include making the costs proportional to the probabilities, or penalizing them with probability equal to the chance they were wrong.
+
+An idealistic model of data regarding human predictors would suggest that some humans are capable of learning.
+Multiplicative weights will tend to favor those experts who are consistently strong in the limit case.
+However, given finite data, we may explore potential optimizations based on the hypothesis that some experts will become more accurate over time.
+
+Two practical concerns likely of limited theoretical interest include the tuning of the hyperparameters such as \(\eta\) and the acquisition of data.
+Ideally, we will be able to find data in an easy-to-load format, but we are equipped to use web scraping tools if we decide to use data not available for download, such as weather prediction data (which could be scraped live over the duration of our project for evaluation at the end).
+If we find that our code does not terminate given the number of `experts' provided, for instance in the case where the experts fantasy football players (of which there are many), we will also experiment with running our algorithm using uniformly random samples of experts repeatedly in parallel and evaluating the quality of the resultant predictors.
+
+\end{document}
